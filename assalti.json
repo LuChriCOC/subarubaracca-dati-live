@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 345657,
-     "raid": 3,
-     "attacchi": 83,
-     "distretti": 32,
-     "player": 14
+     "oro": 443105,
+     "raid": 4,
+     "attacchi": 110,
+     "distretti": 40,
+     "player": 19
     },
     {
      "nome": "LJMT",
@@ -69,6 +69,16 @@
      "oro": 28055
     },
     {
+     "nome": "THE KRAKEN3",
+     "tag": "#GC9QQV9CV",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 26800
+    },
+    {
      "nome": "Don Arox",
      "tag": "#2QQ90QU2C",
      "in": [
@@ -109,6 +119,16 @@
      "oro": 23155
     },
     {
+     "nome": "Spidey$",
+     "tag": "#GY00QVQQY",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 22706
+    },
+    {
      "nome": "and66nav",
      "tag": "#QJG9URP8G",
      "in": [
@@ -139,6 +159,16 @@
      "oro": 21143
     },
     {
+     "nome": "THE KRAKEN2",
+     "tag": "#QGQYR999P",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 20963
+    },
+    {
      "nome": "Temistocle25",
      "tag": "#8CVG2UJC",
      "in": [
@@ -147,6 +177,16 @@
      "att": 6,
      "lim": 6,
      "oro": 20620
+    },
+    {
+     "nome": "THE KRAKEN",
+     "tag": "#9JV82UV8",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 20160
     },
     {
      "nome": "Broccolo FF",
@@ -167,6 +207,16 @@
      "att": 5,
      "lim": 6,
      "oro": 17494
+    },
+    {
+     "nome": "PIER",
+     "tag": "#UUGJP0RL",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 3,
+     "lim": 6,
+     "oro": 6819
     }
    ],
    "assenti": [
@@ -267,10 +317,6 @@
      "tag": "#9VVV0VP"
     },
     {
-     "nome": "PIER",
-     "tag": "#UUGJP0RL"
-    },
-    {
      "nome": "Pierone11",
      "tag": "#LQ2VVG8J"
     },
@@ -287,10 +333,6 @@
      "tag": "#80CPYL90Y"
     },
     {
-     "nome": "Spidey$",
-     "tag": "#GY00QVQQY"
-    },
-    {
      "nome": "TEAM Γ GAMMA",
      "tag": "#89QVG80GU"
     },
@@ -305,14 +347,6 @@
     {
      "nome": "Tenebra",
      "tag": "#QGU8VVU0"
-    },
-    {
-     "nome": "THE KRAKEN",
-     "tag": "#9JV82UV8"
-    },
-    {
-     "nome": "THE KRAKEN2",
-     "tag": "#QGQYR999P"
     }
    ]
   },

@@ -259,9 +259,14 @@
     "trofei": 452,
     "clan": "I Subarubaracca"
    },
+   "PIER": {
+    "lega": "Legend II",
+    "trofei": 341,
+    "clan": "I Subarubaracca"
+   },
    "Andrif94": {
     "lega": "Legend II",
-    "trofei": 145,
+    "trofei": 153,
     "clan": "I Subarubaracca"
    },
    "Damiano": {
@@ -277,6 +282,11 @@
    "Tenebra": {
     "lega": "Legend III",
     "trofei": 1062,
+    "clan": "I Subarubaracca"
+   },
+   "mementomori": {
+    "lega": "Legend III",
+    "trofei": 846,
     "clan": "I Subarubaracca"
    },
    "poa": {
@@ -369,19 +379,9 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
-   "PIER": {
-    "lega": "Legend II",
-    "trofei": 310,
-    "clan": "LJMT"
-   },
    "Mast3rPlay": {
     "lega": "Legend III",
     "trofei": 883,
-    "clan": "LJMT"
-   },
-   "mementomori": {
-    "lega": "Legend III",
-    "trofei": 846,
     "clan": "LJMT"
    },
    "Don Arox": {
@@ -392,11 +392,6 @@
    "Andrea": {
     "lega": "Legend III",
     "trofei": 612,
-    "clan": "LJMT"
-   },
-   "zelda": {
-    "lega": "Legend III",
-    "trofei": 527,
     "clan": "LJMT"
    },
    "bupalo2": {
