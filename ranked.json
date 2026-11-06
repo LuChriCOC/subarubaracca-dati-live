@@ -276,12 +276,7 @@
    },
    "Tenebra": {
     "lega": "Legend III",
-    "trofei": 1053,
-    "clan": "I Subarubaracca"
-   },
-   "Andrea ? ? ? ?": {
-    "lega": "Legend III",
-    "trofei": 998,
+    "trofei": 1062,
     "clan": "I Subarubaracca"
    },
    "poa": {
@@ -297,11 +292,6 @@
    "LoRyXD16": {
     "lega": "Legend III",
     "trofei": 238,
-    "clan": "I Subarubaracca"
-   },
-   "AtTiTuDePrObLeM": {
-    "lega": "Legend III",
-    "trofei": 135,
     "clan": "I Subarubaracca"
    },
    "Cinghiale_32": {
@@ -331,7 +321,7 @@
    },
    "danny": {
     "lega": "Electro 33",
-    "trofei": 93,
+    "trofei": 136,
     "clan": "I Subarubaracca"
    },
    "PigsKing32": {
@@ -356,7 +346,7 @@
    },
    "TEAM Γ GAMMA": {
     "lega": "Dragon 29",
-    "trofei": 108,
+    "trofei": 129,
     "clan": "I Subarubaracca"
    },
    "GINOPECORINO": {
@@ -386,7 +376,7 @@
    },
    "Mast3rPlay": {
     "lega": "Legend III",
-    "trofei": 865,
+    "trofei": 883,
     "clan": "LJMT"
    },
    "mementomori": {
@@ -396,17 +386,17 @@
    },
    "Don Arox": {
     "lega": "Legend III",
-    "trofei": 732,
+    "trofei": 772,
     "clan": "LJMT"
    },
    "Andrea": {
     "lega": "Legend III",
-    "trofei": 596,
+    "trofei": 612,
     "clan": "LJMT"
    },
    "zelda": {
     "lega": "Legend III",
-    "trofei": 517,
+    "trofei": 527,
     "clan": "LJMT"
    },
    "bupalo2": {
@@ -417,6 +407,11 @@
    "PetoKappa": {
     "lega": "Legend III",
     "trofei": 167,
+    "clan": "LJMT"
+   },
+   "AtTiTuDePrObLeM": {
+    "lega": "Legend III",
+    "trofei": 135,
     "clan": "LJMT"
    },
    "MaChri": {
@@ -434,14 +429,14 @@
     "trofei": 248,
     "clan": "LJMT"
    },
+   "bupalo": {
+    "lega": "Electro 33",
+    "trofei": 227,
+    "clan": "LJMT"
+   },
    "Luma": {
     "lega": "Electro 33",
     "trofei": 220,
-    "clan": "LJMT"
-   },
-   "bupalo": {
-    "lega": "Electro 33",
-    "trofei": 212,
     "clan": "LJMT"
    },
    "Andrif94 II": {
@@ -461,7 +456,7 @@
    },
    "michele10": {
     "lega": "P.E.K.K.A 24",
-    "trofei": 396,
+    "trofei": 423,
     "clan": "LJMT"
    },
    "Temistocle25": {
