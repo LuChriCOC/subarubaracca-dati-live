@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 540676,
+     "oro": 564417,
      "raid": 5,
-     "attacchi": 135,
-     "distretti": 48,
-     "player": 24
+     "attacchi": 141,
+     "distretti": 50,
+     "player": 25
     },
     {
      "nome": "LJMT",
@@ -127,6 +127,16 @@
      "att": 6,
      "lim": 6,
      "oro": 23777
+    },
+    {
+     "nome": "Petos",
+     "tag": "#9VVV0VP",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 23741
     },
     {
      "nome": "AtTiTuDePrObLeM",
@@ -343,16 +353,8 @@
      "tag": "#82808RUU"
     },
     {
-     "nome": "PetoKappa",
-     "tag": "#GRJ90UY2U"
-    },
-    {
      "nome": "Petonella",
      "tag": "#GUQYVLPVU"
-    },
-    {
-     "nome": "Petos",
-     "tag": "#9VVV0VP"
     },
     {
      "nome": "Pierone11",
