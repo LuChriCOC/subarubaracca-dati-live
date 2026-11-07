@@ -12,16 +12,16 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 443105,
-     "raid": 4,
-     "attacchi": 110,
-     "distretti": 40,
-     "player": 19
+     "oro": 540676,
+     "raid": 5,
+     "attacchi": 135,
+     "distretti": 48,
+     "player": 24
     },
     {
      "nome": "LJMT",
      "oro": 0,
-     "raid": 0,
+     "raid": 1,
      "attacchi": 0,
      "distretti": 0,
      "player": 0
@@ -99,6 +99,26 @@
      "oro": 25286
     },
     {
+     "nome": "poa",
+     "tag": "#9QJJJ0URU",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 24954
+    },
+    {
+     "nome": "Alby_38",
+     "tag": "#PGV0VJ9C9",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 24557
+    },
+    {
      "nome": "zelda",
      "tag": "#2JRC9Y9LP",
      "in": [
@@ -137,6 +157,16 @@
      "att": 6,
      "lim": 6,
      "oro": 22319
+    },
+    {
+     "nome": "⚔️Trouble-2⚔️",
+     "tag": "#GQ08LJYC2",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 22204
     },
     {
      "nome": "bupalo",
@@ -189,6 +219,16 @@
      "oro": 20160
     },
     {
+     "nome": "il Greco",
+     "tag": "#9YU8Q92GL",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 19974
+    },
+    {
      "nome": "Broccolo FF",
      "tag": "#LRC22VRP",
      "in": [
@@ -199,14 +239,24 @@
      "oro": 19963
     },
     {
-     "nome": "⚔️Trouble-2⚔️",
-     "tag": "#GQ08LJYC2",
+     "nome": "Beast",
+     "tag": "#Q2JCV890C",
      "in": [
       "I Subarubaracca"
      ],
-     "att": 5,
+     "att": 3,
      "lim": 6,
-     "oro": 17494
+     "oro": 11781
+    },
+    {
+     "nome": "Luma",
+     "tag": "#Q9JPRL9GQ",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 3,
+     "lim": 6,
+     "oro": 11595
     },
     {
      "nome": "PIER",
@@ -241,10 +291,6 @@
      "tag": "#GLVUJ99QG"
     },
     {
-     "nome": "Beast",
-     "tag": "#Q2JCV890C"
-    },
-    {
      "nome": "BH⚔️ClashLegend",
      "tag": "#G00LQVU0C"
     },
@@ -273,16 +319,8 @@
      "tag": "#QV222JJVP"
     },
     {
-     "nome": "il Greco",
-     "tag": "#9YU8Q92GL"
-    },
-    {
      "nome": "LoRyXD16",
      "tag": "#8GV2CCU2V"
-    },
-    {
-     "nome": "Luma",
-     "tag": "#Q9JPRL9GQ"
     },
     {
      "nome": "Luma-3",
@@ -323,10 +361,6 @@
     {
      "nome": "PigsKing32",
      "tag": "#2C2UJQCC"
-    },
-    {
-     "nome": "poa",
-     "tag": "#9QJJJ0URU"
     },
     {
      "nome": "SAM",
