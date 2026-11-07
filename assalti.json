@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 564417,
-     "raid": 5,
-     "attacchi": 141,
-     "distretti": 50,
-     "player": 25
+     "oro": 651341,
+     "raid": 7,
+     "attacchi": 161,
+     "distretti": 58,
+     "player": 29
     },
     {
      "nome": "LJMT",
@@ -37,6 +37,16 @@
      "att": 6,
      "lim": 6,
      "oro": 35066
+    },
+    {
+     "nome": "PetoKappa",
+     "tag": "#GRJ90UY2U",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 34951
     },
     {
      "nome": "Lam75",
@@ -159,6 +169,16 @@
      "oro": 22706
     },
     {
+     "nome": "Petonella",
+     "tag": "#GUQYVLPVU",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 22597
+    },
+    {
      "nome": "and66nav",
      "tag": "#QJG9URP8G",
      "in": [
@@ -249,6 +269,16 @@
      "oro": 19963
     },
     {
+     "nome": "mementomori",
+     "tag": "#QQRQ9YGYQ",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 17749
+    },
+    {
      "nome": "Beast",
      "tag": "#Q2JCV890C",
      "in": [
@@ -257,6 +287,16 @@
      "att": 3,
      "lim": 6,
      "oro": 11781
+    },
+    {
+     "nome": "⚔️Trouble⚔️",
+     "tag": "#GLVLQ0U8C",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 2,
+     "lim": 6,
+     "oro": 11627
     },
     {
      "nome": "Luma",
@@ -345,16 +385,8 @@
      "tag": "#22088Y2Y8"
     },
     {
-     "nome": "mementomori",
-     "tag": "#QQRQ9YGYQ"
-    },
-    {
      "nome": "michele10",
      "tag": "#82808RUU"
-    },
-    {
-     "nome": "Petonella",
-     "tag": "#GUQYVLPVU"
     },
     {
      "nome": "Pierone11",

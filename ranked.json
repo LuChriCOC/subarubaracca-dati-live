@@ -294,6 +294,11 @@
     "trofei": 283,
     "clan": "I Subarubaracca"
    },
+   "PetoKappa": {
+    "lega": "Legend III",
+    "trofei": 221,
+    "clan": "I Subarubaracca"
+   },
    "Cinghiale_32": {
     "lega": "Legend III",
     "trofei": 142,
@@ -310,6 +315,11 @@
     "clan": "I Subarubaracca"
    },
    "Broccolo FF": {
+    "lega": "Legend III",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
+   "⚔️Trouble⚔️": {
     "lega": "Legend III",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -335,6 +345,11 @@
     "clan": "I Subarubaracca"
    },
    "PigsKing32": {
+    "lega": "Electro 33",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
+   "Andrif94 II": {
     "lega": "Electro 33",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -417,11 +432,6 @@
    "bupalo": {
     "lega": "Electro 33",
     "trofei": 758,
-    "clan": "LJMT"
-   },
-   "Andrif94 II": {
-    "lega": "Electro 33",
-    "trofei": 0,
     "clan": "LJMT"
    },
    "THE KRAKEN2": {
