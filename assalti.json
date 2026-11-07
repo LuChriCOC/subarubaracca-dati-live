@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 651341,
-     "raid": 7,
-     "attacchi": 161,
-     "distretti": 58,
-     "player": 29
+     "oro": 747554,
+     "raid": 8,
+     "attacchi": 183,
+     "distretti": 65,
+     "player": 33
     },
     {
      "nome": "LJMT",
@@ -79,6 +79,16 @@
      "oro": 28055
     },
     {
+     "nome": "Luma-2",
+     "tag": "#G98Q0C9UU",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 27350
+    },
+    {
      "nome": "THE KRAKEN3",
      "tag": "#GC9QQV9CV",
      "in": [
@@ -87,6 +97,16 @@
      "att": 6,
      "lim": 6,
      "oro": 26800
+    },
+    {
+     "nome": "Andrif94 II",
+     "tag": "#G2VULPRUV",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 25820
     },
     {
      "nome": "Don Arox",
@@ -157,6 +177,16 @@
      "att": 6,
      "lim": 6,
      "oro": 23155
+    },
+    {
+     "nome": "Andrif94",
+     "tag": "#YPG8VVPL",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 22853
     },
     {
      "nome": "Spidey$",
@@ -237,6 +267,16 @@
      "att": 6,
      "lim": 6,
      "oro": 20620
+    },
+    {
+     "nome": "Tenebra",
+     "tag": "#QGU8VVU0",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 4,
+     "lim": 6,
+     "oro": 20190
     },
     {
      "nome": "THE KRAKEN",
@@ -329,14 +369,6 @@
      "tag": "#RPPUJJGU"
     },
     {
-     "nome": "Andrif94",
-     "tag": "#YPG8VVPL"
-    },
-    {
-     "nome": "Andrif94 II",
-     "tag": "#G2VULPRUV"
-    },
-    {
      "nome": "Banned_Paul",
      "tag": "#GLVUJ99QG"
     },
@@ -411,10 +443,6 @@
     {
      "nome": "TEAM ★ ALPHA",
      "tag": "#GRRGQGPJ"
-    },
-    {
-     "nome": "Tenebra",
-     "tag": "#QGU8VVU0"
     }
    ]
   },

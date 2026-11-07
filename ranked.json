@@ -294,11 +294,6 @@
     "trofei": 283,
     "clan": "I Subarubaracca"
    },
-   "PetoKappa": {
-    "lega": "Legend III",
-    "trofei": 221,
-    "clan": "I Subarubaracca"
-   },
    "Cinghiale_32": {
     "lega": "Legend III",
     "trofei": 142,
@@ -336,20 +331,15 @@
    },
    "SAM": {
     "lega": "Electro 33",
-    "trofei": 180,
+    "trofei": 206,
     "clan": "I Subarubaracca"
    },
    "danny": {
     "lega": "Electro 33",
-    "trofei": 136,
+    "trofei": 147,
     "clan": "I Subarubaracca"
    },
    "PigsKing32": {
-    "lega": "Electro 33",
-    "trofei": 0,
-    "clan": "I Subarubaracca"
-   },
-   "Andrif94 II": {
     "lega": "Electro 33",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -366,7 +356,7 @@
    },
    "TEAM Γ GAMMA": {
     "lega": "Dragon 29",
-    "trofei": 129,
+    "trofei": 152,
     "clan": "I Subarubaracca"
    },
    "GINOPECORINO": {
@@ -389,19 +379,24 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
+   "PIER": {
+    "lega": "Legend II",
+    "trofei": 369,
+    "clan": "LJMT"
+   },
+   "Don Arox": {
+    "lega": "Legend III",
+    "trofei": 932,
+    "clan": "LJMT"
+   },
    "Mast3rPlay": {
     "lega": "Legend III",
-    "trofei": 893,
+    "trofei": 919,
     "clan": "LJMT"
    },
    "mementomori": {
     "lega": "Legend III",
     "trofei": 846,
-    "clan": "LJMT"
-   },
-   "Don Arox": {
-    "lega": "Legend III",
-    "trofei": 828,
     "clan": "LJMT"
    },
    "Andrea": {
@@ -414,6 +409,11 @@
     "trofei": 527,
     "clan": "LJMT"
    },
+   "PetoKappa": {
+    "lega": "Legend III",
+    "trofei": 474,
+    "clan": "LJMT"
+   },
    "bupalo2": {
     "lega": "Legend III",
     "trofei": 305,
@@ -421,7 +421,7 @@
    },
    "AtTiTuDePrObLeM": {
     "lega": "Legend III",
-    "trofei": 175,
+    "trofei": 215,
     "clan": "LJMT"
    },
    "MaChri": {
@@ -432,6 +432,11 @@
    "bupalo": {
     "lega": "Electro 33",
     "trofei": 758,
+    "clan": "LJMT"
+   },
+   "Andrif94 II": {
+    "lega": "Electro 33",
+    "trofei": 0,
     "clan": "LJMT"
    },
    "THE KRAKEN2": {
