@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 811393,
-     "raid": 8,
-     "attacchi": 198,
-     "distretti": 71,
-     "player": 36
+     "oro": 850616,
+     "raid": 9,
+     "attacchi": 207,
+     "distretti": 75,
+     "player": 37
     },
     {
      "nome": "LJMT",
@@ -149,6 +149,16 @@
      "oro": 25286
     },
     {
+     "nome": "SIMO03",
+     "tag": "#8UP8QG90U",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 25160
+    },
+    {
      "nome": "poa",
      "tag": "#9QJJJ0URU",
      "in": [
@@ -279,6 +289,16 @@
      "oro": 20963
     },
     {
+     "nome": "PIER",
+     "tag": "#UUGJP0RL",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 20882
+    },
+    {
      "nome": "Temistocle25",
      "tag": "#8CVG2UJC",
      "in": [
@@ -367,16 +387,6 @@
      "att": 3,
      "lim": 6,
      "oro": 11595
-    },
-    {
-     "nome": "PIER",
-     "tag": "#UUGJP0RL",
-     "in": [
-      "I Subarubaracca"
-     ],
-     "att": 3,
-     "lim": 6,
-     "oro": 6819
     },
     {
      "nome": "Andrea",
