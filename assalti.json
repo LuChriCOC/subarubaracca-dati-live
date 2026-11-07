@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 790795,
+     "oro": 811393,
      "raid": 8,
-     "attacchi": 192,
-     "distretti": 69,
-     "player": 35
+     "attacchi": 198,
+     "distretti": 71,
+     "player": 36
     },
     {
      "nome": "LJMT",
@@ -289,6 +289,16 @@
      "oro": 20620
     },
     {
+     "nome": "Mast3rPlay 2nd",
+     "tag": "#2L8YY9JY2",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 20598
+    },
+    {
      "nome": "THE KRAKEN",
      "tag": "#9JV82UV8",
      "in": [
@@ -443,6 +453,10 @@
     {
      "nome": "PigsKing32",
      "tag": "#2C2UJQCC"
+    },
+    {
+     "nome": "SAM",
+     "tag": "#80CPYL90Y"
     },
     {
      "nome": "TEAM Γ GAMMA",
