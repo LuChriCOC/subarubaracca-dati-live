@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 747554,
+     "oro": 790795,
      "raid": 8,
-     "attacchi": 183,
-     "distretti": 65,
-     "player": 33
+     "attacchi": 192,
+     "distretti": 69,
+     "player": 35
     },
     {
      "nome": "LJMT",
@@ -59,6 +59,16 @@
      "oro": 31038
     },
     {
+     "nome": "Tenebra",
+     "tag": "#QGU8VVU0",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 30860
+    },
+    {
      "nome": "Sandrone",
      "tag": "#RLGJR8QY",
      "in": [
@@ -87,6 +97,16 @@
      "att": 6,
      "lim": 6,
      "oro": 27350
+    },
+    {
+     "nome": "Gladiatore",
+     "tag": "#QJLUJG0CJ",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 26800
     },
     {
      "nome": "THE KRAKEN3",
@@ -269,16 +289,6 @@
      "oro": 20620
     },
     {
-     "nome": "Tenebra",
-     "tag": "#QGU8VVU0",
-     "in": [
-      "I Subarubaracca"
-     ],
-     "att": 4,
-     "lim": 6,
-     "oro": 20190
-    },
-    {
      "nome": "THE KRAKEN",
      "tag": "#9JV82UV8",
      "in": [
@@ -357,16 +367,22 @@
      "att": 3,
      "lim": 6,
      "oro": 6819
+    },
+    {
+     "nome": "Andrea",
+     "tag": "#RPPUJJGU",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 1,
+     "lim": 6,
+     "oro": 5771
     }
    ],
    "assenti": [
     {
      "nome": "___Samu___",
      "tag": "#2PGQGV0YY"
-    },
-    {
-     "nome": "Andrea",
-     "tag": "#RPPUJJGU"
     },
     {
      "nome": "Banned_Paul",
@@ -427,10 +443,6 @@
     {
      "nome": "PigsKing32",
      "tag": "#2C2UJQCC"
-    },
-    {
-     "nome": "SAM",
-     "tag": "#80CPYL90Y"
     },
     {
      "nome": "TEAM Γ GAMMA",
