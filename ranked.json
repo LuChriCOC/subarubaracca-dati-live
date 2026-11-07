@@ -259,14 +259,9 @@
     "trofei": 665,
     "clan": "I Subarubaracca"
    },
-   "PIER": {
-    "lega": "Legend II",
-    "trofei": 369,
-    "clan": "I Subarubaracca"
-   },
    "Andrif94": {
     "lega": "Legend II",
-    "trofei": 153,
+    "trofei": 178,
     "clan": "I Subarubaracca"
    },
    "Damiano": {
@@ -284,11 +279,6 @@
     "trofei": 1078,
     "clan": "I Subarubaracca"
    },
-   "Mast3rPlay": {
-    "lega": "Legend III",
-    "trofei": 919,
-    "clan": "I Subarubaracca"
-   },
    "Andrea": {
     "lega": "Legend III",
     "trofei": 688,
@@ -301,7 +291,7 @@
    },
    "LoRyXD16": {
     "lega": "Legend III",
-    "trofei": 283,
+    "trofei": 296,
     "clan": "I Subarubaracca"
    },
    "Cinghiale_32": {
@@ -320,11 +310,6 @@
     "clan": "I Subarubaracca"
    },
    "Broccolo FF": {
-    "lega": "Legend III",
-    "trofei": 0,
-    "clan": "I Subarubaracca"
-   },
-   "⚔️Trouble⚔️": {
     "lega": "Legend III",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -366,7 +351,7 @@
    },
    "il Greco": {
     "lega": "Electro 32",
-    "trofei": 157,
+    "trofei": 517,
     "clan": "I Subarubaracca"
    },
    "TEAM Γ GAMMA": {
@@ -393,6 +378,11 @@
     "lega": "Unranked",
     "trofei": 0,
     "clan": "I Subarubaracca"
+   },
+   "PIER": {
+    "lega": "Legend II",
+    "trofei": 381,
+    "clan": "LJMT"
    },
    "Don Arox": {
     "lega": "Legend III",

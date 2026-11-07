@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 850616,
+     "oro": 890895,
      "raid": 9,
-     "attacchi": 207,
-     "distretti": 75,
-     "player": 37
+     "attacchi": 217,
+     "distretti": 79,
+     "player": 38
     },
     {
      "nome": "LJMT",
@@ -67,6 +67,16 @@
      "att": 6,
      "lim": 6,
      "oro": 30860
+    },
+    {
+     "nome": "⚔️Trouble⚔️",
+     "tag": "#GLVLQ0U8C",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 30307
     },
     {
      "nome": "Sandrone",
@@ -269,6 +279,16 @@
      "oro": 22153
     },
     {
+     "nome": "Mast3rPlay",
+     "tag": "#22088Y2Y8",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 21599
+    },
+    {
      "nome": "danny",
      "tag": "#22GGVYLR9",
      "in": [
@@ -369,16 +389,6 @@
      "oro": 11781
     },
     {
-     "nome": "⚔️Trouble⚔️",
-     "tag": "#GLVLQ0U8C",
-     "in": [
-      "I Subarubaracca"
-     ],
-     "att": 2,
-     "lim": 6,
-     "oro": 11627
-    },
-    {
      "nome": "Luma",
      "tag": "#Q9JPRL9GQ",
      "in": [
@@ -447,10 +457,6 @@
     {
      "nome": "MaChri",
      "tag": "#YLLQ9RJ9Y"
-    },
-    {
-     "nome": "Mast3rPlay",
-     "tag": "#22088Y2Y8"
     },
     {
      "nome": "michele10",
