@@ -12,10 +12,10 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 956770,
+     "oro": 970291,
      "raid": 10,
-     "attacchi": 234,
-     "distretti": 85,
+     "attacchi": 238,
+     "distretti": 86,
      "player": 41
     },
     {
@@ -349,6 +349,16 @@
      "oro": 20882
     },
     {
+     "nome": "SAM",
+     "tag": "#80CPYL90Y",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 20751
+    },
+    {
      "nome": "Temistocle25",
      "tag": "#8CVG2UJC",
      "in": [
@@ -417,16 +427,6 @@
      "att": 3,
      "lim": 6,
      "oro": 11595
-    },
-    {
-     "nome": "SAM",
-     "tag": "#80CPYL90Y",
-     "in": [
-      "I Subarubaracca"
-     ],
-     "att": 2,
-     "lim": 5,
-     "oro": 7230
     },
     {
      "nome": "Andrea",
