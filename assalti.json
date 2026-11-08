@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 970291,
+     "oro": 993309,
      "raid": 10,
-     "attacchi": 238,
-     "distretti": 86,
-     "player": 41
+     "attacchi": 244,
+     "distretti": 88,
+     "player": 42
     },
     {
      "nome": "LJMT",
@@ -237,6 +237,16 @@
      "att": 6,
      "lim": 6,
      "oro": 23155
+    },
+    {
+     "nome": "♦️CIP♥️",
+     "tag": "#V80C88G2",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 23018
     },
     {
      "nome": "TEAM ★ ALPHA",
