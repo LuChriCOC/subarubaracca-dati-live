@@ -256,12 +256,7 @@
   "2026-11": {
    "DarkHawk": {
     "lega": "Legend II",
-    "trofei": 683,
-    "clan": "I Subarubaracca"
-   },
-   "PIER": {
-    "lega": "Legend II",
-    "trofei": 381,
+    "trofei": 699,
     "clan": "I Subarubaracca"
    },
    "Andrif94": {
@@ -282,6 +277,11 @@
    "Tenebra": {
     "lega": "Legend III",
     "trofei": 1078,
+    "clan": "I Subarubaracca"
+   },
+   "Andrea ? ? ? ?": {
+    "lega": "Legend III",
+    "trofei": 1024,
     "clan": "I Subarubaracca"
    },
    "Andrea": {
@@ -324,16 +324,6 @@
     "trofei": 644,
     "clan": "I Subarubaracca"
    },
-   "Beast": {
-    "lega": "Electro 33",
-    "trofei": 600,
-    "clan": "I Subarubaracca"
-   },
-   "Luma": {
-    "lega": "Electro 33",
-    "trofei": 300,
-    "clan": "I Subarubaracca"
-   },
    "SAM": {
     "lega": "Electro 33",
     "trofei": 236,
@@ -356,7 +346,7 @@
    },
    "il Greco": {
     "lega": "Electro 32",
-    "trofei": 557,
+    "trofei": 578,
     "clan": "I Subarubaracca"
    },
    "TEAM Γ GAMMA": {
@@ -384,6 +374,11 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
+   "PIER": {
+    "lega": "Legend II",
+    "trofei": 381,
+    "clan": "LJMT"
+   },
    "Don Arox": {
     "lega": "Legend III",
     "trofei": 932,
@@ -399,6 +394,16 @@
     "trofei": 856,
     "clan": "LJMT"
    },
+   "zelda": {
+    "lega": "Legend III",
+    "trofei": 667,
+    "clan": "LJMT"
+   },
+   "AtTiTuDePrObLeM": {
+    "lega": "Legend III",
+    "trofei": 582,
+    "clan": "LJMT"
+   },
    "bupalo2": {
     "lega": "Legend III",
     "trofei": 537,
@@ -406,12 +411,7 @@
    },
    "PetoKappa": {
     "lega": "Legend III",
-    "trofei": 495,
-    "clan": "LJMT"
-   },
-   "AtTiTuDePrObLeM": {
-    "lega": "Legend III",
-    "trofei": 310,
+    "trofei": 511,
     "clan": "LJMT"
    },
    "MaChri": {
@@ -422,6 +422,16 @@
    "bupalo": {
     "lega": "Electro 33",
     "trofei": 768,
+    "clan": "LJMT"
+   },
+   "Beast": {
+    "lega": "Electro 33",
+    "trofei": 723,
+    "clan": "LJMT"
+   },
+   "Luma": {
+    "lega": "Electro 33",
+    "trofei": 300,
     "clan": "LJMT"
    },
    "Andrif94 II": {

@@ -12,16 +12,16 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 890895,
-     "raid": 9,
-     "attacchi": 217,
-     "distretti": 79,
-     "player": 38
+     "oro": 933912,
+     "raid": 10,
+     "attacchi": 228,
+     "distretti": 82,
+     "player": 40
     },
     {
      "nome": "LJMT",
      "oro": 0,
-     "raid": 1,
+     "raid": 2,
      "attacchi": 0,
      "distretti": 0,
      "player": 0
@@ -189,6 +189,16 @@
      "oro": 24557
     },
     {
+     "nome": "Claude Monet",
+     "tag": "#2PY2YVYG9",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 23995
+    },
+    {
      "nome": "zelda",
      "tag": "#2JRC9Y9LP",
      "in": [
@@ -207,6 +217,16 @@
      "att": 6,
      "lim": 6,
      "oro": 23741
+    },
+    {
+     "nome": "Beast",
+     "tag": "#Q2JCV890C",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 23573
     },
     {
      "nome": "AtTiTuDePrObLeM",
@@ -379,16 +399,6 @@
      "oro": 17749
     },
     {
-     "nome": "Beast",
-     "tag": "#Q2JCV890C",
-     "in": [
-      "I Subarubaracca"
-     ],
-     "att": 3,
-     "lim": 6,
-     "oro": 11781
-    },
-    {
      "nome": "Luma",
      "tag": "#Q9JPRL9GQ",
      "in": [
@@ -397,6 +407,16 @@
      "att": 3,
      "lim": 6,
      "oro": 11595
+    },
+    {
+     "nome": "SAM",
+     "tag": "#80CPYL90Y",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 2,
+     "lim": 5,
+     "oro": 7230
     },
     {
      "nome": "Andrea",
@@ -429,10 +449,6 @@
     {
      "nome": "Cinghiale_32",
      "tag": "#GPCG8PRRG"
-    },
-    {
-     "nome": "Claude Monet",
-     "tag": "#2PY2YVYG9"
     },
     {
      "nome": "Damiano",
@@ -469,10 +485,6 @@
     {
      "nome": "PigsKing32",
      "tag": "#2C2UJQCC"
-    },
-    {
-     "nome": "SAM",
-     "tag": "#80CPYL90Y"
     },
     {
      "nome": "TEAM Γ GAMMA",
