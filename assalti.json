@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 933912,
+     "oro": 956770,
      "raid": 10,
-     "attacchi": 228,
-     "distretti": 82,
-     "player": 40
+     "attacchi": 234,
+     "distretti": 85,
+     "player": 41
     },
     {
      "nome": "LJMT",
@@ -237,6 +237,16 @@
      "att": 6,
      "lim": 6,
      "oro": 23155
+    },
+    {
+     "nome": "TEAM ★ ALPHA",
+     "tag": "#GRRGQGPJ",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 22858
     },
     {
      "nome": "Andrif94",
@@ -493,10 +503,6 @@
     {
      "nome": "TEAM Σ SIGMA",
      "tag": "#GYJ88UL89"
-    },
-    {
-     "nome": "TEAM ★ ALPHA",
-     "tag": "#GRRGQGPJ"
     }
    ]
   },
