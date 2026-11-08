@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 993309,
-     "raid": 10,
-     "attacchi": 244,
-     "distretti": 88,
-     "player": 42
+     "oro": 1089196,
+     "raid": 11,
+     "attacchi": 265,
+     "distretti": 97,
+     "player": 45
     },
     {
      "nome": "LJMT",
@@ -47,6 +47,26 @@
      "att": 6,
      "lim": 6,
      "oro": 34951
+    },
+    {
+     "nome": "ethan e noah",
+     "tag": "#JP9GP2PG",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 32234
+    },
+    {
+     "nome": "MaChri",
+     "tag": "#YLLQ9RJ9Y",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 31345
     },
     {
      "nome": "Lam75",
@@ -187,6 +207,16 @@
      "att": 6,
      "lim": 6,
      "oro": 24557
+    },
+    {
+     "nome": "Luma",
+     "tag": "#Q9JPRL9GQ",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 24542
     },
     {
      "nome": "Claude Monet",
@@ -419,6 +449,16 @@
      "oro": 19963
     },
     {
+     "nome": "LoRyXD16",
+     "tag": "#8GV2CCU2V",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 19361
+    },
+    {
      "nome": "mementomori",
      "tag": "#QQRQ9YGYQ",
      "in": [
@@ -427,16 +467,6 @@
      "att": 6,
      "lim": 6,
      "oro": 17749
-    },
-    {
-     "nome": "Luma",
-     "tag": "#Q9JPRL9GQ",
-     "in": [
-      "I Subarubaracca"
-     ],
-     "att": 3,
-     "lim": 6,
-     "oro": 11595
     },
     {
      "nome": "Andrea",
@@ -463,6 +493,10 @@
      "tag": "#G00LQVU0C"
     },
     {
+     "nome": "Bruno",
+     "tag": "#2Y020CY2R"
+    },
+    {
      "nome": "Cinghiale32",
      "tag": "#8U2VYJ80"
     },
@@ -483,16 +517,8 @@
      "tag": "#QV222JJVP"
     },
     {
-     "nome": "LoRyXD16",
-     "tag": "#8GV2CCU2V"
-    },
-    {
      "nome": "Luma-3",
      "tag": "#GQP8U8UC9"
-    },
-    {
-     "nome": "MaChri",
-     "tag": "#YLLQ9RJ9Y"
     },
     {
      "nome": "michele10",

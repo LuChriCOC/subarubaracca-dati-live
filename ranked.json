@@ -256,17 +256,12 @@
   "2026-11": {
    "DarkHawk": {
     "lega": "Legend II",
-    "trofei": 739,
-    "clan": "I Subarubaracca"
-   },
-   "PIER": {
-    "lega": "Legend II",
-    "trofei": 432,
+    "trofei": 764,
     "clan": "I Subarubaracca"
    },
    "Andrif94": {
     "lega": "Legend II",
-    "trofei": 178,
+    "trofei": 190,
     "clan": "I Subarubaracca"
    },
    "Damiano": {
@@ -281,7 +276,7 @@
    },
    "Tenebra": {
     "lega": "Legend III",
-    "trofei": 1106,
+    "trofei": 1134,
     "clan": "I Subarubaracca"
    },
    "Andrea ? ? ? ?": {
@@ -349,9 +344,14 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
+   "Bruno": {
+    "lega": "Titan 26",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
    "Petonella": {
     "lega": "Titan 25",
-    "trofei": 359,
+    "trofei": 386,
     "clan": "I Subarubaracca"
    },
    "Spidey$": {
@@ -363,6 +363,11 @@
     "lega": "Unranked",
     "trofei": 0,
     "clan": "I Subarubaracca"
+   },
+   "PIER": {
+    "lega": "Legend II",
+    "trofei": 464,
+    "clan": "LJMT"
    },
    "Don Arox": {
     "lega": "Legend III",
@@ -376,12 +381,12 @@
    },
    "mementomori": {
     "lega": "Legend III",
-    "trofei": 883,
+    "trofei": 897,
     "clan": "LJMT"
    },
    "Andrea": {
     "lega": "Legend III",
-    "trofei": 806,
+    "trofei": 846,
     "clan": "LJMT"
    },
    "zelda": {
@@ -391,7 +396,7 @@
    },
    "bupalo2": {
     "lega": "Legend III",
-    "trofei": 548,
+    "trofei": 572,
     "clan": "LJMT"
    },
    "PetoKappa": {
