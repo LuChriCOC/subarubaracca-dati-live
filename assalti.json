@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 1089196,
-     "raid": 11,
-     "attacchi": 265,
-     "distretti": 97,
-     "player": 45
+     "oro": 1163762,
+     "raid": 12,
+     "attacchi": 282,
+     "distretti": 103,
+     "player": 50
     },
     {
      "nome": "LJMT",
@@ -199,6 +199,16 @@
      "oro": 24954
     },
     {
+     "nome": "TEAM Σ SIGMA",
+     "tag": "#GYJ88UL89",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 24608
+    },
+    {
      "nome": "Alby_38",
      "tag": "#PGV0VJ9C9",
      "in": [
@@ -217,6 +227,16 @@
      "att": 6,
      "lim": 6,
      "oro": 24542
+    },
+    {
+     "nome": "Damiano",
+     "tag": "#YJU8VVRY2",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 24066
     },
     {
      "nome": "Claude Monet",
@@ -469,6 +489,26 @@
      "oro": 17749
     },
     {
+     "nome": "Cinghiale_32",
+     "tag": "#GPCG8PRRG",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 2,
+     "lim": 6,
+     "oro": 10962
+    },
+    {
+     "nome": "PigsKing32",
+     "tag": "#2C2UJQCC",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 2,
+     "lim": 6,
+     "oro": 10455
+    },
+    {
      "nome": "Andrea",
      "tag": "#RPPUJJGU",
      "in": [
@@ -477,6 +517,16 @@
      "att": 1,
      "lim": 6,
      "oro": 5771
+    },
+    {
+     "nome": "TEAM Γ GAMMA",
+     "tag": "#89QVG80GU",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 1,
+     "lim": 5,
+     "oro": 4475
     }
    ],
    "assenti": [
@@ -501,14 +551,6 @@
      "tag": "#8U2VYJ80"
     },
     {
-     "nome": "Cinghiale_32",
-     "tag": "#GPCG8PRRG"
-    },
-    {
-     "nome": "Damiano",
-     "tag": "#YJU8VVRY2"
-    },
-    {
      "nome": "DarkHawk",
      "tag": "#2YUJGVCVV"
     },
@@ -527,18 +569,6 @@
     {
      "nome": "Pierone11",
      "tag": "#LQ2VVG8J"
-    },
-    {
-     "nome": "PigsKing32",
-     "tag": "#2C2UJQCC"
-    },
-    {
-     "nome": "TEAM Γ GAMMA",
-     "tag": "#89QVG80GU"
-    },
-    {
-     "nome": "TEAM Σ SIGMA",
-     "tag": "#GYJ88UL89"
     }
    ]
   },
