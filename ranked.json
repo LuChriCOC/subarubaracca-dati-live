@@ -289,12 +289,27 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
+   "Andrea": {
+    "lega": "Legend III",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
+   "mementomori": {
+    "lega": "Legend III",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
    "Broccolo FF": {
     "lega": "Legend III",
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
    "Andrif94": {
+    "lega": "Legend III",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
+   "zelda": {
     "lega": "Legend III",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -334,6 +349,11 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
+   "Andrif94 II": {
+    "lega": "Electro 32",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
    "GINOPECORINO": {
     "lega": "Dragon 29",
     "trofei": 0,
@@ -369,16 +389,6 @@
     "trofei": 0,
     "clan": "LJMT"
    },
-   "Andrea": {
-    "lega": "Legend III",
-    "trofei": 0,
-    "clan": "LJMT"
-   },
-   "mementomori": {
-    "lega": "Legend III",
-    "trofei": 0,
-    "clan": "LJMT"
-   },
    "MaChri": {
     "lega": "Legend III",
     "trofei": 0,
@@ -404,11 +414,6 @@
     "trofei": 0,
     "clan": "LJMT"
    },
-   "zelda": {
-    "lega": "Legend III",
-    "trofei": 0,
-    "clan": "LJMT"
-   },
    "bupalo": {
     "lega": "Electro 33",
     "trofei": 0,
@@ -426,11 +431,6 @@
    },
    "THE KRAKEN2": {
     "lega": "Electro 33",
-    "trofei": 0,
-    "clan": "LJMT"
-   },
-   "Andrif94 II": {
-    "lega": "Electro 32",
     "trofei": 0,
     "clan": "LJMT"
    },
