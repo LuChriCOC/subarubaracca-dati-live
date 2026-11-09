@@ -12,10 +12,10 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 1163762,
+     "oro": 1193841,
      "raid": 12,
-     "attacchi": 282,
-     "distretti": 103,
+     "attacchi": 288,
+     "distretti": 106,
      "player": 50
     },
     {
@@ -87,6 +87,16 @@
      "att": 6,
      "lim": 6,
      "oro": 30860
+    },
+    {
+     "nome": "Cinghiale_32",
+     "tag": "#GPCG8PRRG",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 30723
     },
     {
      "nome": "⚔️Trouble⚔️",
@@ -409,6 +419,16 @@
      "oro": 20882
     },
     {
+     "nome": "PigsKing32",
+     "tag": "#2C2UJQCC",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 4,
+     "lim": 6,
+     "oro": 20773
+    },
+    {
      "nome": "SAM",
      "tag": "#80CPYL90Y",
      "in": [
@@ -487,26 +507,6 @@
      "att": 6,
      "lim": 6,
      "oro": 17749
-    },
-    {
-     "nome": "Cinghiale_32",
-     "tag": "#GPCG8PRRG",
-     "in": [
-      "I Subarubaracca"
-     ],
-     "att": 2,
-     "lim": 6,
-     "oro": 10962
-    },
-    {
-     "nome": "PigsKing32",
-     "tag": "#2C2UJQCC",
-     "in": [
-      "I Subarubaracca"
-     ],
-     "att": 2,
-     "lim": 6,
-     "oro": 10455
     },
     {
      "nome": "Andrea",
