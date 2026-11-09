@@ -254,22 +254,12 @@
    }
   },
   "2026-11": {
-   "DarkHawk": {
-    "lega": "Legend II",
-    "trofei": 972,
-    "clan": "I Subarubaracca"
-   },
-   "PIER": {
-    "lega": "Legend II",
-    "trofei": 500,
-    "clan": "I Subarubaracca"
-   },
-   "Andrif94": {
-    "lega": "Legend II",
-    "trofei": 190,
-    "clan": "I Subarubaracca"
-   },
    "Damiano": {
+    "lega": "Legend II",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
+   "DarkHawk": {
     "lega": "Legend II",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -277,11 +267,6 @@
    "Petos": {
     "lega": "Legend III",
     "trofei": 5000,
-    "clan": "I Subarubaracca"
-   },
-   "Tenebra": {
-    "lega": "Legend III",
-    "trofei": 1134,
     "clan": "I Subarubaracca"
    },
    "Andrea ? ? ? ?": {
@@ -304,6 +289,11 @@
     "trofei": 221,
     "clan": "I Subarubaracca"
    },
+   "PIER": {
+    "lega": "Legend III",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
    "Cinghiale32": {
     "lega": "Legend III",
     "trofei": 0,
@@ -314,7 +304,17 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
+   "Tenebra": {
+    "lega": "Legend III",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
    "Broccolo FF": {
+    "lega": "Legend III",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
+   "Andrif94": {
     "lega": "Legend III",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -366,7 +366,7 @@
    },
    "AtTiTuDePrObLeM": {
     "lega": "Legend III",
-    "trofei": 1084,
+    "trofei": 1102,
     "clan": "LJMT"
    },
    "Andrea": {
