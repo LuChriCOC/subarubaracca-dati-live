@@ -409,11 +409,6 @@
     "trofei": 0,
     "clan": "LJMT"
    },
-   "Andrif94 II": {
-    "lega": "Electro 33",
-    "trofei": 0,
-    "clan": "LJMT"
-   },
    "bupalo": {
     "lega": "Electro 33",
     "trofei": 0,
@@ -434,6 +429,11 @@
     "trofei": 0,
     "clan": "LJMT"
    },
+   "Andrif94 II": {
+    "lega": "Electro 32",
+    "trofei": 0,
+    "clan": "LJMT"
+   },
    "Pierone11": {
     "lega": "Dragon 30",
     "trofei": 0,
@@ -446,6 +446,11 @@
    },
    "Temistocle25": {
     "lega": "P.E.K.K.A 24",
+    "trofei": 0,
+    "clan": "LJMT"
+   },
+   "Matteo93ktm": {
+    "lega": "P.E.K.K.A 23",
     "trofei": 0,
     "clan": "LJMT"
    },
