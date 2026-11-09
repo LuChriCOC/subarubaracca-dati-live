@@ -289,11 +289,6 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
-   "Tenebra": {
-    "lega": "Legend III",
-    "trofei": 0,
-    "clan": "I Subarubaracca"
-   },
    "Andrea": {
     "lega": "Legend III",
     "trofei": 0,
@@ -350,11 +345,6 @@
     "clan": "I Subarubaracca"
    },
    "il Greco": {
-    "lega": "Electro 32",
-    "trofei": 0,
-    "clan": "I Subarubaracca"
-   },
-   "Andrif94 II": {
     "lega": "Electro 32",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -431,6 +421,11 @@
    },
    "THE KRAKEN2": {
     "lega": "Electro 33",
+    "trofei": 0,
+    "clan": "LJMT"
+   },
+   "Andrif94 II": {
+    "lega": "Electro 32",
     "trofei": 0,
     "clan": "LJMT"
    },
