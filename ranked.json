@@ -254,12 +254,12 @@
    }
   },
   "2026-11": {
-   "Damiano": {
+   "DarkHawk": {
     "lega": "Legend II",
-    "trofei": 0,
+    "trofei": 25,
     "clan": "I Subarubaracca"
    },
-   "DarkHawk": {
+   "Damiano": {
     "lega": "Legend II",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -267,6 +267,16 @@
    "Petos": {
     "lega": "Legend III",
     "trofei": 5000,
+    "clan": "I Subarubaracca"
+   },
+   "Tenebra": {
+    "lega": "Legend III",
+    "trofei": 11,
+    "clan": "I Subarubaracca"
+   },
+   "Broccolo FF": {
+    "lega": "Legend III",
+    "trofei": 10,
     "clan": "I Subarubaracca"
    },
    "Andrea ? ? ? ?": {
@@ -284,22 +294,12 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
-   "Tenebra": {
-    "lega": "Legend III",
-    "trofei": 0,
-    "clan": "I Subarubaracca"
-   },
    "Andrea": {
     "lega": "Legend III",
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
    "mementomori": {
-    "lega": "Legend III",
-    "trofei": 0,
-    "clan": "I Subarubaracca"
-   },
-   "Broccolo FF": {
     "lega": "Legend III",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -316,12 +316,12 @@
    },
    "LoRyXD16": {
     "lega": "Electro 33",
-    "trofei": 0,
+    "trofei": 22,
     "clan": "I Subarubaracca"
    },
    "TEAM ★ ALPHA": {
     "lega": "Electro 33",
-    "trofei": 0,
+    "trofei": 15,
     "clan": "I Subarubaracca"
    },
    "PigsKing32": {
@@ -361,7 +361,7 @@
    },
    "Petonella": {
     "lega": "Titan 25",
-    "trofei": 0,
+    "trofei": 56,
     "clan": "I Subarubaracca"
    },
    "Spidey$": {
@@ -376,7 +376,7 @@
    },
    "Don Arox": {
     "lega": "Legend III",
-    "trofei": 67,
+    "trofei": 76,
     "clan": "LJMT"
    },
    "AtTiTuDePrObLeM": {
@@ -386,7 +386,7 @@
    },
    "PIER": {
     "lega": "Legend III",
-    "trofei": 0,
+    "trofei": 14,
     "clan": "LJMT"
    },
    "Mast3rPlay": {
@@ -411,15 +411,15 @@
    },
    "PetoKappa": {
     "lega": "Electro 33",
-    "trofei": 17,
-    "clan": "LJMT"
-   },
-   "bupalo": {
-    "lega": "Electro 33",
-    "trofei": 0,
+    "trofei": 257,
     "clan": "LJMT"
    },
    "bupalo2": {
+    "lega": "Electro 33",
+    "trofei": 12,
+    "clan": "LJMT"
+   },
+   "bupalo": {
     "lega": "Electro 33",
     "trofei": 0,
     "clan": "LJMT"
@@ -441,7 +441,7 @@
    },
    "michele10": {
     "lega": "Titan 25",
-    "trofei": 0,
+    "trofei": 105,
     "clan": "LJMT"
    },
    "Temistocle25": {
