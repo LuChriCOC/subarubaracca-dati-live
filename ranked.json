@@ -269,6 +269,11 @@
     "trofei": 5000,
     "clan": "I Subarubaracca"
    },
+   "PIER": {
+    "lega": "Legend III",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
    "Andrea ? ? ? ?": {
     "lega": "Legend III",
     "trofei": 0,
@@ -378,11 +383,6 @@
     "lega": "Unranked",
     "trofei": 0,
     "clan": "I Subarubaracca"
-   },
-   "PIER": {
-    "lega": "Legend III",
-    "trofei": 0,
-    "clan": "LJMT"
    },
    "Mast3rPlay": {
     "lega": "Legend III",
