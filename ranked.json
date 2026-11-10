@@ -271,7 +271,7 @@
    },
    "Don Arox": {
     "lega": "Legend III",
-    "trofei": 477,
+    "trofei": 486,
     "clan": "I Subarubaracca"
    },
    "mementomori": {
@@ -279,12 +279,17 @@
     "trofei": 273,
     "clan": "I Subarubaracca"
    },
+   "Andrea ? ? ? ?": {
+    "lega": "Legend III",
+    "trofei": 187,
+    "clan": "I Subarubaracca"
+   },
    "zelda": {
     "lega": "Legend III",
     "trofei": 161,
     "clan": "I Subarubaracca"
    },
-   "Andrea ? ? ? ?": {
+   "PIER": {
     "lega": "Legend III",
     "trofei": 123,
     "clan": "I Subarubaracca"
@@ -294,24 +299,24 @@
     "trofei": 100,
     "clan": "I Subarubaracca"
    },
-   "PIER": {
+   "Andrea": {
     "lega": "Legend III",
-    "trofei": 83,
+    "trofei": 98,
     "clan": "I Subarubaracca"
    },
    "Broccolo FF": {
     "lega": "Legend III",
-    "trofei": 76,
-    "clan": "I Subarubaracca"
-   },
-   "Andrea": {
-    "lega": "Legend III",
-    "trofei": 72,
+    "trofei": 87,
     "clan": "I Subarubaracca"
    },
    "Sandrone": {
     "lega": "Legend III",
-    "trofei": 47,
+    "trofei": 56,
+    "clan": "I Subarubaracca"
+   },
+   "MaChri": {
+    "lega": "Legend III",
+    "trofei": 35,
     "clan": "I Subarubaracca"
    },
    "Mast3rPlay": {
@@ -325,6 +330,11 @@
     "clan": "I Subarubaracca"
    },
    "Claude Monet": {
+    "lega": "Legend III",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
+   "Luma": {
     "lega": "Legend III",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -351,12 +361,12 @@
    },
    "LoRyXD16": {
     "lega": "Electro 33",
-    "trofei": 100,
+    "trofei": 128,
     "clan": "I Subarubaracca"
    },
    "bupalo": {
     "lega": "Electro 33",
-    "trofei": 71,
+    "trofei": 85,
     "clan": "I Subarubaracca"
    },
    "Cinghiale_32": {
@@ -429,24 +439,9 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
-   "Luma-3": {
-    "lega": "Unranked",
-    "trofei": 0,
-    "clan": "I Subarubaracca"
-   },
-   "MaChri": {
-    "lega": "Legend III",
-    "trofei": 35,
-    "clan": "LJMT"
-   },
    "Beast": {
     "lega": "Legend III",
-    "trofei": 22,
-    "clan": "LJMT"
-   },
-   "Luma": {
-    "lega": "Legend III",
-    "trofei": 0,
+    "trofei": 34,
     "clan": "LJMT"
    },
    "Pierone11": {
@@ -480,6 +475,11 @@
     "clan": "LJMT"
    },
    "TEAM Σ SIGMA": {
+    "lega": "Unranked",
+    "trofei": 0,
+    "clan": "LJMT"
+   },
+   "Luma-3": {
     "lega": "Unranked",
     "trofei": 0,
     "clan": "LJMT"
