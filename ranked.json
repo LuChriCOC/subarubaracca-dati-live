@@ -271,12 +271,22 @@
    },
    "Don Arox": {
     "lega": "Legend III",
-    "trofei": 357,
+    "trofei": 437,
     "clan": "I Subarubaracca"
    },
    "mementomori": {
     "lega": "Legend III",
     "trofei": 273,
+    "clan": "I Subarubaracca"
+   },
+   "zelda": {
+    "lega": "Legend III",
+    "trofei": 133,
+    "clan": "I Subarubaracca"
+   },
+   "Andrea ? ? ? ?": {
+    "lega": "Legend III",
+    "trofei": 95,
     "clan": "I Subarubaracca"
    },
    "AtTiTuDePrObLeM": {
@@ -286,7 +296,12 @@
    },
    "PIER": {
     "lega": "Legend III",
-    "trofei": 75,
+    "trofei": 83,
+    "clan": "I Subarubaracca"
+   },
+   "Broccolo FF": {
+    "lega": "Legend III",
+    "trofei": 76,
     "clan": "I Subarubaracca"
    },
    "Andrea": {
@@ -294,27 +309,12 @@
     "trofei": 72,
     "clan": "I Subarubaracca"
    },
-   "Broccolo FF": {
+   "Sandrone": {
     "lega": "Legend III",
-    "trofei": 68,
-    "clan": "I Subarubaracca"
-   },
-   "zelda": {
-    "lega": "Legend III",
-    "trofei": 66,
-    "clan": "I Subarubaracca"
-   },
-   "Andrea ? ? ? ?": {
-    "lega": "Legend III",
-    "trofei": 30,
+    "trofei": 11,
     "clan": "I Subarubaracca"
    },
    "Mast3rPlay": {
-    "lega": "Legend III",
-    "trofei": 0,
-    "clan": "I Subarubaracca"
-   },
-   "Sandrone": {
     "lega": "Legend III",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -344,9 +344,14 @@
     "trofei": 254,
     "clan": "I Subarubaracca"
    },
+   "and66nav": {
+    "lega": "Electro 33",
+    "trofei": 210,
+    "clan": "I Subarubaracca"
+   },
    "LoRyXD16": {
     "lega": "Electro 33",
-    "trofei": 91,
+    "trofei": 100,
     "clan": "I Subarubaracca"
    },
    "bupalo": {
@@ -356,15 +361,15 @@
    },
    "Cinghiale_32": {
     "lega": "Electro 33",
-    "trofei": 42,
-    "clan": "I Subarubaracca"
-   },
-   "TEAM ★ ALPHA": {
-    "lega": "Electro 33",
-    "trofei": 29,
+    "trofei": 68,
     "clan": "I Subarubaracca"
    },
    "bupalo2": {
+    "lega": "Electro 33",
+    "trofei": 43,
+    "clan": "I Subarubaracca"
+   },
+   "TEAM ★ ALPHA": {
     "lega": "Electro 33",
     "trofei": 29,
     "clan": "I Subarubaracca"
@@ -386,7 +391,7 @@
    },
    "il Greco": {
     "lega": "Electro 32",
-    "trofei": 45,
+    "trofei": 120,
     "clan": "I Subarubaracca"
    },
    "danny": {
@@ -416,7 +421,7 @@
    },
    "Petonella": {
     "lega": "Titan 25",
-    "trofei": 326,
+    "trofei": 387,
     "clan": "I Subarubaracca"
    },
    "Spidey$": {
@@ -431,7 +436,7 @@
    },
    "MaChri": {
     "lega": "Legend III",
-    "trofei": 15,
+    "trofei": 24,
     "clan": "LJMT"
    },
    "Beast": {
@@ -459,13 +464,13 @@
     "trofei": 0,
     "clan": "LJMT"
    },
-   "Matteo93ktm": {
+   "___Samu___": {
     "lega": "P.E.K.K.A 23",
     "trofei": 0,
     "clan": "LJMT"
    },
-   "___Samu___": {
-    "lega": "P.E.K.K.A 23",
+   "Luma-2": {
+    "lega": "Valkyrie 14",
     "trofei": 0,
     "clan": "LJMT"
    },
