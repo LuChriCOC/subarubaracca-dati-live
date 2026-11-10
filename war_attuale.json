@@ -2,7 +2,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-10T17:36:46Z",
+  "visto": "2026-11-10T19:40:12Z",
   "stato": "notInWar",
   "id": null,
   "inizio": null,
@@ -15,12 +15,13 @@
   "attacchi": 0,
   "stelle_av": 0,
   "pc_av": 0.0,
-  "attacchi_av": 0
+  "attacchi_av": 0,
+  "player": []
  },
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-10T17:36:46Z",
+  "visto": "2026-11-10T19:40:12Z",
   "stato": "notInWar",
   "id": null,
   "inizio": null,
@@ -33,6 +34,7 @@
   "attacchi": 0,
   "stelle_av": 0,
   "pc_av": 0.0,
-  "attacchi_av": 0
+  "attacchi_av": 0,
+  "player": []
  }
 }
