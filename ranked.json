@@ -256,7 +256,7 @@
   "2026-11": {
    "DarkHawk": {
     "lega": "Legend II",
-    "trofei": 126,
+    "trofei": 155,
     "clan": "I Subarubaracca"
    },
    "Damiano": {
@@ -271,7 +271,7 @@
    },
    "Don Arox": {
     "lega": "Legend III",
-    "trofei": 437,
+    "trofei": 477,
     "clan": "I Subarubaracca"
    },
    "mementomori": {
@@ -281,17 +281,17 @@
    },
    "zelda": {
     "lega": "Legend III",
-    "trofei": 133,
+    "trofei": 161,
     "clan": "I Subarubaracca"
    },
    "Andrea ? ? ? ?": {
     "lega": "Legend III",
-    "trofei": 95,
+    "trofei": 123,
     "clan": "I Subarubaracca"
    },
    "AtTiTuDePrObLeM": {
     "lega": "Legend III",
-    "trofei": 84,
+    "trofei": 100,
     "clan": "I Subarubaracca"
    },
    "PIER": {
@@ -311,7 +311,7 @@
    },
    "Sandrone": {
     "lega": "Legend III",
-    "trofei": 11,
+    "trofei": 47,
     "clan": "I Subarubaracca"
    },
    "Mast3rPlay": {
@@ -346,7 +346,7 @@
    },
    "and66nav": {
     "lega": "Electro 33",
-    "trofei": 210,
+    "trofei": 219,
     "clan": "I Subarubaracca"
    },
    "LoRyXD16": {
@@ -436,12 +436,12 @@
    },
    "MaChri": {
     "lega": "Legend III",
-    "trofei": 24,
+    "trofei": 35,
     "clan": "LJMT"
    },
    "Beast": {
     "lega": "Legend III",
-    "trofei": 8,
+    "trofei": 22,
     "clan": "LJMT"
    },
    "Luma": {
@@ -454,9 +454,14 @@
     "trofei": 0,
     "clan": "LJMT"
    },
+   "Mast3rPlay 2nd": {
+    "lega": "Dragon 29",
+    "trofei": 0,
+    "clan": "LJMT"
+   },
    "michele10": {
     "lega": "Titan 25",
-    "trofei": 119,
+    "trofei": 149,
     "clan": "LJMT"
    },
    "Temistocle25": {
