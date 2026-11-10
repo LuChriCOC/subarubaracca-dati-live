@@ -256,7 +256,7 @@
   "2026-11": {
    "DarkHawk": {
     "lega": "Legend II",
-    "trofei": 113,
+    "trofei": 126,
     "clan": "I Subarubaracca"
    },
    "Damiano": {
@@ -269,9 +269,14 @@
     "trofei": 5000,
     "clan": "I Subarubaracca"
    },
+   "Don Arox": {
+    "lega": "Legend III",
+    "trofei": 357,
+    "clan": "I Subarubaracca"
+   },
    "mementomori": {
     "lega": "Legend III",
-    "trofei": 207,
+    "trofei": 273,
     "clan": "I Subarubaracca"
    },
    "AtTiTuDePrObLeM": {
@@ -296,7 +301,7 @@
    },
    "zelda": {
     "lega": "Legend III",
-    "trofei": 52,
+    "trofei": 66,
     "clan": "I Subarubaracca"
    },
    "Andrea ? ? ? ?": {
@@ -331,7 +336,7 @@
    },
    "PetoKappa": {
     "lega": "Electro 33",
-    "trofei": 748,
+    "trofei": 766,
     "clan": "I Subarubaracca"
    },
    "Gladiatore": {
@@ -346,7 +351,12 @@
    },
    "bupalo": {
     "lega": "Electro 33",
-    "trofei": 61,
+    "trofei": 71,
+    "clan": "I Subarubaracca"
+   },
+   "Cinghiale_32": {
+    "lega": "Electro 33",
+    "trofei": 42,
     "clan": "I Subarubaracca"
    },
    "TEAM ★ ALPHA": {
@@ -354,14 +364,9 @@
     "trofei": 29,
     "clan": "I Subarubaracca"
    },
-   "Cinghiale_32": {
-    "lega": "Electro 33",
-    "trofei": 25,
-    "clan": "I Subarubaracca"
-   },
    "bupalo2": {
     "lega": "Electro 33",
-    "trofei": 12,
+    "trofei": 29,
     "clan": "I Subarubaracca"
    },
    "PigsKing32": {
@@ -379,14 +384,14 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
+   "il Greco": {
+    "lega": "Electro 32",
+    "trofei": 45,
+    "clan": "I Subarubaracca"
+   },
    "danny": {
     "lega": "Electro 32",
     "trofei": 29,
-    "clan": "I Subarubaracca"
-   },
-   "il Greco": {
-    "lega": "Electro 32",
-    "trofei": 13,
     "clan": "I Subarubaracca"
    },
    "♦️CIP♥️": {
@@ -411,7 +416,7 @@
    },
    "Petonella": {
     "lega": "Titan 25",
-    "trofei": 194,
+    "trofei": 326,
     "clan": "I Subarubaracca"
    },
    "Spidey$": {
@@ -424,22 +429,17 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
-   "Don Arox": {
-    "lega": "Legend III",
-    "trofei": 263,
-    "clan": "LJMT"
-   },
    "MaChri": {
     "lega": "Legend III",
     "trofei": 15,
     "clan": "LJMT"
    },
-   "Luma": {
+   "Beast": {
     "lega": "Legend III",
-    "trofei": 0,
+    "trofei": 8,
     "clan": "LJMT"
    },
-   "Beast": {
+   "Luma": {
     "lega": "Legend III",
     "trofei": 0,
     "clan": "LJMT"
