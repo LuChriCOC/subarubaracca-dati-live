@@ -256,7 +256,7 @@
   "2026-11": {
    "DarkHawk": {
     "lega": "Legend II",
-    "trofei": 82,
+    "trofei": 113,
     "clan": "I Subarubaracca"
    },
    "Damiano": {
@@ -279,6 +279,11 @@
     "trofei": 84,
     "clan": "I Subarubaracca"
    },
+   "PIER": {
+    "lega": "Legend III",
+    "trofei": 75,
+    "clan": "I Subarubaracca"
+   },
    "Andrea": {
     "lega": "Legend III",
     "trofei": 72,
@@ -286,10 +291,10 @@
    },
    "Broccolo FF": {
     "lega": "Legend III",
-    "trofei": 56,
+    "trofei": 68,
     "clan": "I Subarubaracca"
    },
-   "PIER": {
+   "zelda": {
     "lega": "Legend III",
     "trofei": 52,
     "clan": "I Subarubaracca"
@@ -299,12 +304,12 @@
     "trofei": 30,
     "clan": "I Subarubaracca"
    },
-   "zelda": {
+   "Mast3rPlay": {
     "lega": "Legend III",
-    "trofei": 12,
+    "trofei": 0,
     "clan": "I Subarubaracca"
    },
-   "Mast3rPlay": {
+   "Sandrone": {
     "lega": "Legend III",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -339,6 +344,11 @@
     "trofei": 91,
     "clan": "I Subarubaracca"
    },
+   "bupalo": {
+    "lega": "Electro 33",
+    "trofei": 61,
+    "clan": "I Subarubaracca"
+   },
    "TEAM ★ ALPHA": {
     "lega": "Electro 33",
     "trofei": 29,
@@ -347,6 +357,11 @@
    "Cinghiale_32": {
     "lega": "Electro 33",
     "trofei": 25,
+    "clan": "I Subarubaracca"
+   },
+   "bupalo2": {
+    "lega": "Electro 33",
+    "trofei": 12,
     "clan": "I Subarubaracca"
    },
    "PigsKing32": {
@@ -372,6 +387,16 @@
    "il Greco": {
     "lega": "Electro 32",
     "trofei": 13,
+    "clan": "I Subarubaracca"
+   },
+   "♦️CIP♥️": {
+    "lega": "Electro 32",
+    "trofei": 10,
+    "clan": "I Subarubaracca"
+   },
+   "Andrif94 II": {
+    "lega": "Electro 32",
+    "trofei": 0,
     "clan": "I Subarubaracca"
    },
    "GINOPECORINO": {
@@ -401,7 +426,7 @@
    },
    "Don Arox": {
     "lega": "Legend III",
-    "trofei": 223,
+    "trofei": 263,
     "clan": "LJMT"
    },
    "MaChri": {
@@ -416,21 +441,6 @@
    },
    "Beast": {
     "lega": "Legend III",
-    "trofei": 0,
-    "clan": "LJMT"
-   },
-   "bupalo": {
-    "lega": "Electro 33",
-    "trofei": 45,
-    "clan": "LJMT"
-   },
-   "bupalo2": {
-    "lega": "Electro 33",
-    "trofei": 12,
-    "clan": "LJMT"
-   },
-   "Andrif94 II": {
-    "lega": "Electro 32",
     "trofei": 0,
     "clan": "LJMT"
    },
