@@ -256,7 +256,7 @@
   "2026-11": {
    "DarkHawk": {
     "lega": "Legend II",
-    "trofei": 172,
+    "trofei": 203,
     "clan": "I Subarubaracca"
    },
    "Damiano": {
@@ -271,7 +271,12 @@
    },
    "Don Arox": {
     "lega": "Legend III",
-    "trofei": 486,
+    "trofei": 526,
+    "clan": "I Subarubaracca"
+   },
+   "Andrea ? ? ? ?": {
+    "lega": "Legend III",
+    "trofei": 307,
     "clan": "I Subarubaracca"
    },
    "mementomori": {
@@ -279,19 +284,14 @@
     "trofei": 273,
     "clan": "I Subarubaracca"
    },
-   "Andrea ? ? ? ?": {
+   "PIER": {
     "lega": "Legend III",
-    "trofei": 187,
+    "trofei": 212,
     "clan": "I Subarubaracca"
    },
    "zelda": {
     "lega": "Legend III",
-    "trofei": 161,
-    "clan": "I Subarubaracca"
-   },
-   "PIER": {
-    "lega": "Legend III",
-    "trofei": 131,
+    "trofei": 174,
     "clan": "I Subarubaracca"
    },
    "AtTiTuDePrObLeM": {
@@ -351,7 +351,7 @@
    },
    "Gladiatore": {
     "lega": "Electro 33",
-    "trofei": 270,
+    "trofei": 310,
     "clan": "I Subarubaracca"
    },
    "and66nav": {
@@ -361,17 +361,17 @@
    },
    "LoRyXD16": {
     "lega": "Electro 33",
-    "trofei": 128,
-    "clan": "I Subarubaracca"
-   },
-   "bupalo": {
-    "lega": "Electro 33",
-    "trofei": 85,
+    "trofei": 168,
     "clan": "I Subarubaracca"
    },
    "Cinghiale_32": {
     "lega": "Electro 33",
-    "trofei": 68,
+    "trofei": 94,
+    "clan": "I Subarubaracca"
+   },
+   "bupalo": {
+    "lega": "Electro 33",
+    "trofei": 94,
     "clan": "I Subarubaracca"
    },
    "bupalo2": {
@@ -402,6 +402,11 @@
    "il Greco": {
     "lega": "Electro 32",
     "trofei": 120,
+    "clan": "I Subarubaracca"
+   },
+   "hummer": {
+    "lega": "Electro 32",
+    "trofei": 94,
     "clan": "I Subarubaracca"
    },
    "danny": {
@@ -439,14 +444,14 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
-   "Lam75": {
-    "lega": "Legend III",
-    "trofei": 137,
-    "clan": "LJMT"
-   },
    "Mal75": {
     "lega": "Legend III",
-    "trofei": 136,
+    "trofei": 191,
+    "clan": "LJMT"
+   },
+   "Lam75": {
+    "lega": "Legend III",
+    "trofei": 190,
     "clan": "LJMT"
    },
    "Beast": {
@@ -476,7 +481,7 @@
    },
    "michele10": {
     "lega": "Titan 25",
-    "trofei": 149,
+    "trofei": 176,
     "clan": "LJMT"
    },
    "Temistocle25": {
