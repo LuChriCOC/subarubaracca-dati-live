@@ -269,14 +269,19 @@
     "trofei": 5000,
     "clan": "I Subarubaracca"
    },
-   "Tenebra": {
+   "mementomori": {
     "lega": "Legend III",
-    "trofei": 94,
+    "trofei": 207,
     "clan": "I Subarubaracca"
    },
    "AtTiTuDePrObLeM": {
     "lega": "Legend III",
     "trofei": 84,
+    "clan": "I Subarubaracca"
+   },
+   "Andrea": {
+    "lega": "Legend III",
+    "trofei": 72,
     "clan": "I Subarubaracca"
    },
    "Broccolo FF": {
@@ -289,19 +294,19 @@
     "trofei": 52,
     "clan": "I Subarubaracca"
    },
-   "Andrea": {
-    "lega": "Legend III",
-    "trofei": 46,
-    "clan": "I Subarubaracca"
-   },
    "Andrea ? ? ? ?": {
     "lega": "Legend III",
-    "trofei": 14,
+    "trofei": 30,
     "clan": "I Subarubaracca"
    },
    "zelda": {
     "lega": "Legend III",
     "trofei": 12,
+    "clan": "I Subarubaracca"
+   },
+   "Mast3rPlay": {
+    "lega": "Legend III",
+    "trofei": 0,
     "clan": "I Subarubaracca"
    },
    "Cinghiale32": {
@@ -324,19 +329,24 @@
     "trofei": 748,
     "clan": "I Subarubaracca"
    },
+   "Gladiatore": {
+    "lega": "Electro 33",
+    "trofei": 254,
+    "clan": "I Subarubaracca"
+   },
    "LoRyXD16": {
     "lega": "Electro 33",
     "trofei": 91,
     "clan": "I Subarubaracca"
    },
+   "TEAM ★ ALPHA": {
+    "lega": "Electro 33",
+    "trofei": 29,
+    "clan": "I Subarubaracca"
+   },
    "Cinghiale_32": {
     "lega": "Electro 33",
     "trofei": 25,
-    "clan": "I Subarubaracca"
-   },
-   "TEAM ★ ALPHA": {
-    "lega": "Electro 33",
-    "trofei": 15,
     "clan": "I Subarubaracca"
    },
    "PigsKing32": {
@@ -361,7 +371,7 @@
    },
    "il Greco": {
     "lega": "Electro 32",
-    "trofei": 0,
+    "trofei": 13,
     "clan": "I Subarubaracca"
    },
    "GINOPECORINO": {
@@ -376,7 +386,7 @@
    },
    "Petonella": {
     "lega": "Titan 25",
-    "trofei": 154,
+    "trofei": 194,
     "clan": "I Subarubaracca"
    },
    "Spidey$": {
@@ -394,19 +404,9 @@
     "trofei": 223,
     "clan": "LJMT"
    },
-   "mementomori": {
-    "lega": "Legend III",
-    "trofei": 127,
-    "clan": "LJMT"
-   },
    "MaChri": {
     "lega": "Legend III",
     "trofei": 15,
-    "clan": "LJMT"
-   },
-   "Mast3rPlay": {
-    "lega": "Legend III",
-    "trofei": 0,
     "clan": "LJMT"
    },
    "Luma": {
