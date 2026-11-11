@@ -276,7 +276,7 @@
    },
    "mementomori": {
     "lega": "Legend III",
-    "trofei": 519,
+    "trofei": 531,
     "clan": "I Subarubaracca"
    },
    "Andrea ? ? ? ?": {
@@ -289,14 +289,14 @@
     "trofei": 350,
     "clan": "I Subarubaracca"
    },
+   "AtTiTuDePrObLeM": {
+    "lega": "Legend III",
+    "trofei": 228,
+    "clan": "I Subarubaracca"
+   },
    "PIER": {
     "lega": "Legend III",
     "trofei": 225,
-    "clan": "I Subarubaracca"
-   },
-   "AtTiTuDePrObLeM": {
-    "lega": "Legend III",
-    "trofei": 148,
     "clan": "I Subarubaracca"
    },
    "Andrea": {
@@ -306,17 +306,17 @@
    },
    "Broccolo FF": {
     "lega": "Legend III",
-    "trofei": 108,
+    "trofei": 136,
     "clan": "I Subarubaracca"
    },
    "Sandrone": {
     "lega": "Legend III",
-    "trofei": 88,
+    "trofei": 119,
     "clan": "I Subarubaracca"
    },
    "MaChri": {
     "lega": "Legend III",
-    "trofei": 87,
+    "trofei": 98,
     "clan": "I Subarubaracca"
    },
    "Mast3rPlay": {
@@ -404,14 +404,14 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
+   "hummer": {
+    "lega": "Electro 32",
+    "trofei": 158,
+    "clan": "I Subarubaracca"
+   },
    "il Greco": {
     "lega": "Electro 32",
     "trofei": 151,
-    "clan": "I Subarubaracca"
-   },
-   "hummer": {
-    "lega": "Electro 32",
-    "trofei": 139,
     "clan": "I Subarubaracca"
    },
    "danny": {
@@ -516,7 +516,7 @@
    },
    "michele10": {
     "lega": "Titan 25",
-    "trofei": 176,
+    "trofei": 189,
     "clan": "LJMT"
    },
    "Temistocle25": {
