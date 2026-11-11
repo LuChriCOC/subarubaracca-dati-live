@@ -256,7 +256,7 @@
   "2026-11": {
    "DarkHawk": {
     "lega": "Legend II",
-    "trofei": 336,
+    "trofei": 350,
     "clan": "I Subarubaracca"
    },
    "Damiano": {
@@ -271,12 +271,17 @@
    },
    "Don Arox": {
     "lega": "Legend III",
-    "trofei": 673,
+    "trofei": 753,
     "clan": "I Subarubaracca"
    },
    "mementomori": {
     "lega": "Legend III",
     "trofei": 531,
+    "clan": "I Subarubaracca"
+   },
+   "*,...,*": {
+    "lega": "Legend III",
+    "trofei": 519,
     "clan": "I Subarubaracca"
    },
    "Andrea ? ? ? ?": {
@@ -286,7 +291,7 @@
    },
    "zelda": {
     "lega": "Legend III",
-    "trofei": 376,
+    "trofei": 391,
     "clan": "I Subarubaracca"
    },
    "PIER": {
@@ -299,14 +304,14 @@
     "trofei": 228,
     "clan": "I Subarubaracca"
    },
+   "Broccolo FF": {
+    "lega": "Legend III",
+    "trofei": 151,
+    "clan": "I Subarubaracca"
+   },
    "Andrea": {
     "lega": "Legend III",
     "trofei": 145,
-    "clan": "I Subarubaracca"
-   },
-   "Broccolo FF": {
-    "lega": "Legend III",
-    "trofei": 136,
     "clan": "I Subarubaracca"
    },
    "Sandrone": {
@@ -346,7 +351,7 @@
    },
    "Cinghiale_32": {
     "lega": "Electro 33",
-    "trofei": 859,
+    "trofei": 885,
     "clan": "I Subarubaracca"
    },
    "PetoKappa": {
@@ -361,7 +366,7 @@
    },
    "LoRyXD16": {
     "lega": "Electro 33",
-    "trofei": 344,
+    "trofei": 424,
     "clan": "I Subarubaracca"
    },
    "and66nav": {
@@ -371,12 +376,17 @@
    },
    "bupalo": {
     "lega": "Electro 33",
-    "trofei": 123,
+    "trofei": 139,
     "clan": "I Subarubaracca"
    },
    "bupalo2": {
     "lega": "Electro 33",
-    "trofei": 110,
+    "trofei": 126,
+    "clan": "I Subarubaracca"
+   },
+   "PigsKing32": {
+    "lega": "Electro 33",
+    "trofei": 101,
     "clan": "I Subarubaracca"
    },
    "TEAM ★ ALPHA": {
@@ -385,11 +395,6 @@
     "clan": "I Subarubaracca"
    },
    "ethan e noah": {
-    "lega": "Electro 33",
-    "trofei": 0,
-    "clan": "I Subarubaracca"
-   },
-   "PigsKing32": {
     "lega": "Electro 33",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -416,7 +421,7 @@
    },
    "danny": {
     "lega": "Electro 32",
-    "trofei": 59,
+    "trofei": 110,
     "clan": "I Subarubaracca"
    },
    "♦️CIP♥️": {
@@ -476,7 +481,7 @@
    },
    "SAM": {
     "lega": "Electro 32",
-    "trofei": 284,
+    "trofei": 310,
     "clan": "LJMT"
    },
    "Pierone11": {

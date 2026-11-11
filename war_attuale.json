@@ -2,17 +2,17 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-11T19:47:51Z",
-  "stato": "preparation",
+  "visto": "2026-11-11T22:00:02Z",
+  "stato": "inWar",
   "id": "20261110T223520.000Z",
   "inizio": "20261111T213520.000Z",
   "fine": "20261112T213520.000Z",
   "dimensione": 35,
   "attacchi_per_player": 2,
   "avversario": "Teh V Squad",
-  "stelle": 0,
-  "pc": 0.0,
-  "attacchi": 0,
+  "stelle": 12,
+  "pc": 11.4,
+  "attacchi": 4,
   "stelle_av": 0,
   "pc_av": 0.0,
   "attacchi_av": 0,
@@ -142,7 +142,24 @@
     "tag": "#YJU8VVRY2",
     "pos": 16,
     "th": 18,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 147,
+      "pa": 1,
+      "th": 18,
+      "o": 1
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 134,
+      "pa": 2,
+      "th": 18,
+      "o": 2
+     }
+    ],
     "dif": []
    },
    {
@@ -174,7 +191,24 @@
     "tag": "#GPCG8PRRG",
     "pos": 20,
     "th": 18,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 120,
+      "pa": 3,
+      "th": 18,
+      "o": 3
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 127,
+      "pa": 4,
+      "th": 18,
+      "o": 4
+     }
+    ],
     "dif": []
    },
    {
@@ -302,17 +336,17 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-11T19:47:51Z",
-  "stato": "preparation",
+  "visto": "2026-11-11T22:00:02Z",
+  "stato": "inWar",
   "id": "20261110T222134.000Z",
   "inizio": "20261111T212134.000Z",
   "fine": "20261112T212134.000Z",
   "dimensione": 15,
   "attacchi_per_player": 2,
   "avversario": "Survey Life",
-  "stelle": 0,
-  "pc": 0.0,
-  "attacchi": 0,
+  "stelle": 11,
+  "pc": 26.2,
+  "attacchi": 4,
   "stelle_av": 0,
   "pc_av": 0.0,
   "attacchi_av": 0,
@@ -346,7 +380,24 @@
     "tag": "#G8LJUR0JG",
     "pos": 4,
     "th": 18,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 123,
+      "pa": 5,
+      "th": 18,
+      "o": 1
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 139,
+      "pa": 3,
+      "th": 18,
+      "o": 3
+     }
+    ],
     "dif": []
    },
    {
@@ -354,7 +405,24 @@
     "tag": "#G22G800GJ",
     "pos": 5,
     "th": 18,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 130,
+      "pa": 6,
+      "th": 18,
+      "o": 2
+     },
+     {
+      "s": 2,
+      "d": 93,
+      "t": 180,
+      "pa": 4,
+      "th": 18,
+      "o": 4
+     }
+    ],
     "dif": []
    },
    {
