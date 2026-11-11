@@ -256,7 +256,7 @@
   "2026-11": {
    "DarkHawk": {
     "lega": "Legend II",
-    "trofei": 282,
+    "trofei": 309,
     "clan": "I Subarubaracca"
    },
    "Damiano": {
@@ -271,22 +271,22 @@
    },
    "Don Arox": {
     "lega": "Legend III",
-    "trofei": 565,
+    "trofei": 633,
     "clan": "I Subarubaracca"
    },
    "mementomori": {
     "lega": "Legend III",
-    "trofei": 507,
+    "trofei": 519,
     "clan": "I Subarubaracca"
    },
    "Andrea ? ? ? ?": {
     "lega": "Legend III",
-    "trofei": 356,
+    "trofei": 450,
     "clan": "I Subarubaracca"
    },
    "zelda": {
     "lega": "Legend III",
-    "trofei": 322,
+    "trofei": 350,
     "clan": "I Subarubaracca"
    },
    "PIER": {
@@ -301,12 +301,17 @@
    },
    "Andrea": {
     "lega": "Legend III",
-    "trofei": 131,
+    "trofei": 145,
     "clan": "I Subarubaracca"
    },
    "Broccolo FF": {
     "lega": "Legend III",
     "trofei": 108,
+    "clan": "I Subarubaracca"
+   },
+   "Sandrone": {
+    "lega": "Legend III",
+    "trofei": 88,
     "clan": "I Subarubaracca"
    },
    "MaChri": {
@@ -346,17 +351,17 @@
    },
    "Gladiatore": {
     "lega": "Electro 33",
-    "trofei": 436,
+    "trofei": 611,
+    "clan": "I Subarubaracca"
+   },
+   "and66nav": {
+    "lega": "Electro 33",
+    "trofei": 315,
     "clan": "I Subarubaracca"
    },
    "LoRyXD16": {
     "lega": "Electro 33",
     "trofei": 277,
-    "clan": "I Subarubaracca"
-   },
-   "and66nav": {
-    "lega": "Electro 33",
-    "trofei": 235,
     "clan": "I Subarubaracca"
    },
    "Cinghiale_32": {
@@ -376,7 +381,7 @@
    },
    "bupalo2": {
     "lega": "Electro 33",
-    "trofei": 43,
+    "trofei": 70,
     "clan": "I Subarubaracca"
    },
    "ethan e noah": {
@@ -411,7 +416,7 @@
    },
    "danny": {
     "lega": "Electro 32",
-    "trofei": 41,
+    "trofei": 59,
     "clan": "I Subarubaracca"
    },
    "♦️CIP♥️": {
@@ -426,7 +431,7 @@
    },
    "Hope": {
     "lega": "Dragon 29",
-    "trofei": 427,
+    "trofei": 627,
     "clan": "I Subarubaracca"
    },
    "GINOPECORINO": {
@@ -515,6 +520,11 @@
     "clan": "LJMT"
    },
    "Temistocle25": {
+    "lega": "P.E.K.K.A 24",
+    "trofei": 0,
+    "clan": "LJMT"
+   },
+   "Damiano2": {
     "lega": "P.E.K.K.A 24",
     "trofei": 0,
     "clan": "LJMT"
