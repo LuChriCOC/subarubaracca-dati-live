@@ -281,22 +281,22 @@
    },
    "Andrea ? ? ? ?": {
     "lega": "Legend III",
-    "trofei": 450,
+    "trofei": 462,
     "clan": "I Subarubaracca"
    },
    "zelda": {
     "lega": "Legend III",
-    "trofei": 350,
+    "trofei": 365,
+    "clan": "I Subarubaracca"
+   },
+   "PIER": {
+    "lega": "Legend III",
+    "trofei": 265,
     "clan": "I Subarubaracca"
    },
    "AtTiTuDePrObLeM": {
     "lega": "Legend III",
     "trofei": 228,
-    "clan": "I Subarubaracca"
-   },
-   "PIER": {
-    "lega": "Legend III",
-    "trofei": 225,
     "clan": "I Subarubaracca"
    },
    "Andrea": {
@@ -354,6 +354,11 @@
     "trofei": 611,
     "clan": "I Subarubaracca"
    },
+   "Cinghiale_32": {
+    "lega": "Electro 33",
+    "trofei": 419,
+    "clan": "I Subarubaracca"
+   },
    "and66nav": {
     "lega": "Electro 33",
     "trofei": 315,
@@ -361,17 +366,12 @@
    },
    "LoRyXD16": {
     "lega": "Electro 33",
-    "trofei": 277,
-    "clan": "I Subarubaracca"
-   },
-   "Cinghiale_32": {
-    "lega": "Electro 33",
-    "trofei": 139,
+    "trofei": 304,
     "clan": "I Subarubaracca"
    },
    "bupalo": {
     "lega": "Electro 33",
-    "trofei": 94,
+    "trofei": 104,
     "clan": "I Subarubaracca"
    },
    "TEAM ★ ALPHA": {
@@ -456,7 +456,7 @@
    },
    "Lam75": {
     "lega": "Legend III",
-    "trofei": 202,
+    "trofei": 213,
     "clan": "LJMT"
    },
    "Mal75": {
@@ -466,7 +466,7 @@
    },
    "Beast": {
     "lega": "Legend III",
-    "trofei": 34,
+    "trofei": 117,
     "clan": "LJMT"
    },
    "⚔️Trouble⚔️": {
