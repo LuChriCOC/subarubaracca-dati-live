@@ -2,7 +2,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-12T11:45:27Z",
+  "visto": "2026-11-12T14:04:38Z",
   "stato": "inWar",
   "id": "20261110T223520.000Z",
   "inizio": "20261111T213520.000Z",
@@ -10,9 +10,9 @@
   "dimensione": 35,
   "attacchi_per_player": 2,
   "avversario": "Teh V Squad",
-  "stelle": 89,
-  "pc": 85.3,
-  "attacchi": 36,
+  "stelle": 92,
+  "pc": 88.4,
+  "attacchi": 38,
   "stelle_av": 56,
   "pc_av": 54.2,
   "attacchi_av": 19,
@@ -622,7 +622,16 @@
     "tag": "#RLGJR8QY",
     "pos": 25,
     "th": 18,
-    "att": [],
+    "att": [
+     {
+      "s": 2,
+      "d": 93,
+      "t": 165,
+      "pa": 24,
+      "th": 18,
+      "o": 57
+     }
+    ],
     "dif": []
    },
    {
@@ -662,6 +671,14 @@
       "pa": 19,
       "th": 18,
       "o": 8
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 102,
+      "pa": 28,
+      "th": 18,
+      "o": 56
      }
     ],
     "dif": []
@@ -762,7 +779,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-12T11:45:27Z",
+  "visto": "2026-11-12T14:04:38Z",
   "stato": "inWar",
   "id": "20261110T222134.000Z",
   "inizio": "20261111T212134.000Z",
@@ -773,9 +790,9 @@
   "stelle": 20,
   "pc": 50.3,
   "attacchi": 8,
-  "stelle_av": 12,
-  "pc_av": 30.1,
-  "attacchi_av": 6,
+  "stelle_av": 18,
+  "pc_av": 44.0,
+  "attacchi_av": 9,
   "player": [
    {
     "nome": "⚔️Trouble⚔️",
@@ -791,7 +808,15 @@
     "pos": 2,
     "th": 18,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 2,
+      "d": 69,
+      "t": 122,
+      "da": 2,
+      "o": 15
+     }
+    ]
    },
    {
     "nome": "Beast",
@@ -841,7 +866,15 @@
       "o": 3
      }
     ],
-    "dif": []
+    "dif": [
+     {
+      "s": 2,
+      "d": 83,
+      "t": 143,
+      "da": 4,
+      "o": 16
+     }
+    ]
    },
    {
     "nome": "Lam75",
@@ -906,7 +939,15 @@
     "pos": 9,
     "th": 17,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 2,
+      "d": 56,
+      "t": 103,
+      "da": 11,
+      "o": 17
+     }
+    ]
    },
    {
     "nome": "Temistocle25",
