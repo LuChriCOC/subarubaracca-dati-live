@@ -256,7 +256,7 @@
   "2026-11": {
    "DarkHawk": {
     "lega": "Legend II",
-    "trofei": 350,
+    "trofei": 379,
     "clan": "I Subarubaracca"
    },
    "Damiano": {
@@ -291,37 +291,37 @@
    },
    "zelda": {
     "lega": "Legend III",
-    "trofei": 391,
+    "trofei": 431,
     "clan": "I Subarubaracca"
    },
    "PIER": {
     "lega": "Legend III",
-    "trofei": 265,
+    "trofei": 287,
     "clan": "I Subarubaracca"
    },
    "AtTiTuDePrObLeM": {
     "lega": "Legend III",
-    "trofei": 228,
+    "trofei": 249,
     "clan": "I Subarubaracca"
    },
    "Broccolo FF": {
     "lega": "Legend III",
-    "trofei": 151,
+    "trofei": 178,
     "clan": "I Subarubaracca"
    },
    "Andrea": {
     "lega": "Legend III",
-    "trofei": 145,
+    "trofei": 162,
+    "clan": "I Subarubaracca"
+   },
+   "MaChri": {
+    "lega": "Legend III",
+    "trofei": 122,
     "clan": "I Subarubaracca"
    },
    "Sandrone": {
     "lega": "Legend III",
     "trofei": 119,
-    "clan": "I Subarubaracca"
-   },
-   "MaChri": {
-    "lega": "Legend III",
-    "trofei": 98,
     "clan": "I Subarubaracca"
    },
    "Mast3rPlay": {
@@ -374,19 +374,19 @@
     "trofei": 315,
     "clan": "I Subarubaracca"
    },
+   "bupalo2": {
+    "lega": "Electro 33",
+    "trofei": 142,
+    "clan": "I Subarubaracca"
+   },
    "bupalo": {
     "lega": "Electro 33",
     "trofei": 139,
     "clan": "I Subarubaracca"
    },
-   "bupalo2": {
-    "lega": "Electro 33",
-    "trofei": 126,
-    "clan": "I Subarubaracca"
-   },
    "PigsKing32": {
     "lega": "Electro 33",
-    "trofei": 101,
+    "trofei": 136,
     "clan": "I Subarubaracca"
    },
    "TEAM ★ ALPHA": {
@@ -426,7 +426,7 @@
    },
    "♦️CIP♥️": {
     "lega": "Electro 32",
-    "trofei": 22,
+    "trofei": 38,
     "clan": "I Subarubaracca"
    },
    "Andrif94 II": {
@@ -471,7 +471,7 @@
    },
    "Beast": {
     "lega": "Legend III",
-    "trofei": 117,
+    "trofei": 143,
     "clan": "LJMT"
    },
    "⚔️Trouble⚔️": {
@@ -545,6 +545,11 @@
     "clan": "LJMT"
    },
    "TEAM Σ SIGMA": {
+    "lega": "Unranked",
+    "trofei": 0,
+    "clan": "LJMT"
+   },
+   "Luma-3": {
     "lega": "Unranked",
     "trofei": 0,
     "clan": "LJMT"
