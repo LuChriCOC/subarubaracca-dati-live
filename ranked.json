@@ -281,7 +281,7 @@
    },
    "*,...,*": {
     "lega": "Legend III",
-    "trofei": 519,
+    "trofei": 572,
     "clan": "I Subarubaracca"
    },
    "Andrea ? ? ? ?": {
@@ -291,12 +291,17 @@
    },
    "zelda": {
     "lega": "Legend III",
-    "trofei": 431,
+    "trofei": 471,
     "clan": "I Subarubaracca"
    },
    "PIER": {
     "lega": "Legend III",
     "trofei": 287,
+    "clan": "I Subarubaracca"
+   },
+   "Andrea": {
+    "lega": "Legend III",
+    "trofei": 273,
     "clan": "I Subarubaracca"
    },
    "AtTiTuDePrObLeM": {
@@ -312,11 +317,6 @@
    "Broccolo FF": {
     "lega": "Legend III",
     "trofei": 178,
-    "clan": "I Subarubaracca"
-   },
-   "Andrea": {
-    "lega": "Legend III",
-    "trofei": 162,
     "clan": "I Subarubaracca"
    },
    "MaChri": {
@@ -356,12 +356,12 @@
    },
    "PetoKappa": {
     "lega": "Electro 33",
-    "trofei": 812,
+    "trofei": 835,
     "clan": "I Subarubaracca"
    },
    "Gladiatore": {
     "lega": "Electro 33",
-    "trofei": 649,
+    "trofei": 703,
     "clan": "I Subarubaracca"
    },
    "LoRyXD16": {
@@ -481,7 +481,7 @@
    },
    "SAM": {
     "lega": "Electro 32",
-    "trofei": 310,
+    "trofei": 328,
     "clan": "LJMT"
    },
    "Pierone11": {
