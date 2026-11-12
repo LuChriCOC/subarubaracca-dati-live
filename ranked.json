@@ -276,7 +276,7 @@
    },
    "mementomori": {
     "lega": "Legend III",
-    "trofei": 531,
+    "trofei": 591,
     "clan": "I Subarubaracca"
    },
    "*,...,*": {
@@ -304,6 +304,11 @@
     "trofei": 249,
     "clan": "I Subarubaracca"
    },
+   "Sandrone": {
+    "lega": "Legend III",
+    "trofei": 199,
+    "clan": "I Subarubaracca"
+   },
    "Broccolo FF": {
     "lega": "Legend III",
     "trofei": 178,
@@ -317,11 +322,6 @@
    "MaChri": {
     "lega": "Legend III",
     "trofei": 122,
-    "clan": "I Subarubaracca"
-   },
-   "Sandrone": {
-    "lega": "Legend III",
-    "trofei": 119,
     "clan": "I Subarubaracca"
    },
    "Mast3rPlay": {
@@ -361,7 +361,7 @@
    },
    "Gladiatore": {
     "lega": "Electro 33",
-    "trofei": 631,
+    "trofei": 649,
     "clan": "I Subarubaracca"
    },
    "LoRyXD16": {
@@ -374,6 +374,11 @@
     "trofei": 315,
     "clan": "I Subarubaracca"
    },
+   "PigsKing32": {
+    "lega": "Electro 33",
+    "trofei": 161,
+    "clan": "I Subarubaracca"
+   },
    "bupalo2": {
     "lega": "Electro 33",
     "trofei": 142,
@@ -382,11 +387,6 @@
    "bupalo": {
     "lega": "Electro 33",
     "trofei": 139,
-    "clan": "I Subarubaracca"
-   },
-   "PigsKing32": {
-    "lega": "Electro 33",
-    "trofei": 136,
     "clan": "I Subarubaracca"
    },
    "TEAM ★ ALPHA": {
@@ -411,12 +411,12 @@
    },
    "hummer": {
     "lega": "Electro 32",
-    "trofei": 158,
+    "trofei": 166,
     "clan": "I Subarubaracca"
    },
    "il Greco": {
     "lega": "Electro 32",
-    "trofei": 151,
+    "trofei": 159,
     "clan": "I Subarubaracca"
    },
    "danny": {
@@ -436,7 +436,7 @@
    },
    "Hope": {
     "lega": "Dragon 29",
-    "trofei": 627,
+    "trofei": 647,
     "clan": "I Subarubaracca"
    },
    "GINOPECORINO": {
