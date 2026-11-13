@@ -291,12 +291,12 @@
    },
    "mementomori": {
     "lega": "Legend III",
-    "trofei": 729,
+    "trofei": 744,
     "clan": "I Subarubaracca"
    },
    "PIER": {
     "lega": "Legend III",
-    "trofei": 610,
+    "trofei": 664,
     "clan": "I Subarubaracca"
    },
    "Sandrone": {
@@ -361,7 +361,7 @@
    },
    "PigsKing32": {
     "lega": "Electro 33",
-    "trofei": 765,
+    "trofei": 783,
     "clan": "I Subarubaracca"
    },
    "Gladiatore": {
@@ -469,14 +469,14 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
-   "Mal75": {
-    "lega": "Legend III",
-    "trofei": 372,
-    "clan": "LJMT"
-   },
    "Lam75": {
     "lega": "Legend III",
-    "trofei": 353,
+    "trofei": 423,
+    "clan": "LJMT"
+   },
+   "Mal75": {
+    "lega": "Legend III",
+    "trofei": 408,
     "clan": "LJMT"
    },
    "poa": {
