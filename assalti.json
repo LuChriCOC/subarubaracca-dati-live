@@ -12,14 +12,24 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 110419,
-     "raid": 1,
-     "attacchi": 22,
-     "distretti": 10,
-     "player": 6
+     "oro": 265694,
+     "raid": 2,
+     "attacchi": 59,
+     "distretti": 24,
+     "player": 11
     }
    ],
    "player": [
+    {
+     "nome": "ethan e noah",
+     "tag": "#JP9GP2PG",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 32395
+    },
     {
      "nome": "Andrif94 II",
      "tag": "#G2VULPRUV",
@@ -29,6 +39,26 @@
      "att": 6,
      "lim": 6,
      "oro": 31494
+    },
+    {
+     "nome": "TEAM Γ GAMMA",
+     "tag": "#89QVG80GU",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 30266
+    },
+    {
+     "nome": "Sandrone",
+     "tag": "#RLGJR8QY",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 29139
     },
     {
      "nome": "Andrif94",
@@ -41,34 +71,54 @@
      "oro": 26471
     },
     {
-     "nome": "ethan e noah",
-     "tag": "#JP9GP2PG",
-     "in": [
-      "I Subarubaracca"
-     ],
-     "att": 4,
-     "lim": 6,
-     "oro": 22146
-    },
-    {
      "nome": "PIER",
      "tag": "#UUGJP0RL",
      "in": [
       "I Subarubaracca"
      ],
-     "att": 3,
+     "att": 6,
      "lim": 6,
-     "oro": 13667
+     "oro": 24044
     },
     {
-     "nome": "Sandrone",
-     "tag": "#RLGJR8QY",
+     "nome": "Andrea ? ? ? ?",
+     "tag": "#2VJ0LG80",
      "in": [
       "I Subarubaracca"
      ],
-     "att": 2,
+     "att": 6,
      "lim": 6,
-     "oro": 11187
+     "oro": 23828
+    },
+    {
+     "nome": "and66nav",
+     "tag": "#QJG9URP8G",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 23399
+    },
+    {
+     "nome": "TEAM ★ ALPHA",
+     "tag": "#GRRGQGPJ",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 21784
+    },
+    {
+     "nome": "Petonella",
+     "tag": "#GUQYVLPVU",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 4,
+     "lim": 6,
+     "oro": 17420
     },
     {
      "nome": "MaChri",
@@ -87,16 +137,8 @@
      "tag": "#2VRR929LL"
     },
     {
-     "nome": "and66nav",
-     "tag": "#QJG9URP8G"
-    },
-    {
      "nome": "Andrea",
      "tag": "#RPPUJJGU"
-    },
-    {
-     "nome": "Andrea ? ? ? ?",
-     "tag": "#2VJ0LG80"
     },
     {
      "nome": "AtTiTuDePrObLeM",
@@ -179,10 +221,6 @@
      "tag": "#GRJ90UY2U"
     },
     {
-     "nome": "Petonella",
-     "tag": "#GUQYVLPVU"
-    },
-    {
      "nome": "Petos",
      "tag": "#9VVV0VP"
     },
@@ -191,16 +229,12 @@
      "tag": "#2C2UJQCC"
     },
     {
+     "nome": "SIMO03",
+     "tag": "#8UP8QG90U"
+    },
+    {
      "nome": "Spidey$",
      "tag": "#GY00QVQQY"
-    },
-    {
-     "nome": "TEAM Γ GAMMA",
-     "tag": "#89QVG80GU"
-    },
-    {
-     "nome": "TEAM ★ ALPHA",
-     "tag": "#GRRGQGPJ"
     },
     {
      "nome": "THE KRAKEN",
@@ -213,6 +247,10 @@
     {
      "nome": "zelda",
      "tag": "#2JRC9Y9LP"
+    },
+    {
+     "nome": "♦️CIP♥️",
+     "tag": "#V80C88G2"
     }
    ]
   },
