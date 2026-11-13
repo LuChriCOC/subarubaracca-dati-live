@@ -1,15 +1,15 @@
 {
-  "aggiornato": "2026-11-12",
+  "aggiornato": "2026-11-13",
   "clan": [
     {
       "nome": "I Subarubaracca",
       "colore": "#2563A8",
       "vinte": 187,
       "perse": 62,
-      "pareggi": 76,
-      "totale": 325,
+      "pareggi": 77,
+      "totale": 326,
       "serie": 8,
-      "posizione": 104,
+      "posizione": 103,
       "luogo": "Italy",
       "prima_war": "2023-11-26",
       "stemma": "img/clan/2Q9208QQV.png",
@@ -22,10 +22,10 @@
     {
       "nome": "LJMT",
       "colore": "#B4692A",
-      "vinte": 102,
+      "vinte": 103,
       "perse": 48,
       "pareggi": 19,
-      "totale": 169,
+      "totale": 170,
       "serie": 5,
       "posizione": null,
       "luogo": "Italy",
