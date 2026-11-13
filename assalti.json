@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 63419,
-     "raid": 0,
-     "attacchi": 13,
-     "distretti": 6,
-     "player": 3
+     "oro": 110419,
+     "raid": 1,
+     "attacchi": 22,
+     "distretti": 10,
+     "player": 6
     }
    ],
    "player": [
@@ -39,6 +39,36 @@
      "att": 6,
      "lim": 6,
      "oro": 26471
+    },
+    {
+     "nome": "ethan e noah",
+     "tag": "#JP9GP2PG",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 4,
+     "lim": 6,
+     "oro": 22146
+    },
+    {
+     "nome": "PIER",
+     "tag": "#UUGJP0RL",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 3,
+     "lim": 6,
+     "oro": 13667
+    },
+    {
+     "nome": "Sandrone",
+     "tag": "#RLGJR8QY",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 2,
+     "lim": 6,
+     "oro": 11187
     },
     {
      "nome": "MaChri",
@@ -113,10 +143,6 @@
      "tag": "#2QQ90QU2C"
     },
     {
-     "nome": "ethan e noah",
-     "tag": "#JP9GP2PG"
-    },
-    {
      "nome": "Gladiatore",
      "tag": "#QJLUJG0CJ"
     },
@@ -161,16 +187,8 @@
      "tag": "#9VVV0VP"
     },
     {
-     "nome": "PIER",
-     "tag": "#UUGJP0RL"
-    },
-    {
      "nome": "PigsKing32",
      "tag": "#2C2UJQCC"
-    },
-    {
-     "nome": "Sandrone",
-     "tag": "#RLGJR8QY"
     },
     {
      "nome": "Spidey$",

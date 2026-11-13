@@ -1,8 +1,148 @@
 {
+ "LJMT": {
+  "clan": "LJMT",
+  "tag": "#2R2L22YU2",
+  "visto": "2026-11-13T09:46:10Z",
+  "stato": "preparation",
+  "id": "20261112T225634.000Z",
+  "inizio": "20261113T215634.000Z",
+  "fine": "20261114T215634.000Z",
+  "dimensione": 15,
+  "attacchi_per_player": 2,
+  "avversario": "BLACK LIST",
+  "stelle": 0,
+  "pc": 0.0,
+  "attacchi": 0,
+  "stelle_av": 0,
+  "pc_av": 0.0,
+  "attacchi_av": 0,
+  "player": [
+   {
+    "nome": "SAM",
+    "tag": "#80CPYL90Y",
+    "pos": 1,
+    "th": 18,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "⚔️Trouble⚔️",
+    "tag": "#GLVLQ0U8C",
+    "pos": 2,
+    "th": 18,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "Mast3rPlay",
+    "tag": "#22088Y2Y8",
+    "pos": 3,
+    "th": 18,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "Beast",
+    "tag": "#Q2JCV890C",
+    "pos": 4,
+    "th": 18,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "Mal75",
+    "tag": "#G8LJUR0JG",
+    "pos": 5,
+    "th": 18,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "Lam75",
+    "tag": "#G22G800GJ",
+    "pos": 6,
+    "th": 18,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "Bruno",
+    "tag": "#2Y020CY2R",
+    "pos": 7,
+    "th": 17,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "milk",
+    "tag": "#QJL9P9P",
+    "pos": 8,
+    "th": 17,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "TEAM Σ SIGMA",
+    "tag": "#GYJ88UL89",
+    "pos": 9,
+    "th": 18,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "THE KRAKEN3",
+    "tag": "#GC9QQV9CV",
+    "pos": 10,
+    "th": 17,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "⚔️Trouble-2⚔️",
+    "tag": "#GQ08LJYC2",
+    "pos": 11,
+    "th": 17,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "Damiano2",
+    "tag": "#QUY8JUR29",
+    "pos": 12,
+    "th": 17,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "Temistocle25",
+    "tag": "#8CVG2UJC",
+    "pos": 13,
+    "th": 17,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "Giulia",
+    "tag": "#2Q9QCUU9U",
+    "pos": 14,
+    "th": 16,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "Mast3rPlay 2nd",
+    "tag": "#2L8YY9JY2",
+    "pos": 15,
+    "th": 16,
+    "att": [],
+    "dif": []
+   }
+  ]
+ },
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-13T08:08:32Z",
+  "visto": "2026-11-13T09:46:10Z",
   "stato": "preparation",
   "id": "20261112T224156.000Z",
   "inizio": "20261113T214156.000Z",
@@ -294,146 +434,6 @@
     "tag": "#G2VULPRUV",
     "pos": 35,
     "th": 18,
-    "att": [],
-    "dif": []
-   }
-  ]
- },
- "LJMT": {
-  "clan": "LJMT",
-  "tag": "#2R2L22YU2",
-  "visto": "2026-11-13T08:08:32Z",
-  "stato": "preparation",
-  "id": "20261112T225634.000Z",
-  "inizio": "20261113T215634.000Z",
-  "fine": "20261114T215634.000Z",
-  "dimensione": 15,
-  "attacchi_per_player": 2,
-  "avversario": "BLACK LIST",
-  "stelle": 0,
-  "pc": 0.0,
-  "attacchi": 0,
-  "stelle_av": 0,
-  "pc_av": 0.0,
-  "attacchi_av": 0,
-  "player": [
-   {
-    "nome": "SAM",
-    "tag": "#80CPYL90Y",
-    "pos": 1,
-    "th": 18,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "⚔️Trouble⚔️",
-    "tag": "#GLVLQ0U8C",
-    "pos": 2,
-    "th": 18,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "Mast3rPlay",
-    "tag": "#22088Y2Y8",
-    "pos": 3,
-    "th": 18,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "Beast",
-    "tag": "#Q2JCV890C",
-    "pos": 4,
-    "th": 18,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "Mal75",
-    "tag": "#G8LJUR0JG",
-    "pos": 5,
-    "th": 18,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "Lam75",
-    "tag": "#G22G800GJ",
-    "pos": 6,
-    "th": 18,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "Bruno",
-    "tag": "#2Y020CY2R",
-    "pos": 7,
-    "th": 17,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "milk",
-    "tag": "#QJL9P9P",
-    "pos": 8,
-    "th": 17,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "TEAM Σ SIGMA",
-    "tag": "#GYJ88UL89",
-    "pos": 9,
-    "th": 18,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "THE KRAKEN3",
-    "tag": "#GC9QQV9CV",
-    "pos": 10,
-    "th": 17,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "⚔️Trouble-2⚔️",
-    "tag": "#GQ08LJYC2",
-    "pos": 11,
-    "th": 17,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "Damiano2",
-    "tag": "#QUY8JUR29",
-    "pos": 12,
-    "th": 17,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "Temistocle25",
-    "tag": "#8CVG2UJC",
-    "pos": 13,
-    "th": 17,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "Giulia",
-    "tag": "#2Q9QCUU9U",
-    "pos": 14,
-    "th": 16,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "Mast3rPlay 2nd",
-    "tag": "#2L8YY9JY2",
-    "pos": 15,
-    "th": 16,
     "att": [],
     "dif": []
    }
