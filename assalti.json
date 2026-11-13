@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 265694,
-     "raid": 2,
-     "attacchi": 59,
-     "distretti": 24,
-     "player": 11
+     "oro": 313832,
+     "raid": 3,
+     "attacchi": 71,
+     "distretti": 28,
+     "player": 14
     }
    ],
    "player": [
@@ -61,6 +61,16 @@
      "oro": 29139
     },
     {
+     "nome": "Petonella",
+     "tag": "#GUQYVLPVU",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 27781
+    },
+    {
      "nome": "Andrif94",
      "tag": "#YPG8VVPL",
      "in": [
@@ -101,6 +111,16 @@
      "oro": 23399
     },
     {
+     "nome": "Petos",
+     "tag": "#9VVV0VP",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 22686
+    },
+    {
      "nome": "TEAM ★ ALPHA",
      "tag": "#GRRGQGPJ",
      "in": [
@@ -111,14 +131,14 @@
      "oro": 21784
     },
     {
-     "nome": "Petonella",
-     "tag": "#GUQYVLPVU",
+     "nome": "PetoKappa",
+     "tag": "#GRJ90UY2U",
      "in": [
       "I Subarubaracca"
      ],
      "att": 4,
      "lim": 6,
-     "oro": 17420
+     "oro": 15091
     },
     {
      "nome": "MaChri",
@@ -129,6 +149,16 @@
      "att": 1,
      "lim": 6,
      "oro": 5454
+    },
+    {
+     "nome": "zelda",
+     "tag": "#2JRC9Y9LP",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 0,
+     "lim": 5,
+     "oro": 0
     }
    ],
    "assenti": [
@@ -181,6 +211,10 @@
      "tag": "#2YUJGVCVV"
     },
     {
+     "nome": "Davide",
+     "tag": "#9CYLG928"
+    },
+    {
      "nome": "Don Arox",
      "tag": "#2QQ90QU2C"
     },
@@ -217,14 +251,6 @@
      "tag": "#QQRQ9YGYQ"
     },
     {
-     "nome": "PetoKappa",
-     "tag": "#GRJ90UY2U"
-    },
-    {
-     "nome": "Petos",
-     "tag": "#9VVV0VP"
-    },
-    {
      "nome": "PigsKing32",
      "tag": "#2C2UJQCC"
     },
@@ -245,8 +271,8 @@
      "tag": "#QGQYR999P"
     },
     {
-     "nome": "zelda",
-     "tag": "#2JRC9Y9LP"
+     "nome": "☠️☠️IT☠️☠️FF",
+     "tag": "#YU8YURG2Y"
     },
     {
      "nome": "♦️CIP♥️",
