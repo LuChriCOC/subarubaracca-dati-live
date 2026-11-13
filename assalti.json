@@ -12,11 +12,19 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 371132,
-     "raid": 3,
-     "attacchi": 83,
+     "oro": 378892,
+     "raid": 4,
+     "attacchi": 85,
      "distretti": 33,
-     "player": 15
+     "player": 16
+    },
+    {
+     "nome": "LJMT",
+     "oro": 0,
+     "raid": 0,
+     "attacchi": 0,
+     "distretti": 0,
+     "player": 0
     }
    ],
    "player": [
@@ -161,6 +169,16 @@
      "oro": 15091
     },
     {
+     "nome": "Broccolo FF",
+     "tag": "#LRC22VRP",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 2,
+     "lim": 5,
+     "oro": 7760
+    },
+    {
      "nome": "MaChri",
      "tag": "#YLLQ9RJ9Y",
      "in": [
@@ -177,6 +195,10 @@
      "tag": "#2VRR929LL"
     },
     {
+     "nome": "___Samu___",
+     "tag": "#2PGQGV0YY"
+    },
+    {
      "nome": "Andrea",
      "tag": "#RPPUJJGU"
     },
@@ -185,12 +207,24 @@
      "tag": "#CCUVGGV9"
     },
     {
+     "nome": "Banned_Paul",
+     "tag": "#GLVUJ99QG"
+    },
+    {
+     "nome": "Beast",
+     "tag": "#Q2JCV890C"
+    },
+    {
+     "nome": "BH⚔️ClashLegend",
+     "tag": "#G00LQVU0C"
+    },
+    {
      "nome": "billboy",
      "tag": "#J8UQ2QL"
     },
     {
-     "nome": "Broccolo FF",
-     "tag": "#LRC22VRP"
+     "nome": "Bruno",
+     "tag": "#2Y020CY2R"
     },
     {
      "nome": "bupalo",
@@ -217,6 +251,10 @@
      "tag": "#YJU8VVRY2"
     },
     {
+     "nome": "Damiano2",
+     "tag": "#QUY8JUR29"
+    },
+    {
      "nome": "DarkHawk",
      "tag": "#2YUJGVCVV"
     },
@@ -227,6 +265,10 @@
     {
      "nome": "Don Arox",
      "tag": "#2QQ90QU2C"
+    },
+    {
+     "nome": "Giulia",
+     "tag": "#2Q9QCUU9U"
     },
     {
      "nome": "Gladiatore",
@@ -245,6 +287,10 @@
      "tag": "#9YU8Q92GL"
     },
     {
+     "nome": "Lam75",
+     "tag": "#G22G800GJ"
+    },
+    {
      "nome": "LoRyXD16",
      "tag": "#8GV2CCU2V"
     },
@@ -253,12 +299,48 @@
      "tag": "#Q9JPRL9GQ"
     },
     {
+     "nome": "Luma-2",
+     "tag": "#G98Q0C9UU"
+    },
+    {
+     "nome": "Luma-3",
+     "tag": "#GQP8U8UC9"
+    },
+    {
+     "nome": "Mal75",
+     "tag": "#G8LJUR0JG"
+    },
+    {
      "nome": "Mast3rPlay",
      "tag": "#22088Y2Y8"
     },
     {
+     "nome": "Mast3rPlay 2nd",
+     "tag": "#2L8YY9JY2"
+    },
+    {
+     "nome": "michele10",
+     "tag": "#82808RUU"
+    },
+    {
+     "nome": "milk",
+     "tag": "#QJL9P9P"
+    },
+    {
+     "nome": "Pierone11",
+     "tag": "#LQ2VVG8J"
+    },
+    {
      "nome": "PigsKing32",
      "tag": "#2C2UJQCC"
+    },
+    {
+     "nome": "poa",
+     "tag": "#9QJJJ0URU"
+    },
+    {
+     "nome": "SAM",
+     "tag": "#80CPYL90Y"
     },
     {
      "nome": "SIMO03",
@@ -269,6 +351,14 @@
      "tag": "#GY00QVQQY"
     },
     {
+     "nome": "TEAM Σ SIGMA",
+     "tag": "#GYJ88UL89"
+    },
+    {
+     "nome": "Temistocle25",
+     "tag": "#8CVG2UJC"
+    },
+    {
      "nome": "THE KRAKEN",
      "tag": "#9JV82UV8"
     },
@@ -277,12 +367,24 @@
      "tag": "#QGQYR999P"
     },
     {
+     "nome": "THE KRAKEN3",
+     "tag": "#GC9QQV9CV"
+    },
+    {
      "nome": "☠️☠️IT☠️☠️FF",
      "tag": "#YU8YURG2Y"
     },
     {
      "nome": "♦️CIP♥️",
      "tag": "#V80C88G2"
+    },
+    {
+     "nome": "⚔️Trouble-2⚔️",
+     "tag": "#GQ08LJYC2"
+    },
+    {
+     "nome": "⚔️Trouble⚔️",
+     "tag": "#GLVLQ0U8C"
     }
    ]
   },
