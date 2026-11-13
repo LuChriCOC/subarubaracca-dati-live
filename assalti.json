@@ -6,6 +6,199 @@
  },
  "weekend": [
   {
+   "inizio": "20261113T070000.000Z",
+   "fine": "20261116T070000.000Z",
+   "stato": "ongoing",
+   "clan": [
+    {
+     "nome": "I Subarubaracca",
+     "oro": 63419,
+     "raid": 0,
+     "attacchi": 13,
+     "distretti": 6,
+     "player": 3
+    }
+   ],
+   "player": [
+    {
+     "nome": "Andrif94 II",
+     "tag": "#G2VULPRUV",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 31494
+    },
+    {
+     "nome": "Andrif94",
+     "tag": "#YPG8VVPL",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 26471
+    },
+    {
+     "nome": "MaChri",
+     "tag": "#YLLQ9RJ9Y",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 1,
+     "lim": 6,
+     "oro": 5454
+    }
+   ],
+   "assenti": [
+    {
+     "nome": "*,...,*",
+     "tag": "#2VRR929LL"
+    },
+    {
+     "nome": "and66nav",
+     "tag": "#QJG9URP8G"
+    },
+    {
+     "nome": "Andrea",
+     "tag": "#RPPUJJGU"
+    },
+    {
+     "nome": "Andrea ? ? ? ?",
+     "tag": "#2VJ0LG80"
+    },
+    {
+     "nome": "AtTiTuDePrObLeM",
+     "tag": "#CCUVGGV9"
+    },
+    {
+     "nome": "billboy",
+     "tag": "#J8UQ2QL"
+    },
+    {
+     "nome": "Broccolo FF",
+     "tag": "#LRC22VRP"
+    },
+    {
+     "nome": "bupalo",
+     "tag": "#L82QJY9Y9"
+    },
+    {
+     "nome": "bupalo2",
+     "tag": "#LUPU8GJ9L"
+    },
+    {
+     "nome": "Cinghiale32",
+     "tag": "#8U2VYJ80"
+    },
+    {
+     "nome": "Cinghiale_32",
+     "tag": "#GPCG8PRRG"
+    },
+    {
+     "nome": "Claude Monet",
+     "tag": "#2PY2YVYG9"
+    },
+    {
+     "nome": "Damiano",
+     "tag": "#YJU8VVRY2"
+    },
+    {
+     "nome": "DarkHawk",
+     "tag": "#2YUJGVCVV"
+    },
+    {
+     "nome": "Don Arox",
+     "tag": "#2QQ90QU2C"
+    },
+    {
+     "nome": "ethan e noah",
+     "tag": "#JP9GP2PG"
+    },
+    {
+     "nome": "Gladiatore",
+     "tag": "#QJLUJG0CJ"
+    },
+    {
+     "nome": "Hope",
+     "tag": "#VJRJUUVC"
+    },
+    {
+     "nome": "hummer",
+     "tag": "#LQY0C88VJ"
+    },
+    {
+     "nome": "il Greco",
+     "tag": "#9YU8Q92GL"
+    },
+    {
+     "nome": "LoRyXD16",
+     "tag": "#8GV2CCU2V"
+    },
+    {
+     "nome": "Luma",
+     "tag": "#Q9JPRL9GQ"
+    },
+    {
+     "nome": "Mast3rPlay",
+     "tag": "#22088Y2Y8"
+    },
+    {
+     "nome": "mementomori",
+     "tag": "#QQRQ9YGYQ"
+    },
+    {
+     "nome": "PetoKappa",
+     "tag": "#GRJ90UY2U"
+    },
+    {
+     "nome": "Petonella",
+     "tag": "#GUQYVLPVU"
+    },
+    {
+     "nome": "Petos",
+     "tag": "#9VVV0VP"
+    },
+    {
+     "nome": "PIER",
+     "tag": "#UUGJP0RL"
+    },
+    {
+     "nome": "PigsKing32",
+     "tag": "#2C2UJQCC"
+    },
+    {
+     "nome": "Sandrone",
+     "tag": "#RLGJR8QY"
+    },
+    {
+     "nome": "Spidey$",
+     "tag": "#GY00QVQQY"
+    },
+    {
+     "nome": "TEAM Γ GAMMA",
+     "tag": "#89QVG80GU"
+    },
+    {
+     "nome": "TEAM ★ ALPHA",
+     "tag": "#GRRGQGPJ"
+    },
+    {
+     "nome": "THE KRAKEN",
+     "tag": "#9JV82UV8"
+    },
+    {
+     "nome": "THE KRAKEN2",
+     "tag": "#QGQYR999P"
+    },
+    {
+     "nome": "zelda",
+     "tag": "#2JRC9Y9LP"
+    }
+   ]
+  },
+  {
    "inizio": "20261106T070000.000Z",
    "fine": "20261109T070000.000Z",
    "stato": "ended",
