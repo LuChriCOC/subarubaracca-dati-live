@@ -2,7 +2,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-14T16:34:01Z",
+  "visto": "2026-11-14T17:29:53Z",
   "stato": "inWar",
   "id": "20261112T224156.000Z",
   "inizio": "20261113T214156.000Z",
@@ -1140,7 +1140,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-14T16:34:01Z",
+  "visto": "2026-11-14T17:29:53Z",
   "stato": "inWar",
   "id": "20261112T225634.000Z",
   "inizio": "20261113T215634.000Z",
@@ -1148,9 +1148,9 @@
   "dimensione": 15,
   "attacchi_per_player": 2,
   "avversario": "BLACK LIST",
-  "stelle": 37,
-  "pc": 85.3,
-  "attacchi": 14,
+  "stelle": 42,
+  "pc": 97.9,
+  "attacchi": 17,
   "stelle_av": 38,
   "pc_av": 94.6,
   "attacchi_av": 24,
@@ -1345,7 +1345,16 @@
     "tag": "#2Y020CY2R",
     "pos": 7,
     "th": 17,
-    "att": [],
+    "att": [
+     {
+      "s": 2,
+      "d": 89,
+      "t": 175,
+      "pa": 13,
+      "th": 16,
+      "o": 40
+     }
+    ],
     "dif": [
      {
       "s": 2,
@@ -1368,7 +1377,24 @@
     "tag": "#QJL9P9P",
     "pos": 8,
     "th": 17,
-    "att": [],
+    "att": [
+     {
+      "s": 2,
+      "d": 57,
+      "t": 131,
+      "pa": 12,
+      "th": 16,
+      "o": 39
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 147,
+      "pa": 15,
+      "th": 16,
+      "o": 41
+     }
+    ],
     "dif": [
      {
       "s": 2,
