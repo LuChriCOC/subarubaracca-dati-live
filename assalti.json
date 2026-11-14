@@ -1655,5 +1655,17 @@
    "player": [],
    "assenti": []
   }
- ]
+ ],
+ "capitale": {
+  "2Q9208QQV": {
+   "nome": "I Subarubaracca",
+   "punti": 5140,
+   "lega": "Legend League",
+   "storico": {
+    "20261026": 5170,
+    "20261102": 5187,
+    "20261109": 5140
+   }
+  }
+ }
 }
