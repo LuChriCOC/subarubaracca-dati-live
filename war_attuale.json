@@ -2,7 +2,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-14T18:36:11Z",
+  "visto": "2026-11-14T19:37:49Z",
   "stato": "inWar",
   "id": "20261112T224156.000Z",
   "inizio": "20261113T214156.000Z",
@@ -14,8 +14,8 @@
   "pc": 100.0,
   "attacchi": 50,
   "stelle_av": 94,
-  "pc_av": 95.6,
-  "attacchi_av": 57,
+  "pc_av": 95.7,
+  "attacchi_av": 58,
   "player": [
    {
     "nome": "Petos",
@@ -332,6 +332,13 @@
       "t": 180,
       "da": 11,
       "o": 105
+     },
+     {
+      "s": 2,
+      "d": 99,
+      "t": 180,
+      "da": 12,
+      "o": 108
      }
     ]
    },
@@ -1162,7 +1169,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-14T18:36:11Z",
+  "visto": "2026-11-14T19:37:49Z",
   "stato": "inWar",
   "id": "20261112T225634.000Z",
   "inizio": "20261113T215634.000Z",
@@ -1170,19 +1177,28 @@
   "dimensione": 15,
   "attacchi_per_player": 2,
   "avversario": "BLACK LIST",
-  "stelle": 42,
-  "pc": 97.9,
-  "attacchi": 17,
-  "stelle_av": 39,
-  "pc_av": 95.9,
-  "attacchi_av": 25,
+  "stelle": 44,
+  "pc": 99.1,
+  "attacchi": 19,
+  "stelle_av": 40,
+  "pc_av": 97.3,
+  "attacchi_av": 27,
   "player": [
    {
     "nome": "SAM",
     "tag": "#80CPYL90Y",
     "pos": 1,
     "th": 18,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 141,
+      "pa": 12,
+      "th": 16,
+      "o": 43
+     }
+    ],
     "dif": [
      {
       "s": 2,
@@ -1463,6 +1479,14 @@
       "pa": 4,
       "th": 18,
       "o": 17
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 106,
+      "pa": 13,
+      "th": 16,
+      "o": 44
      }
     ],
     "dif": [
@@ -1479,6 +1503,13 @@
       "t": 84,
       "da": 12,
       "o": 4
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 131,
+      "da": 11,
+      "o": 45
      }
     ]
    },
@@ -1597,6 +1628,13 @@
       "t": 132,
       "da": 10,
       "o": 32
+     },
+     {
+      "s": 2,
+      "d": 98,
+      "t": 180,
+      "da": 11,
+      "o": 46
      }
     ]
    },
