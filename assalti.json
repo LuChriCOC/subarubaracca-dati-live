@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 530257,
-     "raid": 6,
-     "attacchi": 121,
-     "distretti": 48,
-     "player": 21
+     "oro": 772221,
+     "raid": 8,
+     "attacchi": 178,
+     "distretti": 69,
+     "player": 33
     },
     {
      "nome": "LJMT",
@@ -39,6 +39,16 @@
      "oro": 34265
     },
     {
+     "nome": "AtTiTuDePrObLeM",
+     "tag": "#CCUVGGV9",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 33068
+    },
+    {
      "nome": "ethan e noah",
      "tag": "#JP9GP2PG",
      "in": [
@@ -57,6 +67,16 @@
      "att": 6,
      "lim": 6,
      "oro": 31494
+    },
+    {
+     "nome": "Mast3rPlay",
+     "tag": "#22088Y2Y8",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 30281
     },
     {
      "nome": "TEAM Γ GAMMA",
@@ -107,6 +127,26 @@
      "att": 6,
      "lim": 6,
      "oro": 26471
+    },
+    {
+     "nome": "Mast3rPlay 2nd",
+     "tag": "#2L8YY9JY2",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 26384
+    },
+    {
+     "nome": "Spidey$",
+     "tag": "#GY00QVQQY",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 26207
     },
     {
      "nome": "Gladiatore",
@@ -209,6 +249,16 @@
      "oro": 23035
     },
     {
+     "nome": "bupalo",
+     "tag": "#L82QJY9Y9",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 22784
+    },
+    {
      "nome": "Petos",
      "tag": "#9VVV0VP",
      "in": [
@@ -227,6 +277,76 @@
      "att": 6,
      "lim": 6,
      "oro": 21784
+    },
+    {
+     "nome": "Lam75",
+     "tag": "#G22G800GJ",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 4,
+     "lim": 6,
+     "oro": 20100
+    },
+    {
+     "nome": "Temistocle25",
+     "tag": "#8CVG2UJC",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 19253
+    },
+    {
+     "nome": "Claude Monet",
+     "tag": "#2PY2YVYG9",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 5,
+     "lim": 6,
+     "oro": 19051
+    },
+    {
+     "nome": "bupalo2",
+     "tag": "#LUPU8GJ9L",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 16916
+    },
+    {
+     "nome": "Mal75",
+     "tag": "#G8LJUR0JG",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 2,
+     "lim": 6,
+     "oro": 11901
+    },
+    {
+     "nome": "Luma",
+     "tag": "#Q9JPRL9GQ",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 2,
+     "lim": 6,
+     "oro": 9320
+    },
+    {
+     "nome": "⚔️Trouble⚔️",
+     "tag": "#GLVLQ0U8C",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 2,
+     "lim": 6,
+     "oro": 6699
     },
     {
      "nome": "MaChri",
@@ -249,8 +369,8 @@
      "tag": "#2PGQGV0YY"
     },
     {
-     "nome": "AtTiTuDePrObLeM",
-     "tag": "#CCUVGGV9"
+     "nome": "Alby_38",
+     "tag": "#PGV0VJ9C9"
     },
     {
      "nome": "Banned_Paul",
@@ -269,24 +389,12 @@
      "tag": "#2Y020CY2R"
     },
     {
-     "nome": "bupalo",
-     "tag": "#L82QJY9Y9"
-    },
-    {
-     "nome": "bupalo2",
-     "tag": "#LUPU8GJ9L"
-    },
-    {
      "nome": "Cinghiale32",
      "tag": "#8U2VYJ80"
     },
     {
      "nome": "Cinghiale_32",
      "tag": "#GPCG8PRRG"
-    },
-    {
-     "nome": "Claude Monet",
-     "tag": "#2PY2YVYG9"
     },
     {
      "nome": "Damiano",
@@ -299,6 +407,10 @@
     {
      "nome": "Don Arox",
      "tag": "#2QQ90QU2C"
+    },
+    {
+     "nome": "GG",
+     "tag": "#QC282Y9U9"
     },
     {
      "nome": "Giulia",
@@ -317,16 +429,8 @@
      "tag": "#9YU8Q92GL"
     },
     {
-     "nome": "Lam75",
-     "tag": "#G22G800GJ"
-    },
-    {
      "nome": "LoRyXD16",
      "tag": "#8GV2CCU2V"
-    },
-    {
-     "nome": "Luma",
-     "tag": "#Q9JPRL9GQ"
     },
     {
      "nome": "Luma-2",
@@ -335,18 +439,6 @@
     {
      "nome": "Luma-3",
      "tag": "#GQP8U8UC9"
-    },
-    {
-     "nome": "Mal75",
-     "tag": "#G8LJUR0JG"
-    },
-    {
-     "nome": "Mast3rPlay",
-     "tag": "#22088Y2Y8"
-    },
-    {
-     "nome": "Mast3rPlay 2nd",
-     "tag": "#2L8YY9JY2"
     },
     {
      "nome": "michele10",
@@ -377,16 +469,8 @@
      "tag": "#8UP8QG90U"
     },
     {
-     "nome": "Spidey$",
-     "tag": "#GY00QVQQY"
-    },
-    {
      "nome": "TEAM Σ SIGMA",
      "tag": "#GYJ88UL89"
-    },
-    {
-     "nome": "Temistocle25",
-     "tag": "#8CVG2UJC"
     },
     {
      "nome": "THE KRAKEN",
@@ -411,10 +495,6 @@
     {
      "nome": "⚔️Trouble-2⚔️",
      "tag": "#GQ08LJYC2"
-    },
-    {
-     "nome": "⚔️Trouble⚔️",
-     "tag": "#GLVLQ0U8C"
     }
    ]
   },
