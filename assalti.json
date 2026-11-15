@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 772221,
-     "raid": 8,
-     "attacchi": 178,
-     "distretti": 69,
-     "player": 33
+     "oro": 1031860,
+     "raid": 12,
+     "attacchi": 231,
+     "distretti": 93,
+     "player": 40
     },
     {
      "nome": "LJMT",
@@ -29,6 +29,16 @@
    ],
    "player": [
     {
+     "nome": "Mal75",
+     "tag": "#G8LJUR0JG",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 35432
+    },
+    {
      "nome": "zelda",
      "tag": "#2JRC9Y9LP",
      "in": [
@@ -37,6 +47,16 @@
      "att": 6,
      "lim": 6,
      "oro": 34265
+    },
+    {
+     "nome": "THE KRAKEN",
+     "tag": "#9JV82UV8",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 33590
     },
     {
      "nome": "AtTiTuDePrObLeM",
@@ -57,6 +77,16 @@
      "att": 6,
      "lim": 6,
      "oro": 32395
+    },
+    {
+     "nome": "Lam75",
+     "tag": "#G22G800GJ",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 32093
     },
     {
      "nome": "Andrif94 II",
@@ -89,6 +119,36 @@
      "oro": 30266
     },
     {
+     "nome": "*,...,*",
+     "tag": "#2VRR929LL",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 30157
+    },
+    {
+     "nome": "LoRyXD16",
+     "tag": "#8GV2CCU2V",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 29908
+    },
+    {
+     "nome": "THE KRAKEN2",
+     "tag": "#QGQYR999P",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 29530
+    },
+    {
      "nome": "Sandrone",
      "tag": "#RLGJR8QY",
      "in": [
@@ -97,6 +157,26 @@
      "att": 6,
      "lim": 6,
      "oro": 29139
+    },
+    {
+     "nome": "THE KRAKEN3",
+     "tag": "#GC9QQV9CV",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 29016
+    },
+    {
+     "nome": "SIMO03",
+     "tag": "#8UP8QG90U",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 27828
     },
     {
      "nome": "Petonella",
@@ -169,6 +249,16 @@
      "oro": 25231
     },
     {
+     "nome": "MaChri",
+     "tag": "#YLLQ9RJ9Y",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 25190
+    },
+    {
      "nome": "PetoKappa",
      "tag": "#GRJ90UY2U",
      "in": [
@@ -187,6 +277,16 @@
      "att": 6,
      "lim": 6,
      "oro": 24574
+    },
+    {
+     "nome": "Alby_38",
+     "tag": "#PGV0VJ9C9",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 24350
     },
     {
      "nome": "PIER",
@@ -279,16 +379,6 @@
      "oro": 21784
     },
     {
-     "nome": "Lam75",
-     "tag": "#G22G800GJ",
-     "in": [
-      "I Subarubaracca"
-     ],
-     "att": 4,
-     "lim": 6,
-     "oro": 20100
-    },
-    {
      "nome": "Temistocle25",
      "tag": "#8CVG2UJC",
      "in": [
@@ -319,16 +409,6 @@
      "oro": 16916
     },
     {
-     "nome": "Mal75",
-     "tag": "#G8LJUR0JG",
-     "in": [
-      "I Subarubaracca"
-     ],
-     "att": 2,
-     "lim": 6,
-     "oro": 11901
-    },
-    {
      "nome": "Luma",
      "tag": "#Q9JPRL9GQ",
      "in": [
@@ -347,30 +427,16 @@
      "att": 2,
      "lim": 6,
      "oro": 6699
-    },
-    {
-     "nome": "MaChri",
-     "tag": "#YLLQ9RJ9Y",
-     "in": [
-      "I Subarubaracca"
-     ],
-     "att": 1,
-     "lim": 6,
-     "oro": 5454
     }
    ],
    "assenti": [
-    {
-     "nome": "*,...,*",
-     "tag": "#2VRR929LL"
-    },
     {
      "nome": "___Samu___",
      "tag": "#2PGQGV0YY"
     },
     {
-     "nome": "Alby_38",
-     "tag": "#PGV0VJ9C9"
+     "nome": "Andreableee",
+     "tag": "#R8280LQU2"
     },
     {
      "nome": "Banned_Paul",
@@ -429,10 +495,6 @@
      "tag": "#9YU8Q92GL"
     },
     {
-     "nome": "LoRyXD16",
-     "tag": "#8GV2CCU2V"
-    },
-    {
      "nome": "Luma-2",
      "tag": "#G98Q0C9UU"
     },
@@ -465,24 +527,8 @@
      "tag": "#80CPYL90Y"
     },
     {
-     "nome": "SIMO03",
-     "tag": "#8UP8QG90U"
-    },
-    {
      "nome": "TEAM Σ SIGMA",
      "tag": "#GYJ88UL89"
-    },
-    {
-     "nome": "THE KRAKEN",
-     "tag": "#9JV82UV8"
-    },
-    {
-     "nome": "THE KRAKEN2",
-     "tag": "#QGQYR999P"
-    },
-    {
-     "nome": "THE KRAKEN3",
-     "tag": "#GC9QQV9CV"
     },
     {
      "nome": "☠️☠️IT☠️☠️FF",
