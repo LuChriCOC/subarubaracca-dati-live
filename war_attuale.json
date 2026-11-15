@@ -2,7 +2,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-15T22:28:25Z",
+  "visto": "2026-11-15T23:07:24Z",
   "stato": "inWar",
   "id": "20261114T221429.000Z",
   "inizio": "20261115T211429.000Z",
@@ -10,12 +10,12 @@
   "dimensione": 40,
   "attacchi_per_player": 2,
   "avversario": "TRAINING DAY",
-  "stelle": 24,
-  "pc": 20.0,
-  "attacchi": 12,
-  "stelle_av": 44,
-  "pc_av": 37.3,
-  "attacchi_av": 16,
+  "stelle": 33,
+  "pc": 28.3,
+  "attacchi": 16,
+  "stelle_av": 47,
+  "pc_av": 39.8,
+  "attacchi_av": 17,
   "player": [
    {
     "nome": "Petos",
@@ -249,7 +249,15 @@
     "pos": 12,
     "th": 18,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 135,
+      "da": 1,
+      "o": 29
+     }
+    ]
    },
    {
     "nome": "THE KRAKEN2",
@@ -338,7 +346,16 @@
     "tag": "#LRC22VRP",
     "pos": 18,
     "th": 18,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 143,
+      "pa": 10,
+      "th": 18,
+      "o": 33
+     }
+    ],
     "dif": []
    },
    {
@@ -531,7 +548,24 @@
     "tag": "#QJLUJG0CJ",
     "pos": 37,
     "th": 18,
-    "att": [],
+    "att": [
+     {
+      "s": 2,
+      "d": 83,
+      "t": 180,
+      "pa": 40,
+      "th": 18,
+      "o": 31
+     },
+     {
+      "s": 2,
+      "d": 52,
+      "t": 71,
+      "pa": 39,
+      "th": 18,
+      "o": 32
+     }
+    ],
     "dif": []
    },
    {
@@ -555,6 +589,14 @@
       "pa": 6,
       "th": 18,
       "o": 27
+     },
+     {
+      "s": 2,
+      "d": 97,
+      "t": 180,
+      "pa": 8,
+      "th": 18,
+      "o": 30
      }
     ],
     "dif": []
@@ -572,7 +614,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-15T22:28:25Z",
+  "visto": "2026-11-15T23:07:24Z",
   "stato": "inWar",
   "id": "20261114T224551.000Z",
   "inizio": "20261115T214551.000Z",
@@ -583,9 +625,9 @@
   "stelle": 0,
   "pc": 0.0,
   "attacchi": 0,
-  "stelle_av": 0,
-  "pc_av": 0.0,
-  "attacchi_av": 0,
+  "stelle_av": 3,
+  "pc_av": 6.7,
+  "attacchi_av": 1,
   "player": [
    {
     "nome": "SAM",
@@ -705,7 +747,15 @@
     "pos": 15,
     "th": 10,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 105,
+      "da": 15,
+      "o": 1
+     }
+    ]
    }
   ]
  }
