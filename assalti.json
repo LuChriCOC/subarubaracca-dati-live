@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 1031860,
-     "raid": 12,
-     "attacchi": 231,
-     "distretti": 93,
-     "player": 40
+     "oro": 1260793,
+     "raid": 14,
+     "attacchi": 282,
+     "distretti": 112,
+     "player": 50
     },
     {
      "nome": "LJMT",
@@ -99,6 +99,16 @@
      "oro": 31494
     },
     {
+     "nome": "Damiano",
+     "tag": "#YJU8VVRY2",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 30780
+    },
+    {
      "nome": "Mast3rPlay",
      "tag": "#22088Y2Y8",
      "in": [
@@ -139,6 +149,16 @@
      "oro": 29908
     },
     {
+     "nome": "⚔️Trouble-2⚔️",
+     "tag": "#GQ08LJYC2",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 29635
+    },
+    {
      "nome": "THE KRAKEN2",
      "tag": "#QGQYR999P",
      "in": [
@@ -147,6 +167,26 @@
      "att": 6,
      "lim": 6,
      "oro": 29530
+    },
+    {
+     "nome": "Beast",
+     "tag": "#Q2JCV890C",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 29502
+    },
+    {
+     "nome": "Luma",
+     "tag": "#Q9JPRL9GQ",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 29142
     },
     {
      "nome": "Sandrone",
@@ -229,6 +269,16 @@
      "oro": 26207
     },
     {
+     "nome": "PigsKing32",
+     "tag": "#2C2UJQCC",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 25904
+    },
+    {
      "nome": "Gladiatore",
      "tag": "#QJLUJG0CJ",
      "in": [
@@ -239,6 +289,16 @@
      "oro": 25762
     },
     {
+     "nome": "SAM",
+     "tag": "#80CPYL90Y",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 25634
+    },
+    {
      "nome": "billboy",
      "tag": "#J8UQ2QL",
      "in": [
@@ -247,6 +307,16 @@
      "att": 6,
      "lim": 6,
      "oro": 25231
+    },
+    {
+     "nome": "GG",
+     "tag": "#QC282Y9U9",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 25207
     },
     {
      "nome": "MaChri",
@@ -379,6 +449,16 @@
      "oro": 21784
     },
     {
+     "nome": "il Greco",
+     "tag": "#9YU8Q92GL",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 19716
+    },
+    {
      "nome": "Temistocle25",
      "tag": "#8CVG2UJC",
      "in": [
@@ -409,14 +489,24 @@
      "oro": 16916
     },
     {
-     "nome": "Luma",
-     "tag": "#Q9JPRL9GQ",
+     "nome": "Cinghiale_32",
+     "tag": "#GPCG8PRRG",
      "in": [
       "I Subarubaracca"
      ],
      "att": 2,
      "lim": 6,
-     "oro": 9320
+     "oro": 8493
+    },
+    {
+     "nome": "♦️CIP♥️",
+     "tag": "#V80C88G2",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 2,
+     "lim": 5,
+     "oro": 8290
     },
     {
      "nome": "⚔️Trouble⚔️",
@@ -427,6 +517,16 @@
      "att": 2,
      "lim": 6,
      "oro": 6699
+    },
+    {
+     "nome": "Don Arox",
+     "tag": "#2QQ90QU2C",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 1,
+     "lim": 5,
+     "oro": 5950
     }
    ],
    "assenti": [
@@ -443,10 +543,6 @@
      "tag": "#GLVUJ99QG"
     },
     {
-     "nome": "Beast",
-     "tag": "#Q2JCV890C"
-    },
-    {
      "nome": "BH⚔️ClashLegend",
      "tag": "#G00LQVU0C"
     },
@@ -459,24 +555,8 @@
      "tag": "#8U2VYJ80"
     },
     {
-     "nome": "Cinghiale_32",
-     "tag": "#GPCG8PRRG"
-    },
-    {
-     "nome": "Damiano",
-     "tag": "#YJU8VVRY2"
-    },
-    {
      "nome": "Damiano2",
      "tag": "#QUY8JUR29"
-    },
-    {
-     "nome": "Don Arox",
-     "tag": "#2QQ90QU2C"
-    },
-    {
-     "nome": "GG",
-     "tag": "#QC282Y9U9"
     },
     {
      "nome": "Giulia",
@@ -489,10 +569,6 @@
     {
      "nome": "hummer",
      "tag": "#LQY0C88VJ"
-    },
-    {
-     "nome": "il Greco",
-     "tag": "#9YU8Q92GL"
     },
     {
      "nome": "Luma-2",
@@ -515,16 +591,8 @@
      "tag": "#LQ2VVG8J"
     },
     {
-     "nome": "PigsKing32",
-     "tag": "#2C2UJQCC"
-    },
-    {
      "nome": "poa",
      "tag": "#9QJJJ0URU"
-    },
-    {
-     "nome": "SAM",
-     "tag": "#80CPYL90Y"
     },
     {
      "nome": "TEAM Σ SIGMA",
@@ -533,14 +601,6 @@
     {
      "nome": "☠️☠️IT☠️☠️FF",
      "tag": "#YU8YURG2Y"
-    },
-    {
-     "nome": "♦️CIP♥️",
-     "tag": "#V80C88G2"
-    },
-    {
-     "nome": "⚔️Trouble-2⚔️",
-     "tag": "#GQ08LJYC2"
     }
    ]
   },
