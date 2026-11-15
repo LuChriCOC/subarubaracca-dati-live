@@ -2,7 +2,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-15T22:06:11Z",
+  "visto": "2026-11-15T22:28:25Z",
   "stato": "inWar",
   "id": "20261114T221429.000Z",
   "inizio": "20261115T211429.000Z",
@@ -10,12 +10,12 @@
   "dimensione": 40,
   "attacchi_per_player": 2,
   "avversario": "TRAINING DAY",
-  "stelle": 18,
-  "pc": 16.9,
-  "attacchi": 9,
-  "stelle_av": 32,
-  "pc_av": 27.3,
-  "attacchi_av": 12,
+  "stelle": 24,
+  "pc": 20.0,
+  "attacchi": 12,
+  "stelle_av": 44,
+  "pc_av": 37.3,
+  "attacchi_av": 16,
   "player": [
    {
     "nome": "Petos",
@@ -201,7 +201,15 @@
       "o": 14
      }
     ],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 147,
+      "da": 34,
+      "o": 22
+     }
+    ]
    },
    {
     "nome": "bupalo2",
@@ -209,7 +217,15 @@
     "pos": 10,
     "th": 18,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 119,
+      "da": 1,
+      "o": 28
+     }
+    ]
    },
    {
     "nome": "DarkHawk",
@@ -289,7 +305,24 @@
     "tag": "#YPG8VVPL",
     "pos": 16,
     "th": 18,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 147,
+      "pa": 4,
+      "th": 18,
+      "o": 23
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 127,
+      "pa": 5,
+      "th": 18,
+      "o": 25
+     }
+    ],
     "dif": []
    },
    {
@@ -338,7 +371,15 @@
     "pos": 21,
     "th": 18,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 133,
+      "da": 22,
+      "o": 24
+     }
+    ]
    },
    {
     "nome": "LoRyXD16",
@@ -451,7 +492,15 @@
     "pos": 33,
     "th": 18,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 130,
+      "da": 22,
+      "o": 26
+     }
+    ]
    },
    {
     "nome": "Lam75",
@@ -498,7 +547,16 @@
     "tag": "#G2VULPRUV",
     "pos": 39,
     "th": 18,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 139,
+      "pa": 6,
+      "th": 18,
+      "o": 27
+     }
+    ],
     "dif": []
    },
    {
@@ -514,7 +572,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-15T22:06:11Z",
+  "visto": "2026-11-15T22:28:25Z",
   "stato": "inWar",
   "id": "20261114T224551.000Z",
   "inizio": "20261115T214551.000Z",
