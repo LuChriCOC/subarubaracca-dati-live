@@ -2,7 +2,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-16T20:14:57Z",
+  "visto": "2026-11-16T20:39:53Z",
   "stato": "inWar",
   "id": "20261114T221429.000Z",
   "inizio": "20261115T211429.000Z",
@@ -10,9 +10,9 @@
   "dimensione": 40,
   "attacchi_per_player": 2,
   "avversario": "TRAINING DAY",
-  "stelle": 115,
-  "pc": 98.0,
-  "attacchi": 62,
+  "stelle": 117,
+  "pc": 99.0,
+  "attacchi": 64,
   "stelle_av": 120,
   "pc_av": 100.0,
   "attacchi_av": 65,
@@ -152,6 +152,14 @@
       "pa": 32,
       "th": 18,
       "o": 127
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 167,
+      "pa": 34,
+      "th": 18,
+      "o": 128
      }
     ],
     "dif": [
@@ -917,7 +925,16 @@
     "tag": "#2PY2YVYG9",
     "pos": 26,
     "th": 18,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 132,
+      "pa": 35,
+      "th": 18,
+      "o": 129
+     }
+    ],
     "dif": [
      {
       "s": 3,
@@ -1365,7 +1382,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-16T20:14:57Z",
+  "visto": "2026-11-16T20:39:53Z",
   "stato": "inWar",
   "id": "20261114T224551.000Z",
   "inizio": "20261115T214551.000Z",
@@ -1373,12 +1390,12 @@
   "dimensione": 15,
   "attacchi_per_player": 2,
   "avversario": "BB Shelby",
-  "stelle": 30,
-  "pc": 66.7,
-  "attacchi": 10,
-  "stelle_av": 39,
-  "pc_av": 88.0,
-  "attacchi_av": 17,
+  "stelle": 33,
+  "pc": 73.3,
+  "attacchi": 11,
+  "stelle_av": 41,
+  "pc_av": 92.3,
+  "attacchi_av": 18,
   "player": [
    {
     "nome": "SAM",
@@ -1403,7 +1420,15 @@
       "o": 24
      }
     ],
-    "dif": []
+    "dif": [
+     {
+      "s": 2,
+      "d": 64,
+      "t": 94,
+      "da": 3,
+      "o": 28
+     }
+    ]
    },
    {
     "nome": "⚔️Trouble⚔️",
@@ -1691,7 +1716,16 @@
     "tag": "#G98Q0C9UU",
     "pos": 14,
     "th": 14,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 137,
+      "pa": 15,
+      "th": 13,
+      "o": 29
+     }
+    ],
     "dif": [
      {
       "s": 3,
