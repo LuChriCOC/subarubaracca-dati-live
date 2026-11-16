@@ -12,10 +12,10 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 1279207,
+     "oro": 1293945,
      "raid": 14,
-     "attacchi": 286,
-     "distretti": 114,
+     "attacchi": 291,
+     "distretti": 116,
      "player": 50
     },
     {
@@ -459,6 +459,16 @@
      "oro": 21784
     },
     {
+     "nome": "Don Arox",
+     "tag": "#2QQ90QU2C",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 20688
+    },
+    {
      "nome": "il Greco",
      "tag": "#9YU8Q92GL",
      "in": [
@@ -517,16 +527,6 @@
      "att": 2,
      "lim": 6,
      "oro": 6699
-    },
-    {
-     "nome": "Don Arox",
-     "tag": "#2QQ90QU2C",
-     "in": [
-      "I Subarubaracca"
-     ],
-     "att": 1,
-     "lim": 5,
-     "oro": 5950
     }
    ],
    "assenti": [
