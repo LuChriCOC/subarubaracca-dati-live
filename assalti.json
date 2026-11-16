@@ -8,7 +8,7 @@
   {
    "inizio": "20261113T070000.000Z",
    "fine": "20261116T070000.000Z",
-   "stato": "ongoing",
+   "stato": "ended",
    "clan": [
     {
      "nome": "I Subarubaracca",
@@ -1875,12 +1875,13 @@
  "capitale": {
   "2Q9208QQV": {
    "nome": "I Subarubaracca",
-   "punti": 5140,
+   "punti": 5184,
    "lega": "Legend League",
    "storico": {
     "20261026": 5170,
     "20261102": 5187,
-    "20261109": 5140
+    "20261109": 5140,
+    "20261116": 5184
    }
   }
  }
