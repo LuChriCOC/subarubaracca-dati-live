@@ -12,10 +12,10 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 1260793,
+     "oro": 1279207,
      "raid": 14,
-     "attacchi": 282,
-     "distretti": 112,
+     "attacchi": 286,
+     "distretti": 114,
      "player": 50
     },
     {
@@ -237,6 +237,16 @@
      "att": 6,
      "lim": 6,
      "oro": 27586
+    },
+    {
+     "nome": "Cinghiale_32",
+     "tag": "#GPCG8PRRG",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 26907
     },
     {
      "nome": "Andrif94",
@@ -487,16 +497,6 @@
      "att": 6,
      "lim": 6,
      "oro": 16916
-    },
-    {
-     "nome": "Cinghiale_32",
-     "tag": "#GPCG8PRRG",
-     "in": [
-      "I Subarubaracca"
-     ],
-     "att": 2,
-     "lim": 6,
-     "oro": 8493
     },
     {
      "nome": "♦️CIP♥️",
