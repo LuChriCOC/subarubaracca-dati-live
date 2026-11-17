@@ -2,7 +2,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-17T22:44:04Z",
+  "visto": "2026-11-17T23:42:48Z",
   "stato": "inWar",
   "id": "20261116T222631.000Z",
   "inizio": "20261117T212631.000Z",
@@ -495,8 +495,8 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-17T22:44:04Z",
-  "stato": "preparation",
+  "visto": "2026-11-17T23:42:48Z",
+  "stato": "inWar",
   "id": "20261117T002559.000Z",
   "inizio": "20261117T232559.000Z",
   "fine": "20261118T232559.000Z",
@@ -530,7 +530,7 @@
     "nome": "Beast",
     "tag": "#Q2JCV890C",
     "pos": 3,
-    "th": 18,
+    "th": 19,
     "att": [],
     "dif": []
    },
@@ -626,7 +626,7 @@
     "nome": "Andreableeee",
     "tag": "#R9L9RC9V9",
     "pos": 15,
-    "th": 4,
+    "th": 5,
     "att": [],
     "dif": []
    }
