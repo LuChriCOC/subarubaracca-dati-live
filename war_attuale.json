@@ -2,20 +2,20 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-18T11:52:52Z",
+  "visto": "2026-11-18T14:10:43Z",
   "stato": "inWar",
   "id": "20261116T222631.000Z",
   "inizio": "20261117T212631.000Z",
-  "fine": "20261118T212631.000Z",
+  "fine": "20261118T215451.000Z",
   "dimensione": 35,
   "attacchi_per_player": 2,
   "avversario": "Dead Amigos",
   "stelle": 84,
   "pc": 80.0,
   "attacchi": 35,
-  "stelle_av": 73,
-  "pc_av": 74.6,
-  "attacchi_av": 31,
+  "stelle_av": 77,
+  "pc_av": 77.7,
+  "attacchi_av": 33,
   "player": [
    {
     "nome": "Damiano",
@@ -620,7 +620,15 @@
     "pos": 24,
     "th": 18,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 153,
+      "da": 27,
+      "o": 67
+     }
+    ]
    },
    {
     "nome": "THE KRAKEN2",
@@ -651,6 +659,13 @@
       "t": 171,
       "da": 25,
       "o": 62
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 137,
+      "da": 2,
+      "o": 68
      }
     ]
    },
@@ -847,11 +862,11 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-18T11:52:52Z",
+  "visto": "2026-11-18T14:10:43Z",
   "stato": "inWar",
   "id": "20261117T002559.000Z",
   "inizio": "20261117T232559.000Z",
-  "fine": "20261118T232559.000Z",
+  "fine": "20261118T235407.000Z",
   "dimensione": 15,
   "attacchi_per_player": 2,
   "avversario": "EMPERADOR ELITE",
