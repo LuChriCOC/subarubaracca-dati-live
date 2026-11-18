@@ -2,7 +2,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-18T15:50:46Z",
+  "visto": "2026-11-18T16:58:20Z",
   "stato": "inWar",
   "id": "20261116T222631.000Z",
   "inizio": "20261117T212631.000Z",
@@ -10,12 +10,12 @@
   "dimensione": 35,
   "attacchi_per_player": 2,
   "avversario": "Dead Amigos",
-  "stelle": 96,
-  "pc": 91.4,
-  "attacchi": 39,
-  "stelle_av": 80,
-  "pc_av": 81.2,
-  "attacchi_av": 36,
+  "stelle": 99,
+  "pc": 94.3,
+  "attacchi": 40,
+  "stelle_av": 85,
+  "pc_av": 86.9,
+  "attacchi_av": 38,
   "player": [
    {
     "nome": "Damiano",
@@ -219,7 +219,15 @@
       "o": 10
      }
     ],
-    "dif": []
+    "dif": [
+     {
+      "s": 2,
+      "d": 99,
+      "t": 180,
+      "da": 22,
+      "o": 76
+     }
+    ]
    },
    {
     "nome": "mementomori",
@@ -358,7 +366,15 @@
       "o": 18
      }
     ],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 143,
+      "da": 22,
+      "o": 77
+     }
+    ]
    },
    {
     "nome": "Mast3rPlay",
@@ -802,6 +818,14 @@
       "pa": 27,
       "th": 19,
       "o": 48
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 95,
+      "pa": 33,
+      "th": 18,
+      "o": 78
      }
     ],
     "dif": [
@@ -918,7 +942,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-18T15:50:46Z",
+  "visto": "2026-11-18T16:58:20Z",
   "stato": "inWar",
   "id": "20261117T002559.000Z",
   "inizio": "20261117T232559.000Z",
@@ -926,9 +950,9 @@
   "dimensione": 15,
   "attacchi_per_player": 2,
   "avversario": "EMPERADOR ELITE",
-  "stelle": 11,
-  "pc": 25.9,
-  "attacchi": 4,
+  "stelle": 17,
+  "pc": 39.3,
+  "attacchi": 6,
   "stelle_av": 25,
   "pc_av": 55.9,
   "attacchi_av": 10,
@@ -1028,7 +1052,24 @@
     "tag": "#V80C88G2",
     "pos": 5,
     "th": 17,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 139,
+      "pa": 7,
+      "th": 17,
+      "o": 15
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 144,
+      "pa": 6,
+      "th": 18,
+      "o": 16
+     }
+    ],
     "dif": [
      {
       "s": 3,
