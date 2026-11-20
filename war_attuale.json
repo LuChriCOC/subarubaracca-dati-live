@@ -2,7 +2,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-20T14:10:19Z",
+  "visto": "2026-11-20T15:49:41Z",
   "stato": "inWar",
   "id": "20261119T003413.000Z",
   "inizio": "20261119T233413.000Z",
@@ -10,12 +10,12 @@
   "dimensione": 20,
   "attacchi_per_player": 2,
   "avversario": "La Resistencia",
-  "stelle": 25,
-  "pc": 47.6,
-  "attacchi": 11,
-  "stelle_av": 22,
-  "pc_av": 39.2,
-  "attacchi_av": 8,
+  "stelle": 28,
+  "pc": 52.6,
+  "attacchi": 12,
+  "stelle_av": 27,
+  "pc_av": 49.0,
+  "attacchi_av": 10,
   "player": [
    {
     "nome": "Damiano",
@@ -80,6 +80,14 @@
       "pa": 5,
       "th": 18,
       "o": 15
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 127,
+      "pa": 11,
+      "th": 18,
+      "o": 22
      }
     ],
     "dif": [
@@ -131,7 +139,15 @@
     "pos": 5,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 2,
+      "d": 96,
+      "t": 179,
+      "da": 6,
+      "o": 21
+     }
+    ]
    },
    {
     "nome": "Gladiatore",
@@ -139,7 +155,15 @@
     "pos": 6,
     "th": 18,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 158,
+      "da": 6,
+      "o": 20
+     }
+    ]
    },
    {
     "nome": "♦️CIP♥️",
@@ -341,7 +365,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-20T14:10:19Z",
+  "visto": "2026-11-20T15:49:41Z",
   "stato": "inWar",
   "id": "20261118T222705.000Z",
   "inizio": "20261119T212705.000Z",
