@@ -1,261 +1,8 @@
 {
- "LJMT": {
-  "clan": "LJMT",
-  "tag": "#2R2L22YU2",
-  "visto": "2026-11-20T05:55:30Z",
-  "stato": "inWar",
-  "id": "20261119T003413.000Z",
-  "inizio": "20261119T233413.000Z",
-  "fine": "20261120T233413.000Z",
-  "dimensione": 20,
-  "attacchi_per_player": 2,
-  "avversario": "La Resistencia",
-  "stelle": 6,
-  "pc": 10.0,
-  "attacchi": 2,
-  "stelle_av": 20,
-  "pc_av": 34.6,
-  "attacchi_av": 7,
-  "player": [
-   {
-    "nome": "Damiano",
-    "tag": "#YJU8VVRY2",
-    "pos": 1,
-    "th": 19,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "GG",
-    "tag": "#QC282Y9U9",
-    "pos": 2,
-    "th": 19,
-    "att": [],
-    "dif": [
-     {
-      "s": 3,
-      "d": 100,
-      "t": 139,
-      "da": 2,
-      "o": 5
-     }
-    ]
-   },
-   {
-    "nome": "SAM",
-    "tag": "#80CPYL90Y",
-    "pos": 3,
-    "th": 19,
-    "att": [],
-    "dif": [
-     {
-      "s": 3,
-      "d": 100,
-      "t": 91,
-      "da": 3,
-      "o": 3
-     }
-    ]
-   },
-   {
-    "nome": "Beast",
-    "tag": "#Q2JCV890C",
-    "pos": 4,
-    "th": 19,
-    "att": [],
-    "dif": [
-     {
-      "s": 2,
-      "d": 92,
-      "t": 151,
-      "da": 4,
-      "o": 4
-     }
-    ]
-   },
-   {
-    "nome": "⚔️Trouble⚔️",
-    "tag": "#GLVLQ0U8C",
-    "pos": 5,
-    "th": 19,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "Gladiatore",
-    "tag": "#QJLUJG0CJ",
-    "pos": 6,
-    "th": 18,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "♦️CIP♥️",
-    "tag": "#V80C88G2",
-    "pos": 7,
-    "th": 17,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "milk",
-    "tag": "#QJL9P9P",
-    "pos": 8,
-    "th": 18,
-    "att": [],
-    "dif": [
-     {
-      "s": 3,
-      "d": 100,
-      "t": 123,
-      "da": 8,
-      "o": 1
-     }
-    ]
-   },
-   {
-    "nome": "Bruno",
-    "tag": "#2Y020CY2R",
-    "pos": 9,
-    "th": 17,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "THE KRAKEN3",
-    "tag": "#GC9QQV9CV",
-    "pos": 10,
-    "th": 17,
-    "att": [
-     {
-      "s": 3,
-      "d": 100,
-      "t": 87,
-      "pa": 7,
-      "th": 18,
-      "o": 7
-     },
-     {
-      "s": 3,
-      "d": 100,
-      "t": 142,
-      "pa": 6,
-      "th": 18,
-      "o": 8
-     }
-    ],
-    "dif": []
-   },
-   {
-    "nome": "TEAM Σ SIGMA",
-    "tag": "#GYJ88UL89",
-    "pos": 11,
-    "th": 18,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "⚔️Trouble-2⚔️",
-    "tag": "#GQ08LJYC2",
-    "pos": 12,
-    "th": 17,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "Damiano2",
-    "tag": "#QUY8JUR29",
-    "pos": 13,
-    "th": 17,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "Matteo93ktm",
-    "tag": "#Y8809V9Y",
-    "pos": 14,
-    "th": 17,
-    "att": [],
-    "dif": [
-     {
-      "s": 3,
-      "d": 100,
-      "t": 145,
-      "da": 14,
-      "o": 2
-     }
-    ]
-   },
-   {
-    "nome": "Temistocle25",
-    "tag": "#8CVG2UJC",
-    "pos": 15,
-    "th": 17,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "Giulia",
-    "tag": "#2Q9QCUU9U",
-    "pos": 16,
-    "th": 17,
-    "att": [],
-    "dif": [
-     {
-      "s": 3,
-      "d": 100,
-      "t": 149,
-      "da": 17,
-      "o": 9
-     }
-    ]
-   },
-   {
-    "nome": "Mast3rPlay 2nd",
-    "tag": "#2L8YY9JY2",
-    "pos": 17,
-    "th": 16,
-    "att": [],
-    "dif": [
-     {
-      "s": 3,
-      "d": 100,
-      "t": 153,
-      "da": 17,
-      "o": 6
-     }
-    ]
-   },
-   {
-    "nome": "Banned_Paul",
-    "tag": "#GLVUJ99QG",
-    "pos": 18,
-    "th": 15,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "Luma-2",
-    "tag": "#G98Q0C9UU",
-    "pos": 19,
-    "th": 14,
-    "att": [],
-    "dif": []
-   },
-   {
-    "nome": "Luma-3",
-    "tag": "#GQP8U8UC9",
-    "pos": 20,
-    "th": 10,
-    "att": [],
-    "dif": []
-   }
-  ]
- },
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-20T05:55:30Z",
+  "visto": "2026-11-20T09:51:45Z",
   "stato": "inWar",
   "id": "20261118T222705.000Z",
   "inizio": "20261119T212705.000Z",
@@ -263,12 +10,12 @@
   "dimensione": 35,
   "attacchi_per_player": 2,
   "avversario": "!!!30+!!!",
-  "stelle": 17,
-  "pc": 16.9,
-  "attacchi": 11,
-  "stelle_av": 57,
-  "pc_av": 55.5,
-  "attacchi_av": 20,
+  "stelle": 45,
+  "pc": 45.2,
+  "attacchi": 24,
+  "stelle_av": 85,
+  "pc_av": 81.7,
+  "attacchi_av": 30,
   "player": [
    {
     "nome": "PIER",
@@ -358,7 +105,15 @@
       "o": 29
      }
     ],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 157,
+      "da": 2,
+      "o": 43
+     }
+    ]
    },
    {
     "nome": "• Roby D •",
@@ -373,9 +128,25 @@
       "pa": 5,
       "th": 19,
       "o": 8
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 124,
+      "pa": 12,
+      "th": 19,
+      "o": 53
      }
     ],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 128,
+      "da": 2,
+      "o": 44
+     }
+    ]
    },
    {
     "nome": "LoRyXD16",
@@ -383,14 +154,31 @@
     "pos": 6,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 124,
+      "da": 4,
+      "o": 45
+     }
+    ]
    },
    {
     "nome": "Don Arox",
     "tag": "#2QQ90QU2C",
     "pos": 7,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 2,
+      "d": 99,
+      "t": 119,
+      "pa": 16,
+      "th": 19,
+      "o": 46
+     }
+    ],
     "dif": [
      {
       "s": 3,
@@ -406,8 +194,33 @@
     "tag": "#QQRQ9YGYQ",
     "pos": 8,
     "th": 19,
-    "att": [],
-    "dif": []
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 87,
+      "pa": 11,
+      "th": 19,
+      "o": 38
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 137,
+      "pa": 15,
+      "th": 19,
+      "o": 39
+     }
+    ],
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 135,
+      "da": 4,
+      "o": 47
+     }
+    ]
    },
    {
     "nome": "Cinghiale32",
@@ -415,7 +228,15 @@
     "pos": 9,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 163,
+      "da": 10,
+      "o": 49
+     }
+    ]
    },
    {
     "nome": "Andrif94",
@@ -423,7 +244,15 @@
     "pos": 10,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 152,
+      "da": 5,
+      "o": 52
+     }
+    ]
    },
    {
     "nome": "Petos",
@@ -448,14 +277,39 @@
       "o": 18
      }
     ],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 138,
+      "da": 5,
+      "o": 50
+     }
+    ]
    },
    {
     "nome": "TEAM ★ ALPHA",
     "tag": "#GRRGQGPJ",
     "pos": 12,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 2,
+      "d": 99,
+      "t": 180,
+      "pa": 5,
+      "th": 19,
+      "o": 40
+     },
+     {
+      "s": 1,
+      "d": 70,
+      "t": 108,
+      "pa": 12,
+      "th": 19,
+      "o": 41
+     }
+    ],
     "dif": [
      {
       "s": 2,
@@ -463,6 +317,13 @@
       "t": 180,
       "da": 24,
       "o": 15
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 155,
+      "da": 7,
+      "o": 54
      }
     ]
    },
@@ -592,7 +453,24 @@
     "tag": "#2JRC9Y9LP",
     "pos": 20,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 103,
+      "pa": 13,
+      "th": 19,
+      "o": 36
+     },
+     {
+      "s": 2,
+      "d": 84,
+      "t": 100,
+      "pa": 14,
+      "th": 19,
+      "o": 37
+     }
+    ],
     "dif": [
      {
       "s": 3,
@@ -713,7 +591,16 @@
     "tag": "#89QVG80GU",
     "pos": 27,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 2,
+      "d": 74,
+      "t": 129,
+      "pa": 5,
+      "th": 19,
+      "o": 42
+     }
+    ],
     "dif": [
      {
       "s": 3,
@@ -729,7 +616,24 @@
     "tag": "#9JV82UV8",
     "pos": 28,
     "th": 18,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 92,
+      "pa": 7,
+      "th": 19,
+      "o": 32
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 130,
+      "pa": 8,
+      "th": 19,
+      "o": 33
+     }
+    ],
     "dif": [
      {
       "s": 3,
@@ -745,7 +649,24 @@
     "tag": "#QGQYR999P",
     "pos": 29,
     "th": 18,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 136,
+      "pa": 9,
+      "th": 19,
+      "o": 34
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 133,
+      "pa": 10,
+      "th": 19,
+      "o": 35
+     }
+    ],
     "dif": []
    },
    {
@@ -794,13 +715,317 @@
     "pos": 34,
     "th": 18,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 145,
+      "da": 32,
+      "o": 51
+     }
+    ]
    },
    {
     "nome": "Andrif94 II",
     "tag": "#G2VULPRUV",
     "pos": 35,
     "th": 19,
+    "att": [],
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 163,
+      "da": 32,
+      "o": 48
+     }
+    ]
+   }
+  ]
+ },
+ "LJMT": {
+  "clan": "LJMT",
+  "tag": "#2R2L22YU2",
+  "visto": "2026-11-20T09:51:45Z",
+  "stato": "inWar",
+  "id": "20261119T003413.000Z",
+  "inizio": "20261119T233413.000Z",
+  "fine": "20261120T233413.000Z",
+  "dimensione": 20,
+  "attacchi_per_player": 2,
+  "avversario": "La Resistencia",
+  "stelle": 15,
+  "pc": 28.0,
+  "attacchi": 6,
+  "stelle_av": 20,
+  "pc_av": 34.6,
+  "attacchi_av": 7,
+  "player": [
+   {
+    "nome": "Damiano",
+    "tag": "#YJU8VVRY2",
+    "pos": 1,
+    "th": 19,
+    "att": [
+     {
+      "s": 2,
+      "d": 87,
+      "t": 155,
+      "pa": 1,
+      "th": 19,
+      "o": 13
+     }
+    ],
+    "dif": []
+   },
+   {
+    "nome": "GG",
+    "tag": "#QC282Y9U9",
+    "pos": 2,
+    "th": 19,
+    "att": [],
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 139,
+      "da": 2,
+      "o": 5
+     }
+    ]
+   },
+   {
+    "nome": "SAM",
+    "tag": "#80CPYL90Y",
+    "pos": 3,
+    "th": 19,
+    "att": [],
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 91,
+      "da": 3,
+      "o": 3
+     }
+    ]
+   },
+   {
+    "nome": "Beast",
+    "tag": "#Q2JCV890C",
+    "pos": 4,
+    "th": 19,
+    "att": [
+     {
+      "s": 2,
+      "d": 95,
+      "t": 164,
+      "pa": 4,
+      "th": 18,
+      "o": 10
+     },
+     {
+      "s": 2,
+      "d": 78,
+      "t": 150,
+      "pa": 3,
+      "th": 19,
+      "o": 11
+     }
+    ],
+    "dif": [
+     {
+      "s": 2,
+      "d": 92,
+      "t": 151,
+      "da": 4,
+      "o": 4
+     }
+    ]
+   },
+   {
+    "nome": "⚔️Trouble⚔️",
+    "tag": "#GLVLQ0U8C",
+    "pos": 5,
+    "th": 19,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "Gladiatore",
+    "tag": "#QJLUJG0CJ",
+    "pos": 6,
+    "th": 18,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "♦️CIP♥️",
+    "tag": "#V80C88G2",
+    "pos": 7,
+    "th": 17,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "milk",
+    "tag": "#QJL9P9P",
+    "pos": 8,
+    "th": 18,
+    "att": [],
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 123,
+      "da": 8,
+      "o": 1
+     }
+    ]
+   },
+   {
+    "nome": "Bruno",
+    "tag": "#2Y020CY2R",
+    "pos": 9,
+    "th": 17,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "THE KRAKEN3",
+    "tag": "#GC9QQV9CV",
+    "pos": 10,
+    "th": 17,
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 87,
+      "pa": 7,
+      "th": 18,
+      "o": 7
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 142,
+      "pa": 6,
+      "th": 18,
+      "o": 8
+     }
+    ],
+    "dif": []
+   },
+   {
+    "nome": "TEAM Σ SIGMA",
+    "tag": "#GYJ88UL89",
+    "pos": 11,
+    "th": 18,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "⚔️Trouble-2⚔️",
+    "tag": "#GQ08LJYC2",
+    "pos": 12,
+    "th": 17,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "Damiano2",
+    "tag": "#QUY8JUR29",
+    "pos": 13,
+    "th": 17,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "Matteo93ktm",
+    "tag": "#Y8809V9Y",
+    "pos": 14,
+    "th": 17,
+    "att": [],
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 145,
+      "da": 14,
+      "o": 2
+     }
+    ]
+   },
+   {
+    "nome": "Temistocle25",
+    "tag": "#8CVG2UJC",
+    "pos": 15,
+    "th": 17,
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 122,
+      "pa": 17,
+      "th": 17,
+      "o": 12
+     }
+    ],
+    "dif": []
+   },
+   {
+    "nome": "Giulia",
+    "tag": "#2Q9QCUU9U",
+    "pos": 16,
+    "th": 17,
+    "att": [],
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 149,
+      "da": 17,
+      "o": 9
+     }
+    ]
+   },
+   {
+    "nome": "Mast3rPlay 2nd",
+    "tag": "#2L8YY9JY2",
+    "pos": 17,
+    "th": 16,
+    "att": [],
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 153,
+      "da": 17,
+      "o": 6
+     }
+    ]
+   },
+   {
+    "nome": "Banned_Paul",
+    "tag": "#GLVUJ99QG",
+    "pos": 18,
+    "th": 15,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "Luma-2",
+    "tag": "#G98Q0C9UU",
+    "pos": 19,
+    "th": 14,
+    "att": [],
+    "dif": []
+   },
+   {
+    "nome": "Luma-3",
+    "tag": "#GQP8U8UC9",
+    "pos": 20,
+    "th": 10,
     "att": [],
     "dif": []
    }
