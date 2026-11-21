@@ -2,7 +2,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-21T01:06:11Z",
+  "visto": "2026-11-21T22:09:58Z",
   "stato": "preparation",
   "id": "20261121T000239.000Z",
   "inizio": "20261121T230239.000Z",
@@ -144,20 +144,20 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-21T01:06:11Z",
-  "stato": "preparation",
+  "visto": "2026-11-21T22:09:58Z",
+  "stato": "inWar",
   "id": "20261120T223029.000Z",
   "inizio": "20261121T213029.000Z",
   "fine": "20261122T213029.000Z",
   "dimensione": 35,
   "attacchi_per_player": 2,
   "avversario": "Phoenix spirit",
-  "stelle": 0,
-  "pc": 0.0,
-  "attacchi": 0,
-  "stelle_av": 0,
-  "pc_av": 0.0,
-  "attacchi_av": 0,
+  "stelle": 6,
+  "pc": 5.7,
+  "attacchi": 2,
+  "stelle_av": 3,
+  "pc_av": 2.9,
+  "attacchi_av": 1,
   "stemma_av": "Fr6SwaT1H_2OZfbmqnNn_5vlpAZ0-5weXWRdYvgY8Hw",
   "livello_av": 36,
   "player": [
@@ -342,7 +342,24 @@
     "tag": "#2VRR929LL",
     "pos": 23,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 115,
+      "pa": 25,
+      "th": 19,
+      "o": 1
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 131,
+      "pa": 15,
+      "th": 19,
+      "o": 2
+     }
+    ],
     "dif": []
    },
    {
@@ -367,7 +384,15 @@
     "pos": 26,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 155,
+      "da": 17,
+      "o": 3
+     }
+    ]
    },
    {
     "nome": "TEAM Γ GAMMA",
