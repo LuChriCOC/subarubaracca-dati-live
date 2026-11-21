@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 418300,
-     "raid": 4,
-     "attacchi": 95,
-     "distretti": 36,
-     "player": 21
+     "oro": 610568,
+     "raid": 5,
+     "attacchi": 137,
+     "distretti": 52,
+     "player": 27
     }
    ],
    "player": [
@@ -41,6 +41,36 @@
      "oro": 32138
     },
     {
+     "nome": "Don Arox",
+     "tag": "#2QQ90QU2C",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 31056
+    },
+    {
+     "nome": "MaChri",
+     "tag": "#YLLQ9RJ9Y",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 29704
+    },
+    {
+     "nome": "⚔️Trouble⚔️",
+     "tag": "#GLVLQ0U8C",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 29279
+    },
+    {
      "nome": "Sandrone",
      "tag": "#RLGJR8QY",
      "in": [
@@ -61,6 +91,16 @@
      "oro": 28650
     },
     {
+     "nome": "SAM",
+     "tag": "#80CPYL90Y",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 27283
+    },
+    {
      "nome": "Andrif94 II",
      "tag": "#G2VULPRUV",
      "in": [
@@ -71,6 +111,16 @@
      "oro": 27152
     },
     {
+     "nome": "Gladiatore",
+     "tag": "#QJLUJG0CJ",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 27097
+    },
+    {
      "nome": "Broccolo FF",
      "tag": "#LRC22VRP",
      "in": [
@@ -79,6 +129,26 @@
      "att": 6,
      "lim": 6,
      "oro": 26617
+    },
+    {
+     "nome": "Beast",
+     "tag": "#Q2JCV890C",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 26482
+    },
+    {
+     "nome": "Alby_38",
+     "tag": "#PGV0VJ9C9",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 25409
     },
     {
      "nome": "Petos",
@@ -151,14 +221,14 @@
      "oro": 20395
     },
     {
-     "nome": "MaChri",
-     "tag": "#YLLQ9RJ9Y",
+     "nome": "Luma",
+     "tag": "#Q9JPRL9GQ",
      "in": [
       "I Subarubaracca"
      ],
-     "att": 3,
+     "att": 5,
      "lim": 6,
-     "oro": 17864
+     "oro": 19861
     },
     {
      "nome": "and66nav",
@@ -181,34 +251,24 @@
      "oro": 13463
     },
     {
-     "nome": "⚔️Trouble⚔️",
-     "tag": "#GLVLQ0U8C",
-     "in": [
-      "I Subarubaracca"
-     ],
-     "att": 3,
-     "lim": 6,
-     "oro": 12204
-    },
-    {
-     "nome": "Gladiatore",
-     "tag": "#QJLUJG0CJ",
+     "nome": "THE KRAKEN2",
+     "tag": "#QGQYR999P",
      "in": [
       "I Subarubaracca"
      ],
      "att": 2,
      "lim": 6,
-     "oro": 9786
+     "oro": 11529
     },
     {
-     "nome": "Luma",
-     "tag": "#Q9JPRL9GQ",
+     "nome": "GG",
+     "tag": "#QC282Y9U9",
      "in": [
       "I Subarubaracca"
      ],
-     "att": 1,
+     "att": 2,
      "lim": 6,
-     "oro": 5786
+     "oro": 10208
     },
     {
      "nome": "DarkHawk",
@@ -237,10 +297,6 @@
      "tag": "#2VRR929LL"
     },
     {
-     "nome": "Alby_38",
-     "tag": "#PGV0VJ9C9"
-    },
-    {
      "nome": "Andrea",
      "tag": "#RPPUJJGU"
     },
@@ -251,10 +307,6 @@
     {
      "nome": "AtTiTuDePrObLeM",
      "tag": "#CCUVGGV9"
-    },
-    {
-     "nome": "Beast",
-     "tag": "#Q2JCV890C"
     },
     {
      "nome": "bupalo",
@@ -277,10 +329,6 @@
      "tag": "#2PY2YVYG9"
     },
     {
-     "nome": "Don Arox",
-     "tag": "#2QQ90QU2C"
-    },
-    {
      "nome": "ethan e noah",
      "tag": "#JP9GP2PG"
     },
@@ -301,10 +349,6 @@
      "tag": "#8GV2CCU2V"
     },
     {
-     "nome": "PIER",
-     "tag": "#UUGJP0RL"
-    },
-    {
      "nome": "PigsKing32",
      "tag": "#2C2UJQCC"
     },
@@ -323,10 +367,6 @@
     {
      "nome": "THE KRAKEN",
      "tag": "#9JV82UV8"
-    },
-    {
-     "nome": "THE KRAKEN2",
-     "tag": "#QGQYR999P"
     },
     {
      "nome": "☠️☠️IT☠️☠️FF",
