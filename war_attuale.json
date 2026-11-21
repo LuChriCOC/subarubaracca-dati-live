@@ -2,8 +2,8 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-21T22:09:58Z",
-  "stato": "preparation",
+  "visto": "2026-11-21T23:13:43Z",
+  "stato": "inWar",
   "id": "20261121T000239.000Z",
   "inizio": "20261121T230239.000Z",
   "fine": "20261122T230239.000Z",
@@ -144,7 +144,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-21T22:09:58Z",
+  "visto": "2026-11-21T23:13:43Z",
   "stato": "inWar",
   "id": "20261120T223029.000Z",
   "inizio": "20261121T213029.000Z",
@@ -155,9 +155,9 @@
   "stelle": 6,
   "pc": 5.7,
   "attacchi": 2,
-  "stelle_av": 3,
-  "pc_av": 2.9,
-  "attacchi_av": 1,
+  "stelle_av": 15,
+  "pc_av": 16.2,
+  "attacchi_av": 6,
   "stemma_av": "Fr6SwaT1H_2OZfbmqnNn_5vlpAZ0-5weXWRdYvgY8Hw",
   "livello_av": 36,
   "player": [
@@ -400,7 +400,15 @@
     "pos": 27,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 151,
+      "da": 17,
+      "o": 4
+     }
+    ]
    },
    {
     "nome": "AtTiTuDePrObLeM",
@@ -416,7 +424,15 @@
     "pos": 29,
     "th": 18,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 101,
+      "da": 23,
+      "o": 7
+     }
+    ]
    },
    {
     "nome": "THE KRAKEN2",
@@ -424,7 +440,15 @@
     "pos": 30,
     "th": 18,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 121,
+      "da": 23,
+      "o": 8
+     }
+    ]
    },
    {
     "nome": "Claude Monet",
@@ -456,7 +480,15 @@
     "pos": 34,
     "th": 18,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 1,
+      "d": 70,
+      "t": 148,
+      "da": 35,
+      "o": 6
+     }
+    ]
    },
    {
     "nome": "Andrif94 II",
@@ -464,7 +496,15 @@
     "pos": 35,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 2,
+      "d": 98,
+      "t": 180,
+      "da": 35,
+      "o": 5
+     }
+    ]
    }
   ]
  }
