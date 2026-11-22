@@ -2,7 +2,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-22T19:45:23Z",
+  "visto": "2026-11-22T20:10:30Z",
   "stato": "inWar",
   "id": "20261121T000239.000Z",
   "inizio": "20261121T230239.000Z",
@@ -13,9 +13,9 @@
   "stelle": 45,
   "pc": 100.0,
   "attacchi": 19,
-  "stelle_av": 38,
-  "pc_av": 89.8,
-  "attacchi_av": 18,
+  "stelle_av": 39,
+  "pc_av": 91.5,
+  "attacchi_av": 19,
   "stemma_av": "TkOCnR_uxyUVsT1P_NrVWOMLVXz0jNqOoGSA0NRZvNw",
   "livello_av": 25,
   "player": [
@@ -262,6 +262,13 @@
       "t": 87,
       "da": 7,
       "o": 19
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 118,
+      "da": 6,
+      "o": 38
      }
     ]
    },
@@ -447,7 +454,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-22T19:45:23Z",
+  "visto": "2026-11-22T20:10:30Z",
   "stato": "inWar",
   "id": "20261120T223029.000Z",
   "inizio": "20261121T213029.000Z",
@@ -457,10 +464,10 @@
   "avversario": "Phoenix spirit",
   "stelle": 105,
   "pc": 100.0,
-  "attacchi": 55,
+  "attacchi": 56,
   "stelle_av": 105,
   "pc_av": 100.0,
-  "attacchi_av": 66,
+  "attacchi_av": 68,
   "stemma_av": "Fr6SwaT1H_2OZfbmqnNn_5vlpAZ0-5weXWRdYvgY8Hw",
   "livello_av": 36,
   "player": [
@@ -639,6 +646,13 @@
       "t": 64,
       "da": 9,
       "o": 118
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 174,
+      "da": 29,
+      "o": 122
      }
     ]
    },
@@ -1195,6 +1209,13 @@
       "t": 154,
       "da": 1,
       "o": 42
+     },
+     {
+      "s": 2,
+      "d": 84,
+      "t": 71,
+      "da": 30,
+      "o": 123
      }
     ]
    },
@@ -1211,6 +1232,14 @@
       "pa": 24,
       "th": 19,
       "o": 97
+     },
+     {
+      "s": 2,
+      "d": 86,
+      "t": 153,
+      "pa": 33,
+      "th": 18,
+      "o": 124
      }
     ],
     "dif": [
