@@ -2,7 +2,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-22T20:10:30Z",
+  "visto": "2026-11-22T20:33:55Z",
   "stato": "inWar",
   "id": "20261121T000239.000Z",
   "inizio": "20261121T230239.000Z",
@@ -454,7 +454,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-22T20:10:30Z",
+  "visto": "2026-11-22T20:33:55Z",
   "stato": "inWar",
   "id": "20261120T223029.000Z",
   "inizio": "20261121T213029.000Z",
@@ -464,7 +464,7 @@
   "avversario": "Phoenix spirit",
   "stelle": 105,
   "pc": 100.0,
-  "attacchi": 56,
+  "attacchi": 57,
   "stelle_av": 105,
   "pc_av": 100.0,
   "attacchi_av": 68,
@@ -1314,6 +1314,14 @@
       "pa": 22,
       "th": 19,
       "o": 117
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 126,
+      "pa": 21,
+      "th": 19,
+      "o": 125
      }
     ],
     "dif": [
