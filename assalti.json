@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 878827,
-     "raid": 8,
-     "attacchi": 202,
-     "distretti": 76,
-     "player": 36
+     "oro": 1004354,
+     "raid": 10,
+     "attacchi": 229,
+     "distretti": 89,
+     "player": 43
     }
    ],
    "player": [
@@ -161,6 +161,16 @@
      "oro": 27097
     },
     {
+     "nome": "THE KRAKEN3",
+     "tag": "#GC9QQV9CV",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 27056
+    },
+    {
      "nome": "Andrea",
      "tag": "#RPPUJJGU",
      "in": [
@@ -211,6 +221,26 @@
      "oro": 25910
     },
     {
+     "nome": "THE KRAKEN",
+     "tag": "#9JV82UV8",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 25856
+    },
+    {
+     "nome": "THE KRAKEN2",
+     "tag": "#QGQYR999P",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 25504
+    },
+    {
      "nome": "Alby_38",
      "tag": "#PGV0VJ9C9",
      "in": [
@@ -259,6 +289,16 @@
      "att": 6,
      "lim": 6,
      "oro": 23654
+    },
+    {
+     "nome": "ethan e noah",
+     "tag": "#JP9GP2PG",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 4,
+     "lim": 6,
+     "oro": 22831
     },
     {
      "nome": "Luma",
@@ -351,16 +391,6 @@
      "oro": 14129
     },
     {
-     "nome": "THE KRAKEN2",
-     "tag": "#QGQYR999P",
-     "in": [
-      "I Subarubaracca"
-     ],
-     "att": 2,
-     "lim": 6,
-     "oro": 11529
-    },
-    {
      "nome": "GG",
      "tag": "#QC282Y9U9",
      "in": [
@@ -369,6 +399,46 @@
      "att": 2,
      "lim": 6,
      "oro": 10208
+    },
+    {
+     "nome": "Cinghiale_32",
+     "tag": "#GPCG8PRRG",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 2,
+     "lim": 6,
+     "oro": 9823
+    },
+    {
+     "nome": "PigsKing32",
+     "tag": "#2C2UJQCC",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 2,
+     "lim": 6,
+     "oro": 9567
+    },
+    {
+     "nome": "Cinghiale32",
+     "tag": "#8U2VYJ80",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 2,
+     "lim": 6,
+     "oro": 9381
+    },
+    {
+     "nome": "hummer",
+     "tag": "#LQY0C88VJ",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 1,
+     "lim": 6,
+     "oro": 7038
     },
     {
      "nome": "DarkHawk",
@@ -395,28 +465,12 @@
      "tag": "#CCUVGGV9"
     },
     {
-     "nome": "Cinghiale32",
-     "tag": "#8U2VYJ80"
-    },
-    {
-     "nome": "Cinghiale_32",
-     "tag": "#GPCG8PRRG"
-    },
-    {
      "nome": "Claude Monet",
      "tag": "#2PY2YVYG9"
     },
     {
-     "nome": "ethan e noah",
-     "tag": "#JP9GP2PG"
-    },
-    {
      "nome": "Hope",
      "tag": "#VJRJUUVC"
-    },
-    {
-     "nome": "hummer",
-     "tag": "#LQY0C88VJ"
     },
     {
      "nome": "il Greco",
@@ -427,16 +481,8 @@
      "tag": "#GQP8U8UC9"
     },
     {
-     "nome": "PigsKing32",
-     "tag": "#2C2UJQCC"
-    },
-    {
      "nome": "SIMO03",
      "tag": "#8UP8QG90U"
-    },
-    {
-     "nome": "THE KRAKEN",
-     "tag": "#9JV82UV8"
     },
     {
      "nome": "☠️☠️IT☠️☠️FF",
