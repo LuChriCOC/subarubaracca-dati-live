@@ -2,7 +2,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-23T22:43:02Z",
+  "visto": "2026-11-23T23:43:12Z",
   "stato": "inWar",
   "id": "20261122T231517.000Z",
   "inizio": "20261123T221517.000Z",
@@ -10,12 +10,12 @@
   "dimensione": 15,
   "attacchi_per_player": 2,
   "avversario": "Black Dracaryus",
-  "stelle": 6,
-  "pc": 13.3,
-  "attacchi": 2,
-  "stelle_av": 3,
-  "pc_av": 6.7,
-  "attacchi_av": 1,
+  "stelle": 10,
+  "pc": 26.0,
+  "attacchi": 4,
+  "stelle_av": 6,
+  "pc_av": 13.3,
+  "attacchi_av": 2,
   "stemma_av": "9-tE99KMs9Js_u3hyGN55RsFUE0-zP8hAsUY9DekKLY",
   "livello_av": 19,
   "player": [
@@ -40,7 +40,24 @@
     "tag": "#80CPYL90Y",
     "pos": 3,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 1,
+      "d": 90,
+      "t": 177,
+      "pa": 1,
+      "th": 19,
+      "o": 5
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 161,
+      "pa": 3,
+      "th": 19,
+      "o": 6
+     }
+    ],
     "dif": []
    },
    {
@@ -57,7 +74,15 @@
     "pos": 5,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 160,
+      "da": 5,
+      "o": 4
+     }
+    ]
    },
    {
     "nome": "♦️CIP♥️",
@@ -169,7 +194,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-23T22:43:02Z",
+  "visto": "2026-11-23T23:43:12Z",
   "stato": "inWar",
   "id": "20261122T222745.000Z",
   "inizio": "20261123T212745.000Z",
@@ -177,12 +202,12 @@
   "dimensione": 35,
   "attacchi_per_player": 2,
   "avversario": "JK EMPIRE",
-  "stelle": 32,
-  "pc": 30.1,
-  "attacchi": 13,
-  "stelle_av": 48,
-  "pc_av": 45.7,
-  "attacchi_av": 23,
+  "stelle": 36,
+  "pc": 34.8,
+  "attacchi": 15,
+  "stelle_av": 51,
+  "pc_av": 48.6,
+  "attacchi_av": 24,
   "stemma_av": "k-KUxpzrv2b3IfwyMzyD2lOflQXwzdP2S7IIW6-ZksM",
   "livello_av": 14,
   "player": [
@@ -300,7 +325,16 @@
     "tag": "#V9CPPV8G",
     "pos": 5,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 2,
+      "d": 96,
+      "t": 180,
+      "pa": 8,
+      "th": 19,
+      "o": 39
+     }
+    ],
     "dif": [
      {
       "s": 1,
@@ -347,6 +381,14 @@
       "pa": 6,
       "th": 19,
       "o": 32
+     },
+     {
+      "s": 2,
+      "d": 68,
+      "t": 139,
+      "pa": 7,
+      "th": 19,
+      "o": 38
      }
     ],
     "dif": [
@@ -501,7 +543,15 @@
     "pos": 15,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 162,
+      "da": 27,
+      "o": 37
+     }
+    ]
    },
    {
     "nome": "Sandrone",
