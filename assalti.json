@@ -8,14 +8,14 @@
   {
    "inizio": "20261120T070000.000Z",
    "fine": "20261123T070000.000Z",
-   "stato": "ongoing",
+   "stato": "ended",
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 1255010,
+     "oro": 1277084,
      "raid": 13,
-     "attacchi": 293,
-     "distretti": 109,
+     "attacchi": 297,
+     "distretti": 110,
      "player": 50
     }
    ],
@@ -59,6 +59,16 @@
      "att": 6,
      "lim": 6,
      "oro": 32138
+    },
+    {
+     "nome": "Cinghiale32",
+     "tag": "#8U2VYJ80",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 31455
     },
     {
      "nome": "Don Arox",
@@ -509,16 +519,6 @@
      "att": 6,
      "lim": 6,
      "oro": 14129
-    },
-    {
-     "nome": "Cinghiale32",
-     "tag": "#8U2VYJ80",
-     "in": [
-      "I Subarubaracca"
-     ],
-     "att": 2,
-     "lim": 6,
-     "oro": 9381
     }
    ],
    "assenti": [
@@ -2414,13 +2414,14 @@
  "capitale": {
   "2Q9208QQV": {
    "nome": "I Subarubaracca",
-   "punti": 5184,
+   "punti": 5208,
    "lega": "Legend League",
    "storico": {
     "20261026": 5170,
     "20261102": 5187,
     "20261109": 5140,
-    "20261116": 5184
+    "20261116": 5184,
+    "20261123": 5208
    }
   }
  }
