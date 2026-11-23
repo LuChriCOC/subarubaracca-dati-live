@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 1187635,
-     "raid": 12,
-     "attacchi": 276,
-     "distretti": 104,
-     "player": 48
+     "oro": 1255010,
+     "raid": 13,
+     "attacchi": 293,
+     "distretti": 109,
+     "player": 50
     }
    ],
    "player": [
@@ -221,6 +221,16 @@
      "oro": 26482
     },
     {
+     "nome": "Damiano",
+     "tag": "#YJU8VVRY2",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 26340
+    },
+    {
      "nome": "PIER",
      "tag": "#UUGJP0RL",
      "in": [
@@ -381,6 +391,16 @@
      "oro": 22831
     },
     {
+     "nome": "*,...,*",
+     "tag": "#2VRR929LL",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 22454
+    },
+    {
      "nome": "Luma",
      "tag": "#Q9JPRL9GQ",
      "in": [
@@ -399,6 +419,16 @@
      "att": 6,
      "lim": 6,
      "oro": 21878
+    },
+    {
+     "nome": "DarkHawk",
+     "tag": "#2YUJGVCVV",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 21875
     },
     {
      "nome": "TEAM Σ SIGMA",
@@ -489,23 +519,9 @@
      "att": 2,
      "lim": 6,
      "oro": 9381
-    },
-    {
-     "nome": "DarkHawk",
-     "tag": "#2YUJGVCVV",
-     "in": [
-      "I Subarubaracca"
-     ],
-     "att": 1,
-     "lim": 6,
-     "oro": 3294
     }
    ],
    "assenti": [
-    {
-     "nome": "*,...,*",
-     "tag": "#2VRR929LL"
-    },
     {
      "nome": "Hope",
      "tag": "#VJRJUUVC"
