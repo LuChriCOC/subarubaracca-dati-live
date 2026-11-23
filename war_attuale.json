@@ -2,7 +2,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-23T22:18:59Z",
+  "visto": "2026-11-23T22:43:02Z",
   "stato": "inWar",
   "id": "20261122T231517.000Z",
   "inizio": "20261123T221517.000Z",
@@ -10,12 +10,12 @@
   "dimensione": 15,
   "attacchi_per_player": 2,
   "avversario": "Black Dracaryus",
-  "stelle": 0,
-  "pc": 0.0,
-  "attacchi": 0,
-  "stelle_av": 0,
-  "pc_av": 0.0,
-  "attacchi_av": 0,
+  "stelle": 6,
+  "pc": 13.3,
+  "attacchi": 2,
+  "stelle_av": 3,
+  "pc_av": 6.7,
+  "attacchi_av": 1,
   "stemma_av": "9-tE99KMs9Js_u3hyGN55RsFUE0-zP8hAsUY9DekKLY",
   "livello_av": 19,
   "player": [
@@ -88,7 +88,24 @@
     "tag": "#GC9QQV9CV",
     "pos": 9,
     "th": 17,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 114,
+      "pa": 6,
+      "th": 19,
+      "o": 1
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 113,
+      "pa": 5,
+      "th": 18,
+      "o": 2
+     }
+    ],
     "dif": []
    },
    {
@@ -105,7 +122,15 @@
     "pos": 11,
     "th": 18,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 131,
+      "da": 11,
+      "o": 3
+     }
+    ]
    },
    {
     "nome": "Damiano2",
@@ -144,7 +169,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-23T22:18:59Z",
+  "visto": "2026-11-23T22:43:02Z",
   "stato": "inWar",
   "id": "20261122T222745.000Z",
   "inizio": "20261123T212745.000Z",
@@ -152,12 +177,12 @@
   "dimensione": 35,
   "attacchi_per_player": 2,
   "avversario": "JK EMPIRE",
-  "stelle": 30,
-  "pc": 28.6,
-  "attacchi": 12,
-  "stelle_av": 37,
-  "pc_av": 36.1,
-  "attacchi_av": 18,
+  "stelle": 32,
+  "pc": 30.1,
+  "attacchi": 13,
+  "stelle_av": 48,
+  "pc_av": 45.7,
+  "attacchi_av": 23,
   "stemma_av": "k-KUxpzrv2b3IfwyMzyD2lOflQXwzdP2S7IIW6-ZksM",
   "livello_av": 14,
   "player": [
@@ -188,6 +213,13 @@
       "t": 167,
       "da": 25,
       "o": 24
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 133,
+      "da": 7,
+      "o": 33
      }
     ]
    },
@@ -307,7 +339,16 @@
     "tag": "#2VJ0LG80",
     "pos": 7,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 2,
+      "d": 55,
+      "t": 144,
+      "pa": 6,
+      "th": 19,
+      "o": 32
+     }
+    ],
     "dif": [
      {
       "s": 3,
@@ -363,6 +404,13 @@
       "t": 169,
       "da": 4,
       "o": 27
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 154,
+      "da": 7,
+      "o": 34
      }
     ]
    },
@@ -388,7 +436,15 @@
     "pos": 12,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 122,
+      "da": 28,
+      "o": 31
+     }
+    ]
    },
    {
     "nome": "Andrea",
@@ -396,7 +452,15 @@
     "pos": 13,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 161,
+      "da": 28,
+      "o": 35
+     }
+    ]
    },
    {
     "nome": "Cinghiale_32",
@@ -421,7 +485,15 @@
       "o": 21
      }
     ],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 156,
+      "da": 27,
+      "o": 36
+     }
+    ]
    },
    {
     "nome": "Mast3rPlay",
