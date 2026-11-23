@@ -264,22 +264,12 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
-   "Mast3rPlay": {
-    "lega": "Legend III",
-    "trofei": 1113,
-    "clan": "I Subarubaracca"
-   },
-   "Cinghiale32": {
-    "lega": "Legend III",
-    "trofei": 982,
-    "clan": "I Subarubaracca"
-   },
-   "Andrea ? ? ? ?": {
-    "lega": "Legend III",
-    "trofei": 746,
-    "clan": "I Subarubaracca"
-   },
    "LoRyXD16": {
+    "lega": "Legend III",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
+   "Mast3rPlay": {
     "lega": "Legend III",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -290,6 +280,16 @@
     "clan": "I Subarubaracca"
    },
    "TEAM ★ ALPHA": {
+    "lega": "Legend III",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
+   "Andrea ? ? ? ?": {
+    "lega": "Legend III",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
+   "Cinghiale32": {
     "lega": "Legend III",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -374,21 +374,6 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
-   "and66nav": {
-    "lega": "Electro 33",
-    "trofei": 779,
-    "clan": "I Subarubaracca"
-   },
-   "poa": {
-    "lega": "Electro 33",
-    "trofei": 692,
-    "clan": "I Subarubaracca"
-   },
-   "☠️☠️IT☠️☠️FF": {
-    "lega": "Electro 33",
-    "trofei": 122,
-    "clan": "I Subarubaracca"
-   },
    "Petos": {
     "lega": "Electro 33",
     "trofei": 0,
@@ -399,12 +384,22 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
+   "and66nav": {
+    "lega": "Electro 33",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
    "il Greco": {
     "lega": "Electro 33",
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
    "Andrif94 II": {
+    "lega": "Electro 33",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
+   "poa": {
     "lega": "Electro 33",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -434,22 +429,27 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
-   "Hope": {
-    "lega": "Dragon 30",
-    "trofei": 807,
+   "☠️☠️IT☠️☠️FF": {
+    "lega": "Electro 32",
+    "trofei": 0,
     "clan": "I Subarubaracca"
    },
-   "SIMO03": {
-    "lega": "Dragon 28",
-    "trofei": 328,
+   "Hope": {
+    "lega": "Electro 31",
+    "trofei": 0,
     "clan": "I Subarubaracca"
    },
    "TEAM Γ GAMMA": {
     "lega": "Dragon 28",
-    "trofei": 222,
+    "trofei": 0,
     "clan": "I Subarubaracca"
    },
    "Alby_38": {
+    "lega": "Dragon 28",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
+   "SIMO03": {
     "lega": "Dragon 28",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -474,11 +474,6 @@
     "trofei": 0,
     "clan": "LJMT"
    },
-   "⚔️Trouble⚔️": {
-    "lega": "Legend III",
-    "trofei": 717,
-    "clan": "LJMT"
-   },
    "Luma": {
     "lega": "Legend III",
     "trofei": 0,
@@ -500,21 +495,26 @@
     "clan": "LJMT"
    },
    "SAM": {
-    "lega": "Electro 32",
-    "trofei": 987,
+    "lega": "Electro 33",
+    "trofei": 0,
     "clan": "LJMT"
    },
-   "♦️CIP♥️": {
-    "lega": "Electro 31",
-    "trofei": 309,
+   "⚔️Trouble⚔️": {
+    "lega": "Electro 33",
+    "trofei": 0,
     "clan": "LJMT"
    },
    "⚔️Trouble-2⚔️": {
-    "lega": "Dragon 30",
-    "trofei": 640,
+    "lega": "Electro 31",
+    "trofei": 0,
     "clan": "LJMT"
    },
    "Pierone11": {
+    "lega": "Dragon 30",
+    "trofei": 0,
+    "clan": "LJMT"
+   },
+   "♦️CIP♥️": {
     "lega": "Dragon 30",
     "trofei": 0,
     "clan": "LJMT"
@@ -529,17 +529,22 @@
     "trofei": 0,
     "clan": "LJMT"
    },
+   "michele10": {
+    "lega": "Titan 27",
+    "trofei": 0,
+    "clan": "LJMT"
+   },
    "milk": {
     "lega": "Titan 27",
     "trofei": 0,
     "clan": "LJMT"
    },
-   "michele10": {
+   "Giulia": {
     "lega": "Titan 26",
-    "trofei": 484,
+    "trofei": 0,
     "clan": "LJMT"
    },
-   "Giulia": {
+   "Temistocle25": {
     "lega": "Titan 26",
     "trofei": 0,
     "clan": "LJMT"
@@ -554,14 +559,9 @@
     "trofei": 0,
     "clan": "LJMT"
    },
-   "Temistocle25": {
-    "lega": "P.E.K.K.A 24",
-    "trofei": 530,
-    "clan": "LJMT"
-   },
    "Damiano2": {
     "lega": "P.E.K.K.A 24",
-    "trofei": 151,
+    "trofei": 0,
     "clan": "LJMT"
    },
    "Matteo93ktm": {
