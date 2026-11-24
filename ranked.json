@@ -309,6 +309,11 @@
     "trofei": 166,
     "clan": "I Subarubaracca"
    },
+   "Mal75": {
+    "lega": "Legend III",
+    "trofei": 125,
+    "clan": "I Subarubaracca"
+   },
    "MaChri": {
     "lega": "Legend III",
     "trofei": 106,
@@ -317,11 +322,6 @@
    "AtTiTuDePrObLeM": {
     "lega": "Legend III",
     "trofei": 100,
-    "clan": "I Subarubaracca"
-   },
-   "Mal75": {
-    "lega": "Legend III",
-    "trofei": 99,
     "clan": "I Subarubaracca"
    },
    "Lam75": {
@@ -384,6 +384,11 @@
     "trofei": 354,
     "clan": "I Subarubaracca"
    },
+   "THE KRAKEN": {
+    "lega": "Electro 33",
+    "trofei": 204,
+    "clan": "I Subarubaracca"
+   },
    "il Greco": {
     "lega": "Electro 33",
     "trofei": 151,
@@ -392,11 +397,6 @@
    "Petos": {
     "lega": "Electro 33",
     "trofei": 119,
-    "clan": "I Subarubaracca"
-   },
-   "THE KRAKEN": {
-    "lega": "Electro 33",
-    "trofei": 84,
     "clan": "I Subarubaracca"
    },
    "and66nav": {
