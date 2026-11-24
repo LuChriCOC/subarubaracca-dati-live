@@ -2,7 +2,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-23T23:43:12Z",
+  "visto": "2026-11-24T05:52:49Z",
   "stato": "inWar",
   "id": "20261122T231517.000Z",
   "inizio": "20261123T221517.000Z",
@@ -13,9 +13,9 @@
   "stelle": 10,
   "pc": 26.0,
   "attacchi": 4,
-  "stelle_av": 6,
-  "pc_av": 13.3,
-  "attacchi_av": 2,
+  "stelle_av": 15,
+  "pc_av": 33.3,
+  "attacchi_av": 5,
   "stemma_av": "9-tE99KMs9Js_u3hyGN55RsFUE0-zP8hAsUY9DekKLY",
   "livello_av": 19,
   "player": [
@@ -33,7 +33,15 @@
     "pos": 2,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 110,
+      "da": 2,
+      "o": 7
+     }
+    ]
    },
    {
     "nome": "SAM",
@@ -90,7 +98,15 @@
     "pos": 6,
     "th": 17,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 86,
+      "da": 6,
+      "o": 9
+     }
+    ]
    },
    {
     "nome": "milk",
@@ -98,7 +114,15 @@
     "pos": 7,
     "th": 18,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 75,
+      "da": 7,
+      "o": 8
+     }
+    ]
    },
    {
     "nome": "Bruno",
@@ -194,7 +218,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-23T23:43:12Z",
+  "visto": "2026-11-24T05:52:49Z",
   "stato": "inWar",
   "id": "20261122T222745.000Z",
   "inizio": "20261123T212745.000Z",
@@ -205,9 +229,9 @@
   "stelle": 36,
   "pc": 34.8,
   "attacchi": 15,
-  "stelle_av": 51,
-  "pc_av": 48.6,
-  "attacchi_av": 24,
+  "stelle_av": 69,
+  "pc_av": 65.7,
+  "attacchi_av": 30,
   "stemma_av": "k-KUxpzrv2b3IfwyMzyD2lOflQXwzdP2S7IIW6-ZksM",
   "livello_av": 14,
   "player": [
@@ -559,7 +583,15 @@
     "pos": 16,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 150,
+      "da": 16,
+      "o": 40
+     }
+    ]
    },
    {
     "nome": "PigsKing32",
@@ -567,7 +599,15 @@
     "pos": 17,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 173,
+      "da": 16,
+      "o": 41
+     }
+    ]
    },
    {
     "nome": "Hope",
@@ -583,7 +623,15 @@
     "pos": 19,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 171,
+      "da": 18,
+      "o": 42
+     }
+    ]
    },
    {
     "nome": "SIMO03",
@@ -591,7 +639,15 @@
     "pos": 20,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 135,
+      "da": 18,
+      "o": 43
+     }
+    ]
    },
    {
     "nome": "poa",
@@ -599,7 +655,15 @@
     "pos": 21,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 128,
+      "da": 20,
+      "o": 44
+     }
+    ]
    },
    {
     "nome": "zelda",
@@ -607,7 +671,15 @@
     "pos": 22,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 139,
+      "da": 20,
+      "o": 45
+     }
+    ]
    },
    {
     "nome": "*,...,*",
