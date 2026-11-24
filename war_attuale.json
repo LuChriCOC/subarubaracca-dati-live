@@ -2,7 +2,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-24T15:57:15Z",
+  "visto": "2026-11-24T16:59:29Z",
   "stato": "inWar",
   "id": "20261122T231517.000Z",
   "inizio": "20261123T221517.000Z",
@@ -13,9 +13,9 @@
   "stelle": 24,
   "pc": 58.1,
   "attacchi": 11,
-  "stelle_av": 42,
-  "pc_av": 93.3,
-  "attacchi_av": 21,
+  "stelle_av": 45,
+  "pc_av": 100.0,
+  "attacchi_av": 22,
   "stemma_av": "9-tE99KMs9Js_u3hyGN55RsFUE0-zP8hAsUY9DekKLY",
   "livello_av": 19,
   "player": [
@@ -392,14 +392,22 @@
     "pos": 15,
     "th": 14,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 84,
+      "da": 12,
+      "o": 33
+     }
+    ]
    }
   ]
  },
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-24T15:57:15Z",
+  "visto": "2026-11-24T16:59:29Z",
   "stato": "inWar",
   "id": "20261122T222745.000Z",
   "inizio": "20261123T212745.000Z",
@@ -407,9 +415,9 @@
   "dimensione": 35,
   "attacchi_per_player": 2,
   "avversario": "JK EMPIRE",
-  "stelle": 71,
-  "pc": 71.0,
-  "attacchi": 37,
+  "stelle": 72,
+  "pc": 71.6,
+  "attacchi": 39,
   "stelle_av": 96,
   "pc_av": 91.4,
   "attacchi_av": 40,
@@ -1099,7 +1107,24 @@
     "tag": "#L82QJY9Y9",
     "pos": 27,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 2,
+      "d": 98,
+      "t": 157,
+      "pa": 8,
+      "th": 19,
+      "o": 78
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 142,
+      "pa": 14,
+      "th": 19,
+      "o": 79
+     }
+    ],
     "dif": [
      {
       "s": 3,
