@@ -266,7 +266,7 @@
    },
    "Don Arox": {
     "lega": "Legend III",
-    "trofei": 487,
+    "trofei": 516,
     "clan": "I Subarubaracca"
    },
    "TEAM ★ ALPHA": {
@@ -276,12 +276,7 @@
    },
    "mementomori": {
     "lega": "Legend III",
-    "trofei": 305,
-    "clan": "I Subarubaracca"
-   },
-   "Cinghiale32": {
-    "lega": "Legend III",
-    "trofei": 289,
+    "trofei": 332,
     "clan": "I Subarubaracca"
    },
    "• Roby D •": {
@@ -312,6 +307,11 @@
    "Mast3rPlay": {
     "lega": "Legend III",
     "trofei": 166,
+    "clan": "I Subarubaracca"
+   },
+   "MaChri": {
+    "lega": "Legend III",
+    "trofei": 106,
     "clan": "I Subarubaracca"
    },
    "AtTiTuDePrObLeM": {
@@ -394,14 +394,14 @@
     "trofei": 119,
     "clan": "I Subarubaracca"
    },
+   "THE KRAKEN": {
+    "lega": "Electro 33",
+    "trofei": 84,
+    "clan": "I Subarubaracca"
+   },
    "and66nav": {
     "lega": "Electro 33",
     "trofei": 70,
-    "clan": "I Subarubaracca"
-   },
-   "THE KRAKEN": {
-    "lega": "Electro 33",
-    "trofei": 44,
     "clan": "I Subarubaracca"
    },
    "THE KRAKEN2": {
@@ -482,11 +482,6 @@
    "Damiano": {
     "lega": "Legend II",
     "trofei": 0,
-    "clan": "LJMT"
-   },
-   "MaChri": {
-    "lega": "Legend III",
-    "trofei": 94,
     "clan": "LJMT"
    },
    "Beast": {
