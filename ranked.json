@@ -289,6 +289,11 @@
     "trofei": 214,
     "clan": "I Subarubaracca"
    },
+   "LoRyXD16": {
+    "lega": "Legend III",
+    "trofei": 193,
+    "clan": "I Subarubaracca"
+   },
    "Sandrone": {
     "lega": "Legend III",
     "trofei": 174,
@@ -304,19 +309,14 @@
     "trofei": 138,
     "clan": "I Subarubaracca"
    },
-   "LoRyXD16": {
+   "Lam75": {
     "lega": "Legend III",
-    "trofei": 121,
+    "trofei": 94,
     "clan": "I Subarubaracca"
    },
    "AtTiTuDePrObLeM": {
     "lega": "Legend III",
     "trofei": 89,
-    "clan": "I Subarubaracca"
-   },
-   "Lam75": {
-    "lega": "Legend III",
-    "trofei": 75,
     "clan": "I Subarubaracca"
    },
    "Mal75": {
@@ -326,22 +326,17 @@
    },
    "DarkHawk": {
     "lega": "Legend III",
-    "trofei": 55,
+    "trofei": 65,
     "clan": "I Subarubaracca"
    },
    "Andrea ? ? ? ?": {
     "lega": "Legend III",
-    "trofei": 33,
+    "trofei": 46,
     "clan": "I Subarubaracca"
    },
    "Andrea": {
     "lega": "Legend III",
     "trofei": 23,
-    "clan": "I Subarubaracca"
-   },
-   "Claude Monet": {
-    "lega": "Legend III",
-    "trofei": 0,
     "clan": "I Subarubaracca"
    },
    "PigsKing32": {
@@ -381,7 +376,7 @@
    },
    "Petos": {
     "lega": "Electro 33",
-    "trofei": 93,
+    "trofei": 119,
     "clan": "I Subarubaracca"
    },
    "and66nav": {
@@ -404,6 +399,11 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
+   "Claude Monet": {
+    "lega": "Electro 33",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
    "il Greco": {
     "lega": "Electro 33",
     "trofei": 0,
@@ -416,7 +416,7 @@
    },
    "hummer": {
     "lega": "Electro 32",
-    "trofei": 110,
+    "trofei": 137,
     "clan": "I Subarubaracca"
    },
    "Gladiatore": {
