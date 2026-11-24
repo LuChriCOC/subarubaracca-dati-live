@@ -2,7 +2,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-24T16:59:29Z",
+  "visto": "2026-11-24T17:52:11Z",
   "stato": "inWar",
   "id": "20261122T231517.000Z",
   "inizio": "20261123T221517.000Z",
@@ -15,7 +15,7 @@
   "attacchi": 11,
   "stelle_av": 45,
   "pc_av": 100.0,
-  "attacchi_av": 22,
+  "attacchi_av": 24,
   "stemma_av": "9-tE99KMs9Js_u3hyGN55RsFUE0-zP8hAsUY9DekKLY",
   "livello_av": 19,
   "player": [
@@ -230,6 +230,13 @@
       "t": 75,
       "da": 7,
       "o": 8
+     },
+     {
+      "s": 2,
+      "d": 59,
+      "t": 96,
+      "da": 13,
+      "o": 35
      }
     ]
    },
@@ -360,6 +367,13 @@
       "t": 75,
       "da": 7,
       "o": 32
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 97,
+      "da": 13,
+      "o": 34
      }
     ]
    },
@@ -407,7 +421,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-24T16:59:29Z",
+  "visto": "2026-11-24T17:52:11Z",
   "stato": "inWar",
   "id": "20261122T222745.000Z",
   "inizio": "20261123T212745.000Z",
@@ -415,12 +429,12 @@
   "dimensione": 35,
   "attacchi_per_player": 2,
   "avversario": "JK EMPIRE",
-  "stelle": 72,
-  "pc": 71.6,
-  "attacchi": 39,
-  "stelle_av": 96,
-  "pc_av": 91.4,
-  "attacchi_av": 40,
+  "stelle": 75,
+  "pc": 74.4,
+  "attacchi": 41,
+  "stelle_av": 105,
+  "pc_av": 100.0,
+  "attacchi_av": 44,
   "stemma_av": "k-KUxpzrv2b3IfwyMzyD2lOflQXwzdP2S7IIW6-ZksM",
   "livello_av": 14,
   "player": [
@@ -458,6 +472,13 @@
       "t": 133,
       "da": 7,
       "o": 33
+     },
+     {
+      "s": 1,
+      "d": 12,
+      "t": 59,
+      "da": 5,
+      "o": 85
      }
     ]
    },
@@ -661,7 +682,16 @@
     "tag": "#QQRQ9YGYQ",
     "pos": 8,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 2,
+      "d": 78,
+      "t": 95,
+      "pa": 13,
+      "th": 19,
+      "o": 83
+     }
+    ],
     "dif": [
      {
       "s": 3,
@@ -864,7 +894,16 @@
     "tag": "#RLGJR8QY",
     "pos": 16,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 158,
+      "pa": 26,
+      "th": 19,
+      "o": 80
+     }
+    ],
     "dif": [
      {
       "s": 3,
@@ -1224,7 +1263,15 @@
       "o": 17
      }
     ],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 166,
+      "da": 29,
+      "o": 81
+     }
+    ]
    },
    {
     "nome": "Claude Monet",
@@ -1232,7 +1279,15 @@
     "pos": 31,
     "th": 18,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 115,
+      "da": 5,
+      "o": 84
+     }
+    ]
    },
    {
     "nome": "Mal75",
@@ -1290,7 +1345,15 @@
       "o": 30
      }
     ],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 122,
+      "da": 29,
+      "o": 82
+     }
+    ]
    },
    {
     "nome": "and66nav",
