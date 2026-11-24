@@ -2,7 +2,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-24T20:41:37Z",
+  "visto": "2026-11-24T21:40:00Z",
   "stato": "inWar",
   "id": "20261122T231517.000Z",
   "inizio": "20261123T221517.000Z",
@@ -10,12 +10,12 @@
   "dimensione": 15,
   "attacchi_per_player": 2,
   "avversario": "Black Dracaryus",
-  "stelle": 34,
-  "pc": 78.3,
-  "attacchi": 15,
+  "stelle": 37,
+  "pc": 84.9,
+  "attacchi": 16,
   "stelle_av": 45,
   "pc_av": 100.0,
-  "attacchi_av": 24,
+  "attacchi_av": 25,
   "stemma_av": "9-tE99KMs9Js_u3hyGN55RsFUE0-zP8hAsUY9DekKLY",
   "livello_av": 19,
   "player": [
@@ -294,7 +294,16 @@
     "tag": "#GQ08LJYC2",
     "pos": 10,
     "th": 17,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 142,
+      "pa": 8,
+      "th": 17,
+      "o": 41
+     }
+    ],
     "dif": [
      {
       "s": 3,
@@ -302,6 +311,13 @@
       "t": 174,
       "da": 10,
       "o": 26
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 144,
+      "da": 8,
+      "o": 40
      }
     ]
    },
@@ -455,8 +471,8 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-24T20:41:37Z",
-  "stato": "inWar",
+  "visto": "2026-11-24T21:40:00Z",
+  "stato": "warEnded",
   "id": "20261122T222745.000Z",
   "inizio": "20261123T212745.000Z",
   "fine": "20261124T212745.000Z",
@@ -465,7 +481,7 @@
   "avversario": "JK EMPIRE",
   "stelle": 105,
   "pc": 100.0,
-  "attacchi": 64,
+  "attacchi": 68,
   "stelle_av": 105,
   "pc_av": 100.0,
   "attacchi_av": 48,
@@ -852,6 +868,14 @@
       "pa": 12,
       "th": 19,
       "o": 88
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 124,
+      "pa": 1,
+      "th": 19,
+      "o": 114
      }
     ],
     "dif": [
@@ -1008,7 +1032,24 @@
     "tag": "#22088Y2Y8",
     "pos": 15,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 1,
+      "d": 91,
+      "t": 139,
+      "pa": 17,
+      "th": 19,
+      "o": 115
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 112,
+      "pa": 1,
+      "th": 19,
+      "o": 116
+     }
+    ],
     "dif": [
      {
       "s": 3,
@@ -1352,6 +1393,14 @@
       "pa": 24,
       "th": 19,
       "o": 97
+     },
+     {
+      "s": 1,
+      "d": 13,
+      "t": 18,
+      "pa": 2,
+      "th": 19,
+      "o": 113
      }
     ],
     "dif": [
