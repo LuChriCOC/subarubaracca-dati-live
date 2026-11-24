@@ -256,7 +256,7 @@
   "2026-11": {
    "PIER": {
     "lega": "Legend II",
-    "trofei": 171,
+    "trofei": 183,
     "clan": "I Subarubaracca"
    },
    "Andrif94": {
@@ -266,17 +266,17 @@
    },
    "TEAM ★ ALPHA": {
     "lega": "Legend III",
-    "trofei": 428,
+    "trofei": 446,
     "clan": "I Subarubaracca"
    },
    "Don Arox": {
     "lega": "Legend III",
-    "trofei": 324,
+    "trofei": 419,
     "clan": "I Subarubaracca"
    },
    "• Roby D •": {
     "lega": "Legend III",
-    "trofei": 224,
+    "trofei": 279,
     "clan": "I Subarubaracca"
    },
    "mementomori": {
@@ -289,14 +289,19 @@
     "trofei": 169,
     "clan": "I Subarubaracca"
    },
-   "LoRyXD16": {
-    "lega": "Legend III",
-    "trofei": 112,
-    "clan": "I Subarubaracca"
-   },
    "Sandrone": {
     "lega": "Legend III",
-    "trofei": 112,
+    "trofei": 156,
+    "clan": "I Subarubaracca"
+   },
+   "LoRyXD16": {
+    "lega": "Legend III",
+    "trofei": 121,
+    "clan": "I Subarubaracca"
+   },
+   "zelda": {
+    "lega": "Legend III",
+    "trofei": 116,
     "clan": "I Subarubaracca"
    },
    "Mast3rPlay": {
@@ -324,19 +329,14 @@
     "trofei": 55,
     "clan": "I Subarubaracca"
    },
-   "zelda": {
+   "Andrea ? ? ? ?": {
     "lega": "Legend III",
-    "trofei": 36,
+    "trofei": 24,
     "clan": "I Subarubaracca"
    },
    "Andrea": {
     "lega": "Legend III",
     "trofei": 23,
-    "clan": "I Subarubaracca"
-   },
-   "Andrea ? ? ? ?": {
-    "lega": "Legend III",
-    "trofei": 15,
     "clan": "I Subarubaracca"
    },
    "Claude Monet": {
@@ -376,7 +376,7 @@
    },
    "poa": {
     "lega": "Electro 33",
-    "trofei": 204,
+    "trofei": 274,
     "clan": "I Subarubaracca"
    },
    "Petos": {
@@ -394,6 +394,11 @@
     "trofei": 44,
     "clan": "I Subarubaracca"
    },
+   "THE KRAKEN": {
+    "lega": "Electro 33",
+    "trofei": 28,
+    "clan": "I Subarubaracca"
+   },
    "ethan e noah": {
     "lega": "Electro 33",
     "trofei": 0,
@@ -405,11 +410,6 @@
     "clan": "I Subarubaracca"
    },
    "Andrif94 II": {
-    "lega": "Electro 33",
-    "trofei": 0,
-    "clan": "I Subarubaracca"
-   },
-   "THE KRAKEN": {
     "lega": "Electro 33",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -481,7 +481,7 @@
    },
    "Beast": {
     "lega": "Legend III",
-    "trofei": 54,
+    "trofei": 62,
     "clan": "LJMT"
    },
    "Luma": {
@@ -531,7 +531,7 @@
    },
    "michele10": {
     "lega": "Titan 27",
-    "trofei": 29,
+    "trofei": 58,
     "clan": "LJMT"
    },
    "milk": {

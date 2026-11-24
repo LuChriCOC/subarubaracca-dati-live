@@ -2,7 +2,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-24T14:14:47Z",
+  "visto": "2026-11-24T15:57:15Z",
   "stato": "inWar",
   "id": "20261122T231517.000Z",
   "inizio": "20261123T221517.000Z",
@@ -13,9 +13,9 @@
   "stelle": 24,
   "pc": 58.1,
   "attacchi": 11,
-  "stelle_av": 39,
-  "pc_av": 86.7,
-  "attacchi_av": 20,
+  "stelle_av": 42,
+  "pc_av": 93.3,
+  "attacchi_av": 21,
   "stemma_av": "9-tE99KMs9Js_u3hyGN55RsFUE0-zP8hAsUY9DekKLY",
   "livello_av": 19,
   "player": [
@@ -353,7 +353,15 @@
     "pos": 13,
     "th": 17,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 75,
+      "da": 7,
+      "o": 32
+     }
+    ]
    },
    {
     "nome": "Mast3rPlay 2nd",
@@ -391,7 +399,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-24T14:14:47Z",
+  "visto": "2026-11-24T15:57:15Z",
   "stato": "inWar",
   "id": "20261122T222745.000Z",
   "inizio": "20261123T212745.000Z",
@@ -399,12 +407,12 @@
   "dimensione": 35,
   "attacchi_per_player": 2,
   "avversario": "JK EMPIRE",
-  "stelle": 62,
-  "pc": 64.4,
-  "attacchi": 33,
-  "stelle_av": 90,
-  "pc_av": 85.7,
-  "attacchi_av": 38,
+  "stelle": 71,
+  "pc": 71.0,
+  "attacchi": 37,
+  "stelle_av": 96,
+  "pc_av": 91.4,
+  "attacchi_av": 40,
   "stemma_av": "k-KUxpzrv2b3IfwyMzyD2lOflQXwzdP2S7IIW6-ZksM",
   "livello_av": 14,
   "player": [
@@ -466,7 +474,24 @@
     "tag": "#UUGJP0RL",
     "pos": 3,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 168,
+      "pa": 11,
+      "th": 19,
+      "o": 74
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 179,
+      "pa": 20,
+      "th": 19,
+      "o": 75
+     }
+    ],
     "dif": [
      {
       "s": 1,
@@ -749,7 +774,24 @@
     "tag": "#RPPUJJGU",
     "pos": 13,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 159,
+      "pa": 9,
+      "th": 19,
+      "o": 72
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 178,
+      "pa": 10,
+      "th": 19,
+      "o": 73
+     }
+    ],
     "dif": [
      {
       "s": 3,
@@ -1124,7 +1166,15 @@
       "o": 10
      }
     ],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 112,
+      "da": 8,
+      "o": 76
+     }
+    ]
    },
    {
     "nome": "THE KRAKEN2",
@@ -1182,7 +1232,15 @@
       "o": 29
      }
     ],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 102,
+      "da": 8,
+      "o": 77
+     }
+    ]
    },
    {
     "nome": "Lam75",
