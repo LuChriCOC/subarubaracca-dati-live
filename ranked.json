@@ -309,6 +309,11 @@
     "trofei": 166,
     "clan": "I Subarubaracca"
    },
+   "Lam75": {
+    "lega": "Legend III",
+    "trofei": 160,
+    "clan": "I Subarubaracca"
+   },
    "Mal75": {
     "lega": "Legend III",
     "trofei": 125,
@@ -322,11 +327,6 @@
    "AtTiTuDePrObLeM": {
     "lega": "Legend III",
     "trofei": 100,
-    "clan": "I Subarubaracca"
-   },
-   "Lam75": {
-    "lega": "Legend III",
-    "trofei": 94,
     "clan": "I Subarubaracca"
    },
    "Andrea": {
@@ -451,7 +451,7 @@
    },
    "SIMO03": {
     "lega": "Dragon 28",
-    "trofei": 57,
+    "trofei": 87,
     "clan": "I Subarubaracca"
    },
    "TEAM Γ GAMMA": {
