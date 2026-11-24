@@ -294,19 +294,24 @@
     "trofei": 193,
     "clan": "I Subarubaracca"
    },
+   "zelda": {
+    "lega": "Legend III",
+    "trofei": 177,
+    "clan": "I Subarubaracca"
+   },
    "Sandrone": {
     "lega": "Legend III",
     "trofei": 174,
     "clan": "I Subarubaracca"
    },
-   "zelda": {
-    "lega": "Legend III",
-    "trofei": 167,
-    "clan": "I Subarubaracca"
-   },
    "Mast3rPlay": {
     "lega": "Legend III",
-    "trofei": 138,
+    "trofei": 166,
+    "clan": "I Subarubaracca"
+   },
+   "Mal75": {
+    "lega": "Legend III",
+    "trofei": 99,
     "clan": "I Subarubaracca"
    },
    "Lam75": {
@@ -317,11 +322,6 @@
    "AtTiTuDePrObLeM": {
     "lega": "Legend III",
     "trofei": 89,
-    "clan": "I Subarubaracca"
-   },
-   "Mal75": {
-    "lega": "Legend III",
-    "trofei": 71,
     "clan": "I Subarubaracca"
    },
    "DarkHawk": {
@@ -345,6 +345,11 @@
     "clan": "I Subarubaracca"
    },
    "Broccolo FF": {
+    "lega": "Legend III",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
+   "Luma": {
     "lega": "Legend III",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -384,14 +389,14 @@
     "trofei": 70,
     "clan": "I Subarubaracca"
    },
-   "THE KRAKEN2": {
+   "THE KRAKEN": {
     "lega": "Electro 33",
     "trofei": 44,
     "clan": "I Subarubaracca"
    },
-   "THE KRAKEN": {
+   "THE KRAKEN2": {
     "lega": "Electro 33",
-    "trofei": 28,
+    "trofei": 44,
     "clan": "I Subarubaracca"
    },
    "ethan e noah": {
@@ -482,11 +487,6 @@
    "Beast": {
     "lega": "Legend III",
     "trofei": 62,
-    "clan": "LJMT"
-   },
-   "Luma": {
-    "lega": "Legend III",
-    "trofei": 0,
     "clan": "LJMT"
    },
    "SAM": {

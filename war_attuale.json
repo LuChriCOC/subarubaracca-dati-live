@@ -2,7 +2,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-24T18:54:11Z",
+  "visto": "2026-11-24T19:58:33Z",
   "stato": "inWar",
   "id": "20261122T231517.000Z",
   "inizio": "20261123T221517.000Z",
@@ -10,9 +10,9 @@
   "dimensione": 15,
   "attacchi_per_player": 2,
   "avversario": "Black Dracaryus",
-  "stelle": 24,
-  "pc": 58.1,
-  "attacchi": 11,
+  "stelle": 30,
+  "pc": 71.5,
+  "attacchi": 13,
   "stelle_av": 45,
   "pc_av": 100.0,
   "attacchi_av": 24,
@@ -359,7 +359,24 @@
     "tag": "#2Q9QCUU9U",
     "pos": 13,
     "th": 17,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 119,
+      "pa": 15,
+      "th": 14,
+      "o": 36
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 130,
+      "pa": 14,
+      "th": 14,
+      "o": 37
+     }
+    ],
     "dif": [
      {
       "s": 3,
@@ -421,7 +438,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-24T18:54:11Z",
+  "visto": "2026-11-24T19:58:33Z",
   "stato": "inWar",
   "id": "20261122T222745.000Z",
   "inizio": "20261123T212745.000Z",
@@ -429,12 +446,12 @@
   "dimensione": 35,
   "attacchi_per_player": 2,
   "avversario": "JK EMPIRE",
-  "stelle": 88,
-  "pc": 86.4,
-  "attacchi": 48,
+  "stelle": 91,
+  "pc": 89.7,
+  "attacchi": 50,
   "stelle_av": 105,
   "pc_av": 100.0,
-  "attacchi_av": 45,
+  "attacchi_av": 46,
   "stemma_av": "k-KUxpzrv2b3IfwyMzyD2lOflQXwzdP2S7IIW6-ZksM",
   "livello_av": 14,
   "player": [
@@ -681,6 +698,13 @@
       "t": 130,
       "da": 21,
       "o": 7
+     },
+     {
+      "s": 1,
+      "d": 2,
+      "t": 10,
+      "da": 34,
+      "o": 94
      }
     ]
    },
@@ -984,6 +1008,14 @@
       "pa": 19,
       "th": 19,
       "o": 51
+     },
+     {
+      "s": 2,
+      "d": 99,
+      "t": 180,
+      "pa": 15,
+      "th": 19,
+      "o": 96
      }
     ],
     "dif": [
@@ -1344,6 +1376,14 @@
       "pa": 22,
       "th": 19,
       "o": 92
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 144,
+      "pa": 19,
+      "th": 19,
+      "o": 95
      }
     ],
     "dif": [
