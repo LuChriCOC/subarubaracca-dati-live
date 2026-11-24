@@ -346,7 +346,7 @@
    },
    "Andrea": {
     "lega": "Legend III",
-    "trofei": 23,
+    "trofei": 34,
     "clan": "I Subarubaracca"
    },
    "PigsKing32": {
@@ -389,6 +389,11 @@
     "trofei": 354,
     "clan": "I Subarubaracca"
    },
+   "il Greco": {
+    "lega": "Electro 33",
+    "trofei": 151,
+    "clan": "I Subarubaracca"
+   },
    "Petos": {
     "lega": "Electro 33",
     "trofei": 119,
@@ -415,11 +420,6 @@
     "clan": "I Subarubaracca"
    },
    "Claude Monet": {
-    "lega": "Electro 33",
-    "trofei": 0,
-    "clan": "I Subarubaracca"
-   },
-   "il Greco": {
     "lega": "Electro 33",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -544,12 +544,12 @@
     "trofei": 0,
     "clan": "LJMT"
    },
-   "Giulia": {
+   "Temistocle25": {
     "lega": "Titan 26",
-    "trofei": 0,
+    "trofei": 24,
     "clan": "LJMT"
    },
-   "Temistocle25": {
+   "Giulia": {
     "lega": "Titan 26",
     "trofei": 0,
     "clan": "LJMT"
