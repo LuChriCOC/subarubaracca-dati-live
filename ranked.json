@@ -279,6 +279,11 @@
     "trofei": 279,
     "clan": "I Subarubaracca"
    },
+   "Cinghiale32": {
+    "lega": "Legend III",
+    "trofei": 274,
+    "clan": "I Subarubaracca"
+   },
    "mementomori": {
     "lega": "Legend III",
     "trofei": 236,
@@ -309,19 +314,24 @@
     "trofei": 166,
     "clan": "I Subarubaracca"
    },
+   "AtTiTuDePrObLeM": {
+    "lega": "Legend III",
+    "trofei": 100,
+    "clan": "I Subarubaracca"
+   },
    "Mal75": {
     "lega": "Legend III",
     "trofei": 99,
     "clan": "I Subarubaracca"
    },
-   "Lam75": {
+   "MaChri": {
     "lega": "Legend III",
     "trofei": 94,
     "clan": "I Subarubaracca"
    },
-   "AtTiTuDePrObLeM": {
+   "Lam75": {
     "lega": "Legend III",
-    "trofei": 89,
+    "trofei": 94,
     "clan": "I Subarubaracca"
    },
    "DarkHawk": {
@@ -479,11 +489,6 @@
     "trofei": 0,
     "clan": "LJMT"
    },
-   "MaChri": {
-    "lega": "Legend III",
-    "trofei": 94,
-    "clan": "LJMT"
-   },
    "Beast": {
     "lega": "Legend III",
     "trofei": 62,
@@ -491,7 +496,7 @@
    },
    "SAM": {
     "lega": "Electro 33",
-    "trofei": 378,
+    "trofei": 407,
     "clan": "LJMT"
    },
    "⚔️Trouble⚔️": {

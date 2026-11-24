@@ -2,7 +2,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-24T19:58:33Z",
+  "visto": "2026-11-24T20:19:07Z",
   "stato": "inWar",
   "id": "20261122T231517.000Z",
   "inizio": "20261123T221517.000Z",
@@ -10,9 +10,9 @@
   "dimensione": 15,
   "attacchi_per_player": 2,
   "avversario": "Black Dracaryus",
-  "stelle": 30,
-  "pc": 71.5,
-  "attacchi": 13,
+  "stelle": 31,
+  "pc": 71.6,
+  "attacchi": 14,
   "stelle_av": 45,
   "pc_av": 100.0,
   "attacchi_av": 24,
@@ -343,7 +343,16 @@
     "tag": "#QUY8JUR29",
     "pos": 12,
     "th": 17,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 98,
+      "pa": 12,
+      "th": 16,
+      "o": 38
+     }
+    ],
     "dif": [
      {
       "s": 3,
@@ -438,7 +447,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-24T19:58:33Z",
+  "visto": "2026-11-24T20:19:07Z",
   "stato": "inWar",
   "id": "20261122T222745.000Z",
   "inizio": "20261123T212745.000Z",
@@ -446,9 +455,9 @@
   "dimensione": 35,
   "attacchi_per_player": 2,
   "avversario": "JK EMPIRE",
-  "stelle": 91,
-  "pc": 89.7,
-  "attacchi": 50,
+  "stelle": 99,
+  "pc": 96.4,
+  "attacchi": 55,
   "stelle_av": 105,
   "pc_av": 100.0,
   "attacchi_av": 46,
@@ -511,7 +520,24 @@
     "tag": "#YLLQ9RJ9Y",
     "pos": 2,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 63,
+      "pa": 33,
+      "th": 12,
+      "o": 100
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 49,
+      "pa": 35,
+      "th": 10,
+      "o": 101
+     }
+    ],
     "dif": [
      {
       "s": 3,
@@ -1040,7 +1066,24 @@
     "tag": "#Q9JPRL9GQ",
     "pos": 19,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 176,
+      "pa": 16,
+      "th": 19,
+      "o": 98
+     },
+     {
+      "s": 2,
+      "d": 78,
+      "t": 180,
+      "pa": 18,
+      "th": 19,
+      "o": 99
+     }
+    ],
     "dif": [
      {
       "s": 3,
@@ -1220,7 +1263,16 @@
     "tag": "#JP9GP2PG",
     "pos": 26,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 136,
+      "pa": 24,
+      "th": 19,
+      "o": 97
+     }
+    ],
     "dif": [
      {
       "s": 3,
