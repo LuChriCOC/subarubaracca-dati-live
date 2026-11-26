@@ -2,7 +2,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-26T20:22:51Z",
+  "visto": "2026-11-26T20:41:09Z",
   "stato": "inWar",
   "id": "20261124T223218.000Z",
   "inizio": "20261125T213218.000Z",
@@ -391,7 +391,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-26T20:22:51Z",
+  "visto": "2026-11-26T20:41:09Z",
   "stato": "inWar",
   "id": "20261124T222802.000Z",
   "inizio": "20261125T212802.000Z",
@@ -399,9 +399,9 @@
   "dimensione": 35,
   "attacchi_per_player": 2,
   "avversario": "NorthPeople FR",
-  "stelle": 104,
-  "pc": 99.9,
-  "attacchi": 55,
+  "stelle": 105,
+  "pc": 100.0,
+  "attacchi": 57,
   "stelle_av": 105,
   "pc_av": 100.0,
   "attacchi_av": 61,
@@ -1258,7 +1258,24 @@
     "tag": "#CCUVGGV9",
     "pos": 24,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 158,
+      "pa": 30,
+      "th": 18,
+      "o": 117
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 158,
+      "pa": 1,
+      "th": 19,
+      "o": 118
+     }
+    ],
     "dif": [
      {
       "s": 3,
