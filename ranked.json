@@ -256,7 +256,7 @@
   "2026-11": {
    "PIER": {
     "lega": "Legend II",
-    "trofei": 311,
+    "trofei": 327,
     "clan": "I Subarubaracca"
    },
    "Damiano": {
@@ -286,12 +286,12 @@
    },
    "• Roby D •": {
     "lega": "Legend III",
-    "trofei": 789,
+    "trofei": 803,
     "clan": "I Subarubaracca"
    },
    "Andrea ? ? ? ?": {
     "lega": "Legend III",
-    "trofei": 682,
+    "trofei": 694,
     "clan": "I Subarubaracca"
    },
    "Cinghiale32": {
@@ -309,19 +309,24 @@
     "trofei": 367,
     "clan": "I Subarubaracca"
    },
+   "Sandrone": {
+    "lega": "Legend III",
+    "trofei": 343,
+    "clan": "I Subarubaracca"
+   },
    "Andrea": {
     "lega": "Legend III",
     "trofei": 327,
     "clan": "I Subarubaracca"
    },
-   "Sandrone": {
-    "lega": "Legend III",
-    "trofei": 323,
-    "clan": "I Subarubaracca"
-   },
    "Mal75": {
     "lega": "Legend III",
-    "trofei": 257,
+    "trofei": 265,
+    "clan": "I Subarubaracca"
+   },
+   "Lam75": {
+    "lega": "Legend III",
+    "trofei": 251,
     "clan": "I Subarubaracca"
    },
    "LoRyXD16": {
@@ -332,11 +337,6 @@
    "Mast3rPlay": {
     "lega": "Legend III",
     "trofei": 235,
-    "clan": "I Subarubaracca"
-   },
-   "Lam75": {
-    "lega": "Legend III",
-    "trofei": 231,
     "clan": "I Subarubaracca"
    },
    "MaChri": {
@@ -411,12 +411,12 @@
    },
    "THE KRAKEN2": {
     "lega": "Electro 33",
-    "trofei": 109,
+    "trofei": 126,
     "clan": "I Subarubaracca"
    },
    "Claude Monet": {
     "lega": "Electro 33",
-    "trofei": 15,
+    "trofei": 23,
     "clan": "I Subarubaracca"
    },
    "ethan e noah": {
@@ -486,7 +486,7 @@
    },
    "Beast": {
     "lega": "Legend III",
-    "trofei": 334,
+    "trofei": 351,
     "clan": "LJMT"
    },
    "SAM": {

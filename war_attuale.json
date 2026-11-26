@@ -2,7 +2,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-26T17:55:16Z",
+  "visto": "2026-11-26T18:53:34Z",
   "stato": "inWar",
   "id": "20261124T223218.000Z",
   "inizio": "20261125T213218.000Z",
@@ -10,9 +10,9 @@
   "dimensione": 15,
   "attacchi_per_player": 2,
   "avversario": "clan family",
-  "stelle": 23,
-  "pc": 53.1,
-  "attacchi": 9,
+  "stelle": 26,
+  "pc": 59.8,
+  "attacchi": 10,
   "stelle_av": 28,
   "pc_av": 67.0,
   "attacchi_av": 14,
@@ -245,7 +245,16 @@
     "tag": "#8CVG2UJC",
     "pos": 11,
     "th": 18,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 140,
+      "pa": 15,
+      "th": 16,
+      "o": 24
+     }
+    ],
     "dif": [
      {
       "s": 3,
@@ -332,7 +341,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-26T17:55:16Z",
+  "visto": "2026-11-26T18:53:34Z",
   "stato": "inWar",
   "id": "20261124T222802.000Z",
   "inizio": "20261125T212802.000Z",
@@ -340,12 +349,12 @@
   "dimensione": 35,
   "attacchi_per_player": 2,
   "avversario": "NorthPeople FR",
-  "stelle": 94,
-  "pc": 92.9,
-  "attacchi": 46,
+  "stelle": 102,
+  "pc": 98.8,
+  "attacchi": 53,
   "stelle_av": 102,
-  "pc_av": 98.6,
-  "attacchi_av": 53,
+  "pc_av": 99.1,
+  "attacchi_av": 55,
   "stemma_av": "NeIjlTh56SrtcvBabMsZ1sf44phMW3oqWcvoIJnasAc",
   "livello_av": 33,
   "player": [
@@ -440,7 +449,24 @@
     "tag": "#UUGJP0RL",
     "pos": 4,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 137,
+      "pa": 34,
+      "th": 17,
+      "o": 101
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 115,
+      "pa": 35,
+      "th": 17,
+      "o": 103
+     }
+    ],
     "dif": [
      {
       "s": 2,
@@ -816,6 +842,13 @@
       "t": 154,
       "da": 19,
       "o": 91
+     },
+     {
+      "s": 2,
+      "d": 97,
+      "t": 180,
+      "da": 3,
+      "o": 108
      }
     ]
    },
@@ -857,7 +890,16 @@
     "tag": "#RPPUJJGU",
     "pos": 16,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 2,
+      "d": 99,
+      "t": 180,
+      "pa": 20,
+      "th": 19,
+      "o": 105
+     }
+    ],
     "dif": [
      {
       "s": 3,
@@ -873,7 +915,24 @@
     "tag": "#22088Y2Y8",
     "pos": 17,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 92,
+      "pa": 20,
+      "th": 19,
+      "o": 106
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 130,
+      "pa": 1,
+      "th": 19,
+      "o": 107
+     }
+    ],
     "dif": [
      {
       "s": 2,
@@ -993,6 +1052,13 @@
       "t": 161,
       "da": 32,
       "o": 89
+     },
+     {
+      "s": 2,
+      "d": 87,
+      "t": 147,
+      "da": 17,
+      "o": 100
      }
     ]
    },
@@ -1162,7 +1228,24 @@
     "tag": "#L82QJY9Y9",
     "pos": 27,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 2,
+      "d": 99,
+      "t": 180,
+      "pa": 20,
+      "th": 19,
+      "o": 102
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 130,
+      "pa": 21,
+      "th": 19,
+      "o": 104
+     }
+    ],
     "dif": [
      {
       "s": 3,
