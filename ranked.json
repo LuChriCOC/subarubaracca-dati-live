@@ -314,6 +314,11 @@
     "trofei": 343,
     "clan": "I Subarubaracca"
    },
+   "LoRyXD16": {
+    "lega": "Legend III",
+    "trofei": 319,
+    "clan": "I Subarubaracca"
+   },
    "Mal75": {
     "lega": "Legend III",
     "trofei": 287,
@@ -322,11 +327,6 @@
    "Lam75": {
     "lega": "Legend III",
     "trofei": 285,
-    "clan": "I Subarubaracca"
-   },
-   "LoRyXD16": {
-    "lega": "Legend III",
-    "trofei": 251,
     "clan": "I Subarubaracca"
    },
    "Mast3rPlay": {
@@ -394,14 +394,14 @@
     "trofei": 394,
     "clan": "I Subarubaracca"
    },
+   "Petos": {
+    "lega": "Electro 33",
+    "trofei": 347,
+    "clan": "I Subarubaracca"
+   },
    "il Greco": {
     "lega": "Electro 33",
     "trofei": 303,
-    "clan": "I Subarubaracca"
-   },
-   "Petos": {
-    "lega": "Electro 33",
-    "trofei": 250,
     "clan": "I Subarubaracca"
    },
    "THE KRAKEN2": {
@@ -426,7 +426,7 @@
    },
    "hummer": {
     "lega": "Electro 32",
-    "trofei": 413,
+    "trofei": 424,
     "clan": "I Subarubaracca"
    },
    "Gladiatore": {
@@ -446,7 +446,7 @@
    },
    "Hope": {
     "lega": "Electro 31",
-    "trofei": 659,
+    "trofei": 674,
     "clan": "I Subarubaracca"
    },
    "TEAM Γ GAMMA": {
@@ -481,7 +481,7 @@
    },
    "Damiano": {
     "lega": "Legend II",
-    "trofei": 58,
+    "trofei": 268,
     "clan": "LJMT"
    },
    "Beast": {
@@ -491,7 +491,7 @@
    },
    "SAM": {
     "lega": "Electro 33",
-    "trofei": 688,
+    "trofei": 700,
     "clan": "LJMT"
    },
    "⚔️Trouble⚔️": {
