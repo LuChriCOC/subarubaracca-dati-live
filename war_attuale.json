@@ -2,7 +2,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-26T17:01:42Z",
+  "visto": "2026-11-26T17:55:16Z",
   "stato": "inWar",
   "id": "20261124T223218.000Z",
   "inizio": "20261125T213218.000Z",
@@ -13,9 +13,9 @@
   "stelle": 23,
   "pc": 53.1,
   "attacchi": 9,
-  "stelle_av": 26,
-  "pc_av": 61.4,
-  "attacchi_av": 12,
+  "stelle_av": 28,
+  "pc_av": 67.0,
+  "attacchi_av": 14,
   "stemma_av": "iuO1vfXLuwJ50oDnnMN5EK4NrptlJF5QYQJVbUEKhkM",
   "livello_av": 29,
   "player": [
@@ -158,7 +158,15 @@
     "pos": 7,
     "th": 18,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 2,
+      "d": 84,
+      "t": 106,
+      "da": 8,
+      "o": 22
+     }
+    ]
    },
    {
     "nome": "Bruno",
@@ -173,6 +181,13 @@
       "t": 115,
       "da": 8,
       "o": 21
+     },
+     {
+      "s": 1,
+      "d": 43,
+      "t": 88,
+      "da": 13,
+      "o": 23
      }
     ]
    },
@@ -317,7 +332,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-26T17:01:42Z",
+  "visto": "2026-11-26T17:55:16Z",
   "stato": "inWar",
   "id": "20261124T222802.000Z",
   "inizio": "20261125T212802.000Z",
@@ -328,9 +343,9 @@
   "stelle": 94,
   "pc": 92.9,
   "attacchi": 46,
-  "stelle_av": 100,
-  "pc_av": 97.2,
-  "attacchi_av": 51,
+  "stelle_av": 102,
+  "pc_av": 98.6,
+  "attacchi_av": 53,
   "stemma_av": "NeIjlTh56SrtcvBabMsZ1sf44phMW3oqWcvoIJnasAc",
   "livello_av": 33,
   "player": [
@@ -501,6 +516,13 @@
       "t": 95,
       "da": 1,
       "o": 94
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 101,
+      "da": 5,
+      "o": 99
      }
     ]
    },
@@ -574,6 +596,13 @@
       "t": 98,
       "da": 13,
       "o": 74
+     },
+     {
+      "s": 3,
+      "d": 100,
+      "t": 119,
+      "da": 5,
+      "o": 98
      }
     ]
    },
