@@ -2,7 +2,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-26T09:59:08Z",
+  "visto": "2026-11-26T11:51:40Z",
   "stato": "inWar",
   "id": "20261124T223218.000Z",
   "inizio": "20261125T213218.000Z",
@@ -12,10 +12,10 @@
   "avversario": "clan family",
   "stelle": 23,
   "pc": 53.1,
-  "attacchi": 8,
-  "stelle_av": 0,
-  "pc_av": 0.0,
-  "attacchi_av": 0,
+  "attacchi": 9,
+  "stelle_av": 16,
+  "pc_av": 37.8,
+  "attacchi_av": 7,
   "stemma_av": "iuO1vfXLuwJ50oDnnMN5EK4NrptlJF5QYQJVbUEKhkM",
   "livello_av": 29,
   "player": [
@@ -24,7 +24,16 @@
     "tag": "#YJU8VVRY2",
     "pos": 1,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 2,
+      "d": 93,
+      "t": 180,
+      "pa": 1,
+      "th": 19,
+      "o": 13
+     }
+    ],
     "dif": []
    },
    {
@@ -92,7 +101,15 @@
       "o": 6
      }
     ],
-    "dif": []
+    "dif": [
+     {
+      "s": 2,
+      "d": 82,
+      "t": 147,
+      "da": 4,
+      "o": 12
+     }
+    ]
    },
    {
     "nome": "⚔️Trouble⚔️",
@@ -174,7 +191,15 @@
     "pos": 11,
     "th": 18,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 125,
+      "da": 12,
+      "o": 15
+     }
+    ]
    },
    {
     "nome": "Damiano2",
@@ -182,7 +207,22 @@
     "pos": 12,
     "th": 17,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 2,
+      "d": 85,
+      "t": 115,
+      "da": 14,
+      "o": 14
+     },
+     {
+      "s": 2,
+      "d": 80,
+      "t": 180,
+      "da": 12,
+      "o": 16
+     }
+    ]
    },
    {
     "nome": "Matteo93ktm",
@@ -190,7 +230,15 @@
     "pos": 13,
     "th": 17,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 112,
+      "da": 14,
+      "o": 11
+     }
+    ]
    },
    {
     "nome": "Giulia",
@@ -198,7 +246,15 @@
     "pos": 14,
     "th": 17,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 92,
+      "da": 10,
+      "o": 10
+     }
+    ]
    },
    {
     "nome": "Mast3rPlay 2nd",
@@ -206,14 +262,22 @@
     "pos": 15,
     "th": 16,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 94,
+      "da": 10,
+      "o": 9
+     }
+    ]
    }
   ]
  },
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-26T09:59:08Z",
+  "visto": "2026-11-26T11:51:40Z",
   "stato": "inWar",
   "id": "20261124T222802.000Z",
   "inizio": "20261125T212802.000Z",
@@ -221,12 +285,12 @@
   "dimensione": 35,
   "attacchi_per_player": 2,
   "avversario": "NorthPeople FR",
-  "stelle": 79,
-  "pc": 80.9,
-  "attacchi": 35,
-  "stelle_av": 79,
-  "pc_av": 79.2,
-  "attacchi_av": 34,
+  "stelle": 88,
+  "pc": 89.0,
+  "attacchi": 39,
+  "stelle_av": 83,
+  "pc_av": 81.5,
+  "attacchi_av": 36,
   "stemma_av": "NeIjlTh56SrtcvBabMsZ1sf44phMW3oqWcvoIJnasAc",
   "livello_av": 33,
   "player": [
@@ -370,7 +434,24 @@
     "tag": "#V9CPPV8G",
     "pos": 6,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 163,
+      "pa": 19,
+      "th": 19,
+      "o": 70
+     },
+     {
+      "s": 2,
+      "d": 88,
+      "t": 180,
+      "pa": 20,
+      "th": 19,
+      "o": 73
+     }
+    ],
     "dif": [
      {
       "s": 3,
@@ -411,6 +492,13 @@
       "t": 112,
       "da": 8,
       "o": 40
+     },
+     {
+      "s": 2,
+      "d": 70,
+      "t": 98,
+      "da": 13,
+      "o": 74
      }
     ]
    },
@@ -494,7 +582,15 @@
       "o": 16
      }
     ],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 125,
+      "da": 1,
+      "o": 72
+     }
+    ]
    },
    {
     "nome": "Cinghiale_32",
@@ -665,7 +761,16 @@
     "tag": "#VJRJUUVC",
     "pos": 20,
     "th": 19,
-    "att": [],
+    "att": [
+     {
+      "s": 2,
+      "d": 71,
+      "t": 156,
+      "pa": 25,
+      "th": 19,
+      "o": 71
+     }
+    ],
     "dif": [
      {
       "s": 2,
@@ -1015,7 +1120,16 @@
     "tag": "#QJG9URP8G",
     "pos": 33,
     "th": 18,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 146,
+      "pa": 28,
+      "th": 18,
+      "o": 75
+     }
+    ],
     "dif": [
      {
       "s": 3,
