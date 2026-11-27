@@ -254,14 +254,14 @@
    }
   },
   "2026-11": {
+   "Damiano": {
+    "lega": "Legend II",
+    "trofei": 463,
+    "clan": "I Subarubaracca"
+   },
    "PIER": {
     "lega": "Legend II",
     "trofei": 379,
-    "clan": "I Subarubaracca"
-   },
-   "Damiano": {
-    "lega": "Legend II",
-    "trofei": 359,
     "clan": "I Subarubaracca"
    },
    "Andrif94": {
@@ -299,6 +299,11 @@
     "trofei": 672,
     "clan": "I Subarubaracca"
    },
+   "Sandrone": {
+    "lega": "Legend III",
+    "trofei": 621,
+    "clan": "I Subarubaracca"
+   },
    "Andrea": {
     "lega": "Legend III",
     "trofei": 600,
@@ -316,17 +321,12 @@
    },
    "zelda": {
     "lega": "Legend III",
-    "trofei": 457,
-    "clan": "I Subarubaracca"
-   },
-   "Sandrone": {
-    "lega": "Legend III",
-    "trofei": 427,
+    "trofei": 484,
     "clan": "I Subarubaracca"
    },
    "Lam75": {
     "lega": "Legend III",
-    "trofei": 303,
+    "trofei": 335,
     "clan": "I Subarubaracca"
    },
    "Mal75": {
@@ -391,7 +391,12 @@
    },
    "Petos": {
     "lega": "Electro 33",
-    "trofei": 528,
+    "trofei": 568,
+    "clan": "I Subarubaracca"
+   },
+   "and66nav": {
+    "lega": "Electro 33",
+    "trofei": 454,
     "clan": "I Subarubaracca"
    },
    "THE KRAKEN2": {
@@ -484,14 +489,9 @@
     "trofei": 719,
     "clan": "LJMT"
    },
-   "and66nav": {
-    "lega": "Electro 33",
-    "trofei": 438,
-    "clan": "LJMT"
-   },
    "⚔️Trouble⚔️": {
     "lega": "Electro 33",
-    "trofei": 120,
+    "trofei": 130,
     "clan": "LJMT"
    },
    "⚔️Trouble-2⚔️": {
@@ -531,7 +531,7 @@
    },
    "Temistocle25": {
     "lega": "Titan 26",
-    "trofei": 63,
+    "trofei": 116,
     "clan": "LJMT"
    },
    "Giulia": {

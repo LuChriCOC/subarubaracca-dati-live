@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-27T11:46:24Z",
+ "aggiornato": "2026-11-27T14:14:07Z",
  "soglie": {
   "verde": 1.1,
   "arancione": 0.9
@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 107574,
+     "oro": 158096,
      "raid": 1,
-     "attacchi": 24,
-     "distretti": 11,
-     "player": 4
+     "attacchi": 35,
+     "distretti": 16,
+     "player": 7
     }
    ],
    "player": [
@@ -51,6 +51,16 @@
      "oro": 27352
     },
     {
+     "nome": "Petos",
+     "tag": "#9VVV0VP",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 25799
+    },
+    {
      "nome": "bupalo",
      "tag": "#L82QJY9Y9",
      "in": [
@@ -59,6 +69,26 @@
      "att": 6,
      "lim": 6,
      "oro": 24720
+    },
+    {
+     "nome": "poa",
+     "tag": "#9QJJJ0URU",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 4,
+     "lim": 6,
+     "oro": 18832
+    },
+    {
+     "nome": "Sandrone",
+     "tag": "#RLGJR8QY",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 1,
+     "lim": 6,
+     "oro": 5891
     }
    ],
    "assenti": [
@@ -171,24 +201,12 @@
      "tag": "#QQRQ9YGYQ"
     },
     {
-     "nome": "Petos",
-     "tag": "#9VVV0VP"
-    },
-    {
      "nome": "PIER",
      "tag": "#UUGJP0RL"
     },
     {
      "nome": "PigsKing32",
      "tag": "#2C2UJQCC"
-    },
-    {
-     "nome": "poa",
-     "tag": "#9QJJJ0URU"
-    },
-    {
-     "nome": "Sandrone",
-     "tag": "#RLGJR8QY"
     },
     {
      "nome": "SIMO03",
