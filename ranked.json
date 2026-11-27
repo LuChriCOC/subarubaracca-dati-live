@@ -256,7 +256,7 @@
   "2026-11": {
    "Damiano": {
     "lega": "Legend II",
-    "trofei": 591,
+    "trofei": 832,
     "clan": "I Subarubaracca"
    },
    "PIER": {
@@ -296,7 +296,7 @@
    },
    "Cinghiale32": {
     "lega": "Legend III",
-    "trofei": 672,
+    "trofei": 692,
     "clan": "I Subarubaracca"
    },
    "Sandrone": {
@@ -314,14 +314,14 @@
     "trofei": 527,
     "clan": "I Subarubaracca"
    },
+   "*,...,*": {
+    "lega": "Legend III",
+    "trofei": 527,
+    "clan": "I Subarubaracca"
+   },
    "zelda": {
     "lega": "Legend III",
     "trofei": 525,
-    "clan": "I Subarubaracca"
-   },
-   "*,...,*": {
-    "lega": "Legend III",
-    "trofei": 515,
     "clan": "I Subarubaracca"
    },
    "Lam75": {
@@ -441,12 +441,12 @@
    },
    "Hope": {
     "lega": "Electro 31",
-    "trofei": 767,
+    "trofei": 779,
     "clan": "I Subarubaracca"
    },
    "TEAM Γ GAMMA": {
     "lega": "Dragon 28",
-    "trofei": 416,
+    "trofei": 496,
     "clan": "I Subarubaracca"
    },
    "SIMO03": {
