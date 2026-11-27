@@ -256,12 +256,12 @@
   "2026-11": {
    "Damiano": {
     "lega": "Legend II",
-    "trofei": 463,
+    "trofei": 591,
     "clan": "I Subarubaracca"
    },
    "PIER": {
     "lega": "Legend II",
-    "trofei": 379,
+    "trofei": 401,
     "clan": "I Subarubaracca"
    },
    "Andrif94": {
@@ -271,7 +271,7 @@
    },
    "Don Arox": {
     "lega": "Legend III",
-    "trofei": 1112,
+    "trofei": 1142,
     "clan": "I Subarubaracca"
    },
    "TEAM ★ ALPHA": {
@@ -281,7 +281,7 @@
    },
    "• Roby D •": {
     "lega": "Legend III",
-    "trofei": 870,
+    "trofei": 887,
     "clan": "I Subarubaracca"
    },
    "mementomori": {
@@ -291,7 +291,7 @@
    },
    "Andrea ? ? ? ?": {
     "lega": "Legend III",
-    "trofei": 737,
+    "trofei": 749,
     "clan": "I Subarubaracca"
    },
    "Cinghiale32": {
@@ -314,14 +314,14 @@
     "trofei": 527,
     "clan": "I Subarubaracca"
    },
+   "zelda": {
+    "lega": "Legend III",
+    "trofei": 525,
+    "clan": "I Subarubaracca"
+   },
    "*,...,*": {
     "lega": "Legend III",
     "trofei": 515,
-    "clan": "I Subarubaracca"
-   },
-   "zelda": {
-    "lega": "Legend III",
-    "trofei": 484,
     "clan": "I Subarubaracca"
    },
    "Lam75": {
@@ -331,7 +331,7 @@
    },
    "Mal75": {
     "lega": "Legend III",
-    "trofei": 287,
+    "trofei": 297,
     "clan": "I Subarubaracca"
    },
    "Mast3rPlay": {
@@ -464,6 +464,11 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
+   "Giulia": {
+    "lega": "Titan 26",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
    "TEAM Σ SIGMA": {
     "lega": "Unranked",
     "trofei": 0,
@@ -532,11 +537,6 @@
    "Temistocle25": {
     "lega": "Titan 26",
     "trofei": 116,
-    "clan": "LJMT"
-   },
-   "Giulia": {
-    "lega": "Titan 26",
-    "trofei": 0,
     "clan": "LJMT"
    },
    "Bruno": {

@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-27T14:14:07Z",
+ "aggiornato": "2026-11-27T15:50:22Z",
  "soglie": {
   "verde": 1.1,
   "arancione": 0.9
@@ -12,10 +12,10 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 158096,
+     "oro": 163708,
      "raid": 1,
-     "attacchi": 35,
-     "distretti": 16,
+     "attacchi": 36,
+     "distretti": 17,
      "player": 7
     }
    ],
@@ -86,9 +86,9 @@
      "in": [
       "I Subarubaracca"
      ],
-     "att": 1,
+     "att": 2,
      "lim": 6,
-     "oro": 5891
+     "oro": 11503
     }
    ],
    "assenti": [
@@ -151,6 +151,10 @@
     {
      "nome": "GG",
      "tag": "#QC282Y9U9"
+    },
+    {
+     "nome": "Giulia",
+     "tag": "#2Q9QCUU9U"
     },
     {
      "nome": "Gladiatore",
