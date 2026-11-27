@@ -1,10 +1,27 @@
 {
- "aggiornato": "2026-11-23T22:19:00Z",
+ "aggiornato": "2026-11-27T08:22:27Z",
  "soglie": {
   "verde": 1.1,
   "arancione": 0.9
  },
  "weekend": [
+  {
+   "inizio": "20261127T070000.000Z",
+   "fine": "20261130T070000.000Z",
+   "stato": "ongoing",
+   "clan": [
+    {
+     "nome": "I Subarubaracca",
+     "oro": 0,
+     "raid": 0,
+     "attacchi": 0,
+     "distretti": 0,
+     "player": 0
+    }
+   ],
+   "player": [],
+   "assenti": []
+  },
   {
    "inizio": "20261120T070000.000Z",
    "fine": "20261123T070000.000Z",
