@@ -2,7 +2,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-27T20:44:51Z",
+  "visto": "2026-11-27T21:45:14Z",
   "stato": "preparation",
   "id": "20261126T225019.000Z",
   "inizio": "20261127T215019.000Z",
@@ -144,8 +144,8 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-27T20:44:51Z",
-  "stato": "preparation",
+  "visto": "2026-11-27T21:45:14Z",
+  "stato": "inWar",
   "id": "20261126T222402.000Z",
   "inizio": "20261127T212402.000Z",
   "fine": "20261128T212402.000Z",
@@ -155,9 +155,9 @@
   "stelle": 0,
   "pc": 0.0,
   "attacchi": 0,
-  "stelle_av": 0,
-  "pc_av": 0.0,
-  "attacchi_av": 0,
+  "stelle_av": 8,
+  "pc_av": 8.4,
+  "attacchi_av": 3,
   "stemma_av": "pRcBAbSvrNG3UCEKeDIQMMaXtTfRJZOoRh-xHWiospY",
   "livello_av": 28,
   "player": [
@@ -167,7 +167,15 @@
     "pos": 1,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 124,
+      "da": 1,
+      "o": 1
+     }
+    ]
    },
    {
     "nome": "Luma",
@@ -351,7 +359,15 @@
     "pos": 24,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 142,
+      "da": 13,
+      "o": 2
+     }
+    ]
    },
    {
     "nome": "*,...,*",
@@ -367,7 +383,15 @@
     "pos": 26,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 2,
+      "d": 95,
+      "t": 166,
+      "da": 13,
+      "o": 3
+     }
+    ]
    },
    {
     "nome": "TEAM Γ GAMMA",

@@ -291,7 +291,12 @@
    },
    "Andrea ? ? ? ?": {
     "lega": "Legend III",
-    "trofei": 765,
+    "trofei": 777,
+    "clan": "I Subarubaracca"
+   },
+   "Andrea": {
+    "lega": "Legend III",
+    "trofei": 755,
     "clan": "I Subarubaracca"
    },
    "Cinghiale32": {
@@ -299,24 +304,19 @@
     "trofei": 692,
     "clan": "I Subarubaracca"
    },
-   "Andrea": {
-    "lega": "Legend III",
-    "trofei": 689,
-    "clan": "I Subarubaracca"
-   },
    "Sandrone": {
     "lega": "Legend III",
     "trofei": 655,
     "clan": "I Subarubaracca"
    },
+   "LoRyXD16": {
+    "lega": "Legend III",
+    "trofei": 600,
+    "clan": "I Subarubaracca"
+   },
    "zelda": {
     "lega": "Legend III",
     "trofei": 565,
-    "clan": "I Subarubaracca"
-   },
-   "LoRyXD16": {
-    "lega": "Legend III",
-    "trofei": 556,
     "clan": "I Subarubaracca"
    },
    "*,...,*": {
@@ -326,7 +326,7 @@
    },
    "Lam75": {
     "lega": "Legend III",
-    "trofei": 378,
+    "trofei": 400,
     "clan": "I Subarubaracca"
    },
    "Mal75": {
@@ -399,14 +399,14 @@
     "trofei": 468,
     "clan": "I Subarubaracca"
    },
+   "THE KRAKEN2": {
+    "lega": "Electro 33",
+    "trofei": 464,
+    "clan": "I Subarubaracca"
+   },
    "il Greco": {
     "lega": "Electro 33",
     "trofei": 338,
-    "clan": "I Subarubaracca"
-   },
-   "THE KRAKEN2": {
-    "lega": "Electro 33",
-    "trofei": 315,
     "clan": "I Subarubaracca"
    },
    "ethan e noah": {
