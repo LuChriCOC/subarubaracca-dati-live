@@ -261,7 +261,7 @@
    },
    "PIER": {
     "lega": "Legend II",
-    "trofei": 401,
+    "trofei": 422,
     "clan": "I Subarubaracca"
    },
    "Andrif94": {
@@ -326,17 +326,17 @@
    },
    "Lam75": {
     "lega": "Legend III",
-    "trofei": 335,
+    "trofei": 367,
+    "clan": "I Subarubaracca"
+   },
+   "Mal75": {
+    "lega": "Legend III",
+    "trofei": 327,
     "clan": "I Subarubaracca"
    },
    "Mast3rPlay": {
     "lega": "Legend III",
     "trofei": 298,
-    "clan": "I Subarubaracca"
-   },
-   "Mal75": {
-    "lega": "Legend III",
-    "trofei": 297,
     "clan": "I Subarubaracca"
    },
    "MaChri": {
@@ -381,7 +381,7 @@
    },
    "THE KRAKEN": {
     "lega": "Electro 33",
-    "trofei": 846,
+    "trofei": 857,
     "clan": "I Subarubaracca"
    },
    "poa": {
@@ -415,11 +415,6 @@
     "clan": "I Subarubaracca"
    },
    "Andrif94 II": {
-    "lega": "Electro 33",
-    "trofei": 0,
-    "clan": "I Subarubaracca"
-   },
-   "GG": {
     "lega": "Electro 33",
     "trofei": 0,
     "clan": "I Subarubaracca"
@@ -497,6 +492,11 @@
    "⚔️Trouble⚔️": {
     "lega": "Electro 33",
     "trofei": 130,
+    "clan": "LJMT"
+   },
+   "GG": {
+    "lega": "Electro 33",
+    "trofei": 0,
     "clan": "LJMT"
    },
    "⚔️Trouble-2⚔️": {

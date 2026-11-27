@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-27T16:56:00Z",
+ "aggiornato": "2026-11-27T17:49:00Z",
  "soglie": {
   "verde": 1.1,
   "arancione": 0.9
@@ -12,14 +12,24 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 163708,
-     "raid": 2,
-     "attacchi": 36,
-     "distretti": 17,
-     "player": 7
+     "oro": 200128,
+     "raid": 3,
+     "attacchi": 44,
+     "distretti": 18,
+     "player": 9
     }
    ],
    "player": [
+    {
+     "nome": "poa",
+     "tag": "#9QJJJ0URU",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 29507
+    },
     {
      "nome": "and66nav",
      "tag": "#QJG9URP8G",
@@ -71,14 +81,24 @@
      "oro": 24720
     },
     {
-     "nome": "poa",
-     "tag": "#9QJJJ0URU",
+     "nome": "GG",
+     "tag": "#QC282Y9U9",
      "in": [
       "I Subarubaracca"
      ],
-     "att": 4,
+     "att": 3,
      "lim": 6,
-     "oro": 18832
+     "oro": 13895
+    },
+    {
+     "nome": "Giulia",
+     "tag": "#2Q9QCUU9U",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 3,
+     "lim": 5,
+     "oro": 11850
     },
     {
      "nome": "Sandrone",
@@ -147,14 +167,6 @@
     {
      "nome": "ethan e noah",
      "tag": "#JP9GP2PG"
-    },
-    {
-     "nome": "GG",
-     "tag": "#QC282Y9U9"
-    },
-    {
-     "nome": "Giulia",
-     "tag": "#2Q9QCUU9U"
     },
     {
      "nome": "Gladiatore",
