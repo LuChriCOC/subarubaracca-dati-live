@@ -259,6 +259,11 @@
     "trofei": 364,
     "clan": "I Subarubaracca"
    },
+   "Damiano": {
+    "lega": "Legend II",
+    "trofei": 334,
+    "clan": "I Subarubaracca"
+   },
    "Andrif94": {
     "lega": "Legend II",
     "trofei": 0,
@@ -291,7 +296,7 @@
    },
    "Cinghiale32": {
     "lega": "Legend III",
-    "trofei": 555,
+    "trofei": 672,
     "clan": "I Subarubaracca"
    },
    "LoRyXD16": {
@@ -304,14 +309,24 @@
     "trofei": 457,
     "clan": "I Subarubaracca"
    },
+   "*,...,*": {
+    "lega": "Legend III",
+    "trofei": 435,
+    "clan": "I Subarubaracca"
+   },
+   "Andrea": {
+    "lega": "Legend III",
+    "trofei": 401,
+    "clan": "I Subarubaracca"
+   },
    "Sandrone": {
     "lega": "Legend III",
     "trofei": 343,
     "clan": "I Subarubaracca"
    },
-   "Andrea": {
+   "Lam75": {
     "lega": "Legend III",
-    "trofei": 343,
+    "trofei": 303,
     "clan": "I Subarubaracca"
    },
    "Mal75": {
@@ -319,14 +334,9 @@
     "trofei": 287,
     "clan": "I Subarubaracca"
    },
-   "Lam75": {
-    "lega": "Legend III",
-    "trofei": 285,
-    "clan": "I Subarubaracca"
-   },
    "Mast3rPlay": {
     "lega": "Legend III",
-    "trofei": 250,
+    "trofei": 278,
     "clan": "I Subarubaracca"
    },
    "MaChri": {
@@ -409,6 +419,11 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
+   "GG": {
+    "lega": "Electro 33",
+    "trofei": 0,
+    "clan": "I Subarubaracca"
+   },
    "hummer": {
     "lega": "Electro 32",
     "trofei": 424,
@@ -431,7 +446,7 @@
    },
    "Hope": {
     "lega": "Electro 31",
-    "trofei": 756,
+    "trofei": 767,
     "clan": "I Subarubaracca"
    },
    "TEAM Γ GAMMA": {
@@ -464,11 +479,6 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
-   "Damiano": {
-    "lega": "Legend II",
-    "trofei": 281,
-    "clan": "LJMT"
-   },
    "Beast": {
     "lega": "Legend III",
     "trofei": 378,
@@ -476,17 +486,12 @@
    },
    "SAM": {
     "lega": "Electro 33",
-    "trofei": 700,
+    "trofei": 719,
     "clan": "LJMT"
    },
    "⚔️Trouble⚔️": {
     "lega": "Electro 33",
-    "trofei": 104,
-    "clan": "LJMT"
-   },
-   "GG": {
-    "lega": "Electro 33",
-    "trofei": 0,
+    "trofei": 120,
     "clan": "LJMT"
    },
    "⚔️Trouble-2⚔️": {
