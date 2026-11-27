@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-27T15:50:22Z",
+ "aggiornato": "2026-11-27T16:56:00Z",
  "soglie": {
   "verde": 1.1,
   "arancione": 0.9
@@ -13,7 +13,7 @@
     {
      "nome": "I Subarubaracca",
      "oro": 163708,
-     "raid": 1,
+     "raid": 2,
      "attacchi": 36,
      "distretti": 17,
      "player": 7
