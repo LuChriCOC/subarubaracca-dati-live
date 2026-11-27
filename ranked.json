@@ -276,7 +276,7 @@
    },
    "TEAM ★ ALPHA": {
     "lega": "Legend III",
-    "trofei": 949,
+    "trofei": 966,
     "clan": "I Subarubaracca"
    },
    "• Roby D •": {
@@ -291,7 +291,7 @@
    },
    "Andrea ? ? ? ?": {
     "lega": "Legend III",
-    "trofei": 749,
+    "trofei": 765,
     "clan": "I Subarubaracca"
    },
    "Cinghiale32": {
@@ -301,7 +301,7 @@
    },
    "Andrea": {
     "lega": "Legend III",
-    "trofei": 658,
+    "trofei": 689,
     "clan": "I Subarubaracca"
    },
    "Sandrone": {
@@ -311,12 +311,12 @@
    },
    "zelda": {
     "lega": "Legend III",
-    "trofei": 539,
+    "trofei": 565,
     "clan": "I Subarubaracca"
    },
    "LoRyXD16": {
     "lega": "Legend III",
-    "trofei": 527,
+    "trofei": 556,
     "clan": "I Subarubaracca"
    },
    "*,...,*": {
@@ -339,6 +339,11 @@
     "trofei": 298,
     "clan": "I Subarubaracca"
    },
+   "DarkHawk": {
+    "lega": "Legend III",
+    "trofei": 258,
+    "clan": "I Subarubaracca"
+   },
    "MaChri": {
     "lega": "Legend III",
     "trofei": 195,
@@ -347,11 +352,6 @@
    "AtTiTuDePrObLeM": {
     "lega": "Legend III",
     "trofei": 187,
-    "clan": "I Subarubaracca"
-   },
-   "DarkHawk": {
-    "lega": "Legend III",
-    "trofei": 162,
     "clan": "I Subarubaracca"
    },
    "PigsKing32": {
@@ -459,11 +459,6 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
-   "Giulia": {
-    "lega": "Titan 26",
-    "trofei": 0,
-    "clan": "I Subarubaracca"
-   },
    "TEAM Σ SIGMA": {
     "lega": "Unranked",
     "trofei": 0,
@@ -537,6 +532,11 @@
    "Temistocle25": {
     "lega": "Titan 26",
     "trofei": 116,
+    "clan": "LJMT"
+   },
+   "Giulia": {
+    "lega": "Titan 26",
+    "trofei": 0,
     "clan": "LJMT"
    },
    "Bruno": {
