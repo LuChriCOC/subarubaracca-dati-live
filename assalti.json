@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-27T18:44:21Z",
+ "aggiornato": "2026-11-27T19:50:02Z",
  "soglie": {
   "verde": 1.1,
   "arancione": 0.9
@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 230454,
+     "oro": 257533,
      "raid": 3,
-     "attacchi": 51,
-     "distretti": 20,
-     "player": 10
+     "attacchi": 57,
+     "distretti": 24,
+     "player": 12
     }
    ],
    "player": [
@@ -101,6 +101,16 @@
      "oro": 16455
     },
     {
+     "nome": "mementomori",
+     "tag": "#QQRQ9YGYQ",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 4,
+     "lim": 6,
+     "oro": 15785
+    },
+    {
      "nome": "GG",
      "tag": "#QC282Y9U9",
      "in": [
@@ -119,6 +129,16 @@
      "att": 2,
      "lim": 6,
      "oro": 11503
+    },
+    {
+     "nome": "Andrif94",
+     "tag": "#YPG8VVPL",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 2,
+     "lim": 6,
+     "oro": 11294
     }
    ],
    "assenti": [
@@ -137,10 +157,6 @@
     {
      "nome": "Andreableee",
      "tag": "#R8280LQU2"
-    },
-    {
-     "nome": "Andrif94",
-     "tag": "#YPG8VVPL"
     },
     {
      "nome": "Andrif94 II",
@@ -217,10 +233,6 @@
     {
      "nome": "Mast3rPlay",
      "tag": "#22088Y2Y8"
-    },
-    {
-     "nome": "mementomori",
-     "tag": "#QQRQ9YGYQ"
     },
     {
      "nome": "PIER",
