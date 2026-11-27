@@ -2,7 +2,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-27T22:46:18Z",
+  "visto": "2026-11-27T23:42:32Z",
   "stato": "inWar",
   "id": "20261126T225019.000Z",
   "inizio": "20261127T215019.000Z",
@@ -144,7 +144,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-27T22:46:18Z",
+  "visto": "2026-11-27T23:42:32Z",
   "stato": "inWar",
   "id": "20261126T222402.000Z",
   "inizio": "20261127T212402.000Z",
@@ -155,9 +155,9 @@
   "stelle": 3,
   "pc": 2.9,
   "attacchi": 1,
-  "stelle_av": 30,
-  "pc_av": 31.0,
-  "attacchi_av": 11,
+  "stelle_av": 33,
+  "pc_av": 33.8,
+  "attacchi_av": 12,
   "stemma_av": "pRcBAbSvrNG3UCEKeDIQMMaXtTfRJZOoRh-xHWiospY",
   "livello_av": 28,
   "player": [
@@ -295,7 +295,15 @@
     "pos": 13,
     "th": 19,
     "att": [],
-    "dif": []
+    "dif": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 126,
+      "da": 6,
+      "o": 13
+     }
+    ]
    },
    {
     "nome": "Cinghiale_32",

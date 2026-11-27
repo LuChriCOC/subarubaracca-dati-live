@@ -261,7 +261,7 @@
    },
    "PIER": {
     "lega": "Legend II",
-    "trofei": 422,
+    "trofei": 440,
     "clan": "I Subarubaracca"
    },
    "Andrif94": {
@@ -346,7 +346,7 @@
    },
    "MaChri": {
     "lega": "Legend III",
-    "trofei": 195,
+    "trofei": 220,
     "clan": "I Subarubaracca"
    },
    "AtTiTuDePrObLeM": {
@@ -386,7 +386,7 @@
    },
    "poa": {
     "lega": "Electro 33",
-    "trofei": 707,
+    "trofei": 735,
     "clan": "I Subarubaracca"
    },
    "Petos": {
@@ -459,6 +459,11 @@
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
+   "Temistocle25": {
+    "lega": "Titan 26",
+    "trofei": 116,
+    "clan": "I Subarubaracca"
+   },
    "TEAM Σ SIGMA": {
     "lega": "Unranked",
     "trofei": 0,
@@ -527,11 +532,6 @@
    "milk": {
     "lega": "Titan 27",
     "trofei": 0,
-    "clan": "LJMT"
-   },
-   "Temistocle25": {
-    "lega": "Titan 26",
-    "trofei": 116,
     "clan": "LJMT"
    },
    "Giulia": {
