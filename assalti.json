@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-27T09:56:11Z",
+ "aggiornato": "2026-11-27T11:46:24Z",
  "soglie": {
   "verde": 1.1,
   "arancione": 0.9
@@ -12,14 +12,24 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 52241,
-     "raid": 0,
-     "attacchi": 12,
-     "distretti": 5,
-     "player": 2
+     "oro": 107574,
+     "raid": 1,
+     "attacchi": 24,
+     "distretti": 11,
+     "player": 4
     }
    ],
    "player": [
+    {
+     "nome": "and66nav",
+     "tag": "#QJG9URP8G",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 27981
+    },
     {
      "nome": "bupalo2",
      "tag": "#LUPU8GJ9L",
@@ -29,6 +39,16 @@
      "att": 6,
      "lim": 6,
      "oro": 27521
+    },
+    {
+     "nome": "Andrea ? ? ? ?",
+     "tag": "#2VJ0LG80",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 27352
     },
     {
      "nome": "bupalo",
@@ -51,16 +71,8 @@
      "tag": "#PGV0VJ9C9"
     },
     {
-     "nome": "and66nav",
-     "tag": "#QJG9URP8G"
-    },
-    {
      "nome": "Andrea",
      "tag": "#RPPUJJGU"
-    },
-    {
-     "nome": "Andrea ? ? ? ?",
-     "tag": "#2VJ0LG80"
     },
     {
      "nome": "Andreableee",
