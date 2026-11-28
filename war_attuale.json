@@ -2,7 +2,7 @@
  "LJMT": {
   "clan": "LJMT",
   "tag": "#2R2L22YU2",
-  "visto": "2026-11-28T15:37:13Z",
+  "visto": "2026-11-28T16:38:46Z",
   "stato": "inWar",
   "id": "20261126T225019.000Z",
   "inizio": "20261127T215019.000Z",
@@ -10,9 +10,9 @@
   "dimensione": 15,
   "attacchi_per_player": 2,
   "avversario": "Dwerkulators",
-  "stelle": 24,
-  "pc": 58.2,
-  "attacchi": 12,
+  "stelle": 26,
+  "pc": 59.9,
+  "attacchi": 13,
   "stelle_av": 26,
   "pc_av": 64.2,
   "attacchi_av": 12,
@@ -162,7 +162,16 @@
     "tag": "#QJL9P9P",
     "pos": 6,
     "th": 18,
-    "att": [],
+    "att": [
+     {
+      "s": 3,
+      "d": 100,
+      "t": 170,
+      "pa": 7,
+      "th": 18,
+      "o": 25
+     }
+    ],
     "dif": [
      {
       "s": 3,
@@ -341,7 +350,7 @@
  "I Subarubaracca": {
   "clan": "I Subarubaracca",
   "tag": "#2Q9208QQV",
-  "visto": "2026-11-28T15:37:13Z",
+  "visto": "2026-11-28T16:38:46Z",
   "stato": "inWar",
   "id": "20261126T222402.000Z",
   "inizio": "20261127T212402.000Z",
@@ -353,8 +362,8 @@
   "pc": 100.0,
   "attacchi": 50,
   "stelle_av": 97,
-  "pc_av": 95.8,
-  "attacchi_av": 50,
+  "pc_av": 95.9,
+  "attacchi_av": 52,
   "stemma_av": "pRcBAbSvrNG3UCEKeDIQMMaXtTfRJZOoRh-xHWiospY",
   "livello_av": 28,
   "player": [
@@ -500,6 +509,13 @@
       "t": 180,
       "da": 7,
       "o": 94
+     },
+     {
+      "s": 0,
+      "d": 0,
+      "t": 180,
+      "da": 4,
+      "o": 102
      }
     ]
    },
@@ -958,6 +974,13 @@
       "t": 92,
       "da": 17,
       "o": 73
+     },
+     {
+      "s": 2,
+      "d": 66,
+      "t": 72,
+      "da": 4,
+      "o": 101
      }
     ]
    },

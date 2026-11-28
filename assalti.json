@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-28T15:37:14Z",
+ "aggiornato": "2026-11-28T16:38:47Z",
  "soglie": {
   "verde": 1.1,
   "arancione": 0.9
@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 755190,
+     "oro": 775540,
      "raid": 8,
-     "attacchi": 174,
-     "distretti": 67,
-     "player": 33
+     "attacchi": 180,
+     "distretti": 69,
+     "player": 34
     }
    ],
    "player": [
@@ -261,6 +261,16 @@
      "oro": 21216
     },
     {
+     "nome": "PetoKappa",
+     "tag": "#GRJ90UY2U",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 20350
+    },
+    {
      "nome": "♦️CIP♥️",
      "tag": "#V80C88G2",
      "in": [
@@ -407,10 +417,6 @@
     {
      "nome": "Luma-3",
      "tag": "#GQP8U8UC9"
-    },
-    {
-     "nome": "PetoKappa",
-     "tag": "#GRJ90UY2U"
     },
     {
      "nome": "PIER",
