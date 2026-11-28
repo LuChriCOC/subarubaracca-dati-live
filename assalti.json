@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-28T11:39:48Z",
+ "aggiornato": "2026-11-28T13:55:34Z",
  "soglie": {
   "verde": 1.1,
   "arancione": 0.9
@@ -12,14 +12,24 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 582961,
-     "raid": 6,
-     "attacchi": 134,
-     "distretti": 53,
-     "player": 26
+     "oro": 697855,
+     "raid": 8,
+     "attacchi": 159,
+     "distretti": 63,
+     "player": 30
     }
    ],
    "player": [
+    {
+     "nome": "THE KRAKEN3",
+     "tag": "#GC9QQV9CV",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 33121
+    },
     {
      "nome": "THE KRAKEN",
      "tag": "#9JV82UV8",
@@ -39,6 +49,16 @@
      "att": 6,
      "lim": 6,
      "oro": 31366
+    },
+    {
+     "nome": "THE KRAKEN2",
+     "tag": "#QGQYR999P",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 29913
     },
     {
      "nome": "poa",
@@ -89,6 +109,16 @@
      "att": 6,
      "lim": 6,
      "oro": 27352
+    },
+    {
+     "nome": "GG",
+     "tag": "#QC282Y9U9",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 26814
     },
     {
      "nome": "il Greco",
@@ -149,6 +179,16 @@
      "att": 6,
      "lim": 6,
      "oro": 23597
+    },
+    {
+     "nome": "Mast3rPlay",
+     "tag": "#22088Y2Y8",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 23535
     },
     {
      "nome": "Giulia",
@@ -231,14 +271,14 @@
      "oro": 15960
     },
     {
-     "nome": "GG",
-     "tag": "#QC282Y9U9",
+     "nome": "Mast3rPlay 2nd",
+     "tag": "#2L8YY9JY2",
      "in": [
       "I Subarubaracca"
      ],
-     "att": 3,
+     "att": 4,
      "lim": 6,
-     "oro": 13895
+     "oro": 15406
     },
     {
      "nome": "Mal75",
@@ -299,6 +339,10 @@
      "tag": "#CCUVGGV9"
     },
     {
+     "nome": "Beast",
+     "tag": "#Q2JCV890C"
+    },
+    {
      "nome": "Cinghiale32",
      "tag": "#8U2VYJ80"
     },
@@ -335,10 +379,6 @@
      "tag": "#GQP8U8UC9"
     },
     {
-     "nome": "Mast3rPlay",
-     "tag": "#22088Y2Y8"
-    },
-    {
      "nome": "PetoKappa",
      "tag": "#GRJ90UY2U"
     },
@@ -365,10 +405,6 @@
     {
      "nome": "TEAM ★ ALPHA",
      "tag": "#GRRGQGPJ"
-    },
-    {
-     "nome": "THE KRAKEN2",
-     "tag": "#QGQYR999P"
     },
     {
      "nome": "• Roby D •",
