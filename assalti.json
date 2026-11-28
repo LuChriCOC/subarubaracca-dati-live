@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-28T09:43:13Z",
+ "aggiornato": "2026-11-28T11:39:48Z",
  "soglie": {
   "verde": 1.1,
   "arancione": 0.9
@@ -12,14 +12,24 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 481826,
-     "raid": 5,
-     "attacchi": 110,
-     "distretti": 44,
-     "player": 22
+     "oro": 582961,
+     "raid": 6,
+     "attacchi": 134,
+     "distretti": 53,
+     "player": 26
     }
    ],
    "player": [
+    {
+     "nome": "THE KRAKEN",
+     "tag": "#9JV82UV8",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 31876
+    },
     {
      "nome": "Andrif94",
      "tag": "#YPG8VVPL",
@@ -39,6 +49,16 @@
      "att": 6,
      "lim": 6,
      "oro": 29507
+    },
+    {
+     "nome": "Andrea",
+     "tag": "#RPPUJJGU",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 29443
     },
     {
      "nome": "and66nav",
@@ -141,6 +161,16 @@
      "oro": 23125
     },
     {
+     "nome": "Davide",
+     "tag": "#9CYLG928",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 22706
+    },
+    {
      "nome": "zelda",
      "tag": "#2JRC9Y9LP",
      "in": [
@@ -171,6 +201,16 @@
      "oro": 21216
     },
     {
+     "nome": "♦️CIP♥️",
+     "tag": "#V80C88G2",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 5,
+     "lim": 6,
+     "oro": 20306
+    },
+    {
      "nome": "Temistocle25",
      "tag": "#8CVG2UJC",
      "in": [
@@ -181,14 +221,14 @@
      "oro": 19822
     },
     {
-     "nome": "Davide",
-     "tag": "#9CYLG928",
+     "nome": "Bruno",
+     "tag": "#2Y020CY2R",
      "in": [
       "I Subarubaracca"
      ],
-     "att": 5,
+     "att": 6,
      "lim": 6,
-     "oro": 19156
+     "oro": 15960
     },
     {
      "nome": "GG",
@@ -249,10 +289,6 @@
     {
      "nome": "Alby_38",
      "tag": "#PGV0VJ9C9"
-    },
-    {
-     "nome": "Andrea",
-     "tag": "#RPPUJJGU"
     },
     {
      "nome": "Andreableee",
@@ -331,10 +367,6 @@
      "tag": "#GRRGQGPJ"
     },
     {
-     "nome": "THE KRAKEN",
-     "tag": "#9JV82UV8"
-    },
-    {
      "nome": "THE KRAKEN2",
      "tag": "#QGQYR999P"
     },
@@ -345,10 +377,6 @@
     {
      "nome": "☠️☠️IT☠️☠️FF",
      "tag": "#YU8YURG2Y"
-    },
-    {
-     "nome": "♦️CIP♥️",
-     "tag": "#V80C88G2"
     }
    ]
   },
