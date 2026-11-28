@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-27T23:42:32Z",
+ "aggiornato": "2026-11-28T05:49:47Z",
  "soglie": {
   "verde": 1.1,
   "arancione": 0.9
@@ -199,10 +199,6 @@
     {
      "nome": "Cinghiale_32",
      "tag": "#GPCG8PRRG"
-    },
-    {
-     "nome": "Damiano",
-     "tag": "#YJU8VVRY2"
     },
     {
      "nome": "DarkHawk",
