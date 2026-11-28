@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-28T13:55:34Z",
+ "aggiornato": "2026-11-28T15:37:14Z",
  "soglie": {
   "verde": 1.1,
   "arancione": 0.9
@@ -12,11 +12,11 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 697855,
+     "oro": 755190,
      "raid": 8,
-     "attacchi": 159,
-     "distretti": 63,
-     "player": 30
+     "attacchi": 174,
+     "distretti": 67,
+     "player": 33
     }
    ],
    "player": [
@@ -211,6 +211,16 @@
      "oro": 22706
     },
     {
+     "nome": "Mast3rPlay 2nd",
+     "tag": "#2L8YY9JY2",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 22266
+    },
+    {
      "nome": "zelda",
      "tag": "#2JRC9Y9LP",
      "in": [
@@ -219,6 +229,16 @@
      "att": 6,
      "lim": 6,
      "oro": 22175
+    },
+    {
+     "nome": "SAM",
+     "tag": "#80CPYL90Y",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 21730
     },
     {
      "nome": "Lam75",
@@ -261,6 +281,16 @@
      "oro": 19822
     },
     {
+     "nome": "⚔️Trouble⚔️",
+     "tag": "#GLVLQ0U8C",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 4,
+     "lim": 6,
+     "oro": 16730
+    },
+    {
      "nome": "Bruno",
      "tag": "#2Y020CY2R",
      "in": [
@@ -271,14 +301,14 @@
      "oro": 15960
     },
     {
-     "nome": "Mast3rPlay 2nd",
-     "tag": "#2L8YY9JY2",
+     "nome": "⚔️Trouble-2⚔️",
+     "tag": "#GQ08LJYC2",
      "in": [
       "I Subarubaracca"
      ],
-     "att": 4,
+     "att": 3,
      "lim": 6,
-     "oro": 15406
+     "oro": 12015
     },
     {
      "nome": "Mal75",

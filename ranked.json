@@ -256,7 +256,7 @@
   "2026-11": {
    "PIER": {
     "lega": "Legend II",
-    "trofei": 502,
+    "trofei": 517,
     "clan": "I Subarubaracca"
    },
    "Andrif94": {
@@ -279,14 +279,14 @@
     "trofei": 1000,
     "clan": "I Subarubaracca"
    },
+   "mementomori": {
+    "lega": "Legend III",
+    "trofei": 925,
+    "clan": "I Subarubaracca"
+   },
    "• Roby D •": {
     "lega": "Legend III",
     "trofei": 920,
-    "clan": "I Subarubaracca"
-   },
-   "mementomori": {
-    "lega": "Legend III",
-    "trofei": 911,
     "clan": "I Subarubaracca"
    },
    "Andrea": {
@@ -302,6 +302,11 @@
    "Andrea ? ? ? ?": {
     "lega": "Legend III",
     "trofei": 805,
+    "clan": "I Subarubaracca"
+   },
+   "DarkHawk": {
+    "lega": "Legend III",
+    "trofei": 720,
     "clan": "I Subarubaracca"
    },
    "Cinghiale32": {
@@ -321,12 +326,7 @@
    },
    "*,...,*": {
     "lega": "Legend III",
-    "trofei": 621,
-    "clan": "I Subarubaracca"
-   },
-   "DarkHawk": {
-    "lega": "Legend III",
-    "trofei": 583,
+    "trofei": 647,
     "clan": "I Subarubaracca"
    },
    "Beast": {
@@ -344,14 +344,14 @@
     "trofei": 436,
     "clan": "I Subarubaracca"
    },
+   "Broccolo FF": {
+    "lega": "Legend III",
+    "trofei": 404,
+    "clan": "I Subarubaracca"
+   },
    "Mal75": {
     "lega": "Legend III",
     "trofei": 386,
-    "clan": "I Subarubaracca"
-   },
-   "Broccolo FF": {
-    "lega": "Legend III",
-    "trofei": 377,
     "clan": "I Subarubaracca"
    },
    "MaChri": {
@@ -419,6 +419,11 @@
     "trofei": 387,
     "clan": "I Subarubaracca"
    },
+   "⚔️Trouble⚔️": {
+    "lega": "Electro 33",
+    "trofei": 130,
+    "clan": "I Subarubaracca"
+   },
    "ethan e noah": {
     "lega": "Electro 33",
     "trofei": 0,
@@ -431,7 +436,7 @@
    },
    "hummer": {
     "lega": "Electro 32",
-    "trofei": 664,
+    "trofei": 736,
     "clan": "I Subarubaracca"
    },
    "Gladiatore": {
@@ -454,13 +459,8 @@
     "trofei": 799,
     "clan": "I Subarubaracca"
    },
-   "♦️CIP♥️": {
-    "lega": "Dragon 30",
-    "trofei": 605,
-    "clan": "I Subarubaracca"
-   },
-   "Mast3rPlay 2nd": {
-    "lega": "Dragon 29",
+   "⚔️Trouble-2⚔️": {
+    "lega": "Electro 31",
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
@@ -471,16 +471,11 @@
    },
    "SIMO03": {
     "lega": "Dragon 28",
-    "trofei": 184,
+    "trofei": 196,
     "clan": "I Subarubaracca"
    },
    "Alby_38": {
     "lega": "Dragon 28",
-    "trofei": 0,
-    "clan": "I Subarubaracca"
-   },
-   "Bruno": {
-    "lega": "Titan 26",
     "trofei": 0,
     "clan": "I Subarubaracca"
    },
@@ -501,7 +496,7 @@
    },
    "Damiano": {
     "lega": "Legend II",
-    "trofei": 890,
+    "trofei": 901,
     "clan": "LJMT"
    },
    "SAM": {
@@ -509,19 +504,14 @@
     "trofei": 728,
     "clan": "LJMT"
    },
-   "⚔️Trouble⚔️": {
-    "lega": "Electro 33",
-    "trofei": 130,
-    "clan": "LJMT"
-   },
    "GG": {
     "lega": "Electro 33",
     "trofei": 0,
     "clan": "LJMT"
    },
-   "⚔️Trouble-2⚔️": {
-    "lega": "Electro 31",
-    "trofei": 0,
+   "♦️CIP♥️": {
+    "lega": "Dragon 30",
+    "trofei": 605,
     "clan": "LJMT"
    },
    "Pierone11": {
@@ -531,6 +521,11 @@
    },
    "THE KRAKEN3": {
     "lega": "Dragon 30",
+    "trofei": 0,
+    "clan": "LJMT"
+   },
+   "Mast3rPlay 2nd": {
+    "lega": "Dragon 29",
     "trofei": 0,
     "clan": "LJMT"
    },
@@ -550,6 +545,11 @@
     "clan": "LJMT"
    },
    "Giulia": {
+    "lega": "Titan 26",
+    "trofei": 0,
+    "clan": "LJMT"
+   },
+   "Bruno": {
     "lega": "Titan 26",
     "trofei": 0,
     "clan": "LJMT"
