@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-28T05:49:47Z",
+ "aggiornato": "2026-11-28T08:08:18Z",
  "soglie": {
   "verde": 1.1,
   "arancione": 0.9
@@ -12,10 +12,10 @@
    "clan": [
     {
      "nome": "I Subarubaracca",
-     "oro": 338374,
+     "oro": 343805,
      "raid": 4,
-     "attacchi": 77,
-     "distretti": 30,
+     "attacchi": 79,
+     "distretti": 32,
      "player": 15
     }
    ],
@@ -121,6 +121,16 @@
      "oro": 23125
     },
     {
+     "nome": "mementomori",
+     "tag": "#QQRQ9YGYQ",
+     "in": [
+      "I Subarubaracca"
+     ],
+     "att": 6,
+     "lim": 6,
+     "oro": 21216
+    },
+    {
      "nome": "Temistocle25",
      "tag": "#8CVG2UJC",
      "in": [
@@ -129,16 +139,6 @@
      "att": 6,
      "lim": 6,
      "oro": 19822
-    },
-    {
-     "nome": "mementomori",
-     "tag": "#QQRQ9YGYQ",
-     "in": [
-      "I Subarubaracca"
-     ],
-     "att": 4,
-     "lim": 6,
-     "oro": 15785
     },
     {
      "nome": "GG",
